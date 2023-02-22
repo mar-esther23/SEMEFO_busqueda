@@ -1,3 +1,7 @@
+# Folders
+data_raw/*
+data_clean/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
