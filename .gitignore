@@ -1,6 +1,7 @@
 # Folders
 data_raw/*
 data_clean/*
+profiles/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
