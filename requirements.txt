@@ -1,0 +1,14 @@
+jupyterlab 
+
+numpy
+pandas
+openpyxl
+
+matplotlib
+seaborn
+
+unidecode
+thefuzz[speedup]
+wibblywobbly
+
+ydata-profiling
