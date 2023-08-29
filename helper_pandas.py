@@ -243,7 +243,7 @@ def profile_by_categorical_column(df, file_out, target_col, min_rows=10, title=N
         title_ = '{}/n{}: {}'.format(title, target_col, k)
         profile_minimal(df_, file_out_, title_, force, **kwargs)
 
-def top_values_of_series_to_string(series, n_top=5, normalize=True, round_digits=4, sep=', '):
+def top_values_of_series_to_string(series, n_top=5, normalize=False, round_digits=4, sep=', '):
     top_values = series.value_counts(normalize=normalize, dropna=False).head(n_top)
     if normalize: top_values = top_values.round(round_digits)
     top_values = top_values.to_dict()
