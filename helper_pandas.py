@@ -13,18 +13,16 @@ def flatten_list(regular_list):
     return [item for sublist in regular_list for item in sublist]
 
 
-def simplify_string(text, str_case='lower'):
+def simplify_string(text, str_case='lower', remove_special=False):
     """Simplify a string to remove special characters, double spaces and use lower case."""
     if type(text)==str:
-        if str_case=='lower':
-            text = text.lower()
-        elif str_case=='upper':
-            text = text.upper()
-        else:
-            text = text.capitalize()
+        if str_case=='lower':  text = text.lower()
+        elif str_case=='upper':  text = text.upper()
+        elif str_case=='capitalize':  text = text.capitalize()
         text = ' '.join([t for t in text.split()])
         text = unidecode(text)
-        text = resub(r"[^a-zA-Z0-9]+", ' ', text)
+        if remove_special:
+            text = resub(r"[^a-zA-Z0-9]+", ' ', text)
         text = ' '.join([t for t in text.split()]) #paranoia
     return text
 
@@ -67,20 +65,31 @@ def failures_cast_to_type(i, dtype=int):
     return nan
 
 
-def astype_and_separate_error(series, astype_function, suffix_success="_astype", suffix_error="_error", **kwargs):
+def to_dtype_with_errors(df, col, dtype='numeric', suffix='clean', replace_dict={'S-D':nan}, **kwargs):
     """
     Casts series astype and creates a column with succeses and an other with failures.
     
     Examples
     --------
-    >>> astype_and_separate_error(df['Age'], pd.to_numeric, suffix_success='_int', downcast='integer')
-    >>> astype_and_separate_error(df['Date'], pd.to_datetime, suffix_success='_date', format='%d/%m/%Y')
+    >>> df = to_datetime_with_errors(df, 'Fecha', dtype='datetime')
+    >>> df = to_dtype_with_errors(df, 'Edad', dtype='numeric', downcast='integer')
     """
-    series_success = astype_function(series, errors='coerce', **kwargs)
-    series_error = series.where(series_success.isna())
-    df_astype = pd.concat([series_success,series_error],axis=1)
-    df_astype.columns = [series.name+suffix_success, series.name+suffix_error]
-    return df_astype
+    # convert
+    dat = df[col].replace(replace_dict)
+    if dtype=='numeric':
+        dat_clean = pd.to_numeric(dat, errors='coerce', **kwargs)
+    elif dtype=='datetime':
+        dat_clean = pd.to_datetime(dat, errors='coerce', **kwargs)
+    else: return df
+    # errors
+    dat_error = dat.isna() != dat_clean.isna()
+    dat_error = dat.where(dat_error)
+    # insert after col
+    index = df.columns.get_loc(col)
+    df.insert(index+1, col+'_'+suffix, dat_clean)
+    df.insert(index+2, col+'_error', dat_error)
+    return df
+
 
 ## String
 def join_strings_with_nans(l, sep=' '):

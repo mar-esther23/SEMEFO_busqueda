@@ -1,4 +1,5 @@
-jupyterlab 
+jupyterlab
+ydata-profiling
 
 numpy
 pandas
@@ -10,5 +11,3 @@ seaborn
 unidecode
 thefuzz[speedup]
 wibblywobbly
-
-ydata-profiling
