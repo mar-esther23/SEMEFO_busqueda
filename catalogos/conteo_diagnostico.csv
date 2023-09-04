@@ -1,0 +1,2704 @@
+valor,freq,lower,equi,equi_low,herida,comun
+TM,7990,tm,TM,TM,,TM
+TCE,6881,tce,TCE,TCE,,TCE
+BN,5082,bn,BN,BN,,BN
+CVG,1445,cvg,CVG,CVG,,CVG
+CH,1409,ch,CH,CH,,CH
+TCT,1264,tct,TCT,TCT,,TCT
+LOC,1029,loc,LOC,LOC,,LOC
+AOVA,881,aova,AOVA,AOVA,,AOVA
+HPAFPC,841,hpafpc,HPAFPC,HPAFPC,HPAF,HPAFPC
+Dispensa,828,dispensa,,DISPENSA,,DISPENSA
+PN,757,pn,PN,PN,,PN
+Quemaduras,754,quemaduras,,QUEM,,QUEM
+HPAFPT,615,hpafpt,HPAFPT,HPAFPT,HPAF,HPAFPT
+Quem,565,quem,,QUEM,,QUEM
+ASB,557,asb,ASB,ASB,,ASB
+AA,549,aa,AXA,AXA,,
+HC,542,hc,HC,HC,,HC
+TTA,515,tta,TTA,TTA,,TTA
+AQxT,505,aqxt,,AQXT,,AQXT
+TMI,441,tmi,TMI,TMI,,TM
+ANN,406,ann,ANEN,ANEN,,
+TA,401,ta,TA,TA,,
+TT,372,tt,TT,TT,,
+N,344,n,N,N,,
+HPAFP,335,hpafp,HPAFP,HPAFP,HPAF,
+TB,333,tb,TB,TB,,
+TCA,314,tca,TCA,TCA,,
+HPAFPA,286,hpafpa,HPAFPA,HPAFPA,HPAF,
+ExpPSM,260,exppsm,,EX PSM,,
+S,253,s,septicemia,septicemia,,
+HPAF,230,hpaf,HPAF,HPAF,HPAF,
+HIPCPT,185,hipcpt,HIPCPT,HIPCPT,HIPC,
+TP,172,tp,TP,TP,,
+HsPAFPs,169,hspafps,,HSPAFP,HPAF,
+TCTA,168,tcta,TCTA,TCTA,,TCT
+TAP,161,tap,TAP,TAP,,
+Electrocución,156,electrocucion,,ELECTROCUCION,,
+TC,148,tc,TCERV,TCERV,,
+AE,142,ae,AE,AE,,
+EP,140,ep,EP,EP,,
+TCF,127,tcf,TCF,TCF,,
+TCP,126,tcp,TCAP,TCAP,,
+HPAFPTA,108,hpafpta,HPAFPTA,HPAFPTA,HPAF,HPAFPT
+AOxT,106,aoxt,,AQXT,,
+ANEN,103,anen,ANEN,ANEN,,
+Exp. PSM,98,exp psm,,EX PSM,,
+Per,98,per,,PER,,
+EX PSM,97,ex psm,EX PSM,EX PSM,,
+AS,93,as,ASF,ASF,,
+AN,92,an,AN,AN,,
+TCCerv,90,tccerv,,TCC,,
+HPA,89,hpa,HPAF,HPAF,,
+C,88,c,CH,CH,,
+B,85,b,B,B,,
+EC,85,ec,EC,EC,,
+VE,83,ve,VE,VE,,
+TCCer,82,tccer,,TCC,,
+Dispensan,81,dispensan,,DISPENSA,,DISPENSA
+Exp PSM,80,exp psm,,EX PSM,,
+An,72,an,,AN,,
+HIPCP,72,hipcp,HIPC,HIPC,HIPC,
+ENT,70,ent,ENT,ENT,,
+TCET,69,tcet,TCET,TCET,,TCE
+HIPCPA,68,hipcpa,HIPCPA,HIPCPA,HIPC,
+TTP,66,ttp,TTP,TTP,,
+Ent,65,ent,,ENT,,
+HsPAFPsTA,63,hspafpsta,,HSPAFPSTA,HPAF,
+TCCM,60,tccm,TCCM,TCCM,,
+Pancreatitis,57,pancreatitis,,PANCREATITIS,,
+HsPAFPsT,56,hspafpst,,HSPAFPST,HPAF,
+TCerMed,53,tcermed,,TCCM,,TCE
+Indeterminable,51,indeterminable,,INDETERMINADO,,
+HsIPCPs,50,hsipcps,,HSIPCPS,HIPC,
+HIPC,49,hipc,HIPC,HIPC,HIPC,
+AQT,48,aqt,AQXT,AQXT,,
+TTAP,48,ttap,TTAP,TTAP,,TTA
+TCerv,46,tcerv,,TCERV,,TCE
+P,45,p,P,P,,
+TCC,44,tcc,TCC,TCC,,
+BNT,40,bnt,BN,BN,,BN
+TCM,40,tcm,TCM,TCM,,
+Gangrena,39,gangrena,,GANG,,
+A,38,a,,,,
+TCCerMed,37,tccermed,,TCCM,,
+CVY,36,cvy,CVY,CVY,,
+TMsIs,36,tmsis,,TMIS,,TM
+TCAP,35,tcap,TCAP,TCAP,,
+HsIPCPsT,34,hsipcpst,,HSIPCPST,HIPC,
+Tb,34,tb,,TB,,
+HIPCPTA,34,hipcpta,HIPCPTA,HIPCPTA,HIPC,
+CL,32,cl,CL,CL,,
+HsPAF,31,hspaf,,HSPA,HPAF,
+TCer,31,tcer,,TCERV,,TCE
+T,31,t,T,T,,
+HsPA,30,hspa,,HSPA,,
+Indeterminado,30,indeterminado,,INDETERMINADO,,
+AxA,29,axa,,AXA,,AXA
+HIPcPT,29,hipcpt,,HIPCPT,HIPC,
+AT,29,at,AT,AT,,
+A NE N,29,a ne n,ANEN,ANEN,,
+EOC,28,eoc,LOC,LOC,,
+SH,28,sh,SH,SH,,
+TMS,28,tms,TMS,TMS,,TM
+Intox,27,intox,,INTOX,,
+E,27,e,E,E,,
+Aborto,26,aborto,,ABORTO,,
+Gang,26,gang,,GANG,,
+FCPN,25,fcpn,FCPN,FCPN,,PN
+TCEA,25,tcea,TCEA,TCEA,,TCE
+QUemaduras,25,quemaduras,,QUEM,,QUEM
+Meningitis,24,meningitis,,MENINGITIS,,
+HsPAFPsC,24,hspafpsc,,HSPAFPC,HPAF,
+QUEMADURAS,23,quemaduras,QUEM,QUEM,,QUEM
+HsIPCPsTA,22,hsipcpsta,,HSIPCPSTA,HIPC,
+PER,22,per,PER,PER,,
+BBNT,22,bbnt,BN,BN,,BN
+CS,20,cs,,,,
+HPPAFPT,20,hppafpt,HPAFPT,HPAFPT,,
+L,20,l,,,,
+HIP,19,hip,HIP,HIP,,
+HsIPC,19,hsipc,,HSIP,HIPC,
+HPAP,18,hpap,HPAFP,HPAFP,,
+TCTP,18,tctp,TCTP,TCTP,,TCT
+TCCT,18,tcct,TCCT,TCCT,,
+Bn,18,bn,,BN,,BN
+HPPAFPC,18,hppafpc,HPAFPC,HPAFPC,,
+ASF,18,asf,ASF,ASF,,
+CA,17,ca,,,,
+PTE,17,pte,PTE,PTE,,
+CQ,16,cq,,,,
+AH,16,ah,AXA,AXA,,
+Gastroenteritis,16,gastroenteritis,,GASTROENTERITIS,,
+G,16,g,GANG,GANG,,
+HPPAFP,16,hppafp,HPAFP,HPAFP,,
+A. NE. N,15,a ne n,,ANEN,,
+BB,15,bb,,,,
+Enteritis,15,enteritis,,ENT,,
+HIPCPC,15,hipcpc,HIPCPC,HIPCPC,HIPC,
+HPAFPTyA,15,hpafptya,,HPAFPTA,HPAF,HPAFPT
+IP,14,ip,IP,IP,,
+ExpPMS,14,exppms,,EX PSM,,
+HsPAFP,13,hspafp,,HSPAFP,HPAF,
+EnT,13,ent,,ENT,,
+M,12,m,,,,
+AOV,12,aov,,,,
+HPAFPV,12,hpafpv,HPAFPV,HPAFPV,HPAF,
+No copias Xoco,12,no copias xoco,,NO COPIAS XOCO,,
+TRM,11,trm,,,,
+HsPsAFPs,11,hspsafps,,HSPAFP,,
+Desnutrición,11,desnutricion,,DESNUT,,
+TCervMed,11,tcervmed,,TCM,,TCE
+HsPAFPsA,11,hspafpsa,,HSPAFPSA,HPAF,
+TMIs,11,tmis,,TMIS,,TM
+Quemadura,11,quemadura,,QUEM,,QUEM
+AQ,11,aq,AQ,AQ,,
+HsPAFPC,11,hspafpc,,HSPAFPC,HPAF,
+AxAH,11,axah,,AXA,,AXA
+TCRM,11,tcrm,TCRM,TCRM,,
+TCCerT,11,tccert,,TCCT,,
+TCEP,10,tcep,,,,TCE
+IA,10,ia,IA,IA,,
+T M,10,t m,TM,TM,,
+Cisticercosis,10,cisticercosis,,CISTICERCOSIS,,
+Desnut,10,desnut,,DESNUT,,
+EH,10,eh,,,,
+HPCPT,10,hpcpt,,,,
+TCerM,10,tcerm,,TCCM,,TCE
+HsIP,10,hsip,,HSIP,,
+ANOXIA,9,anoxia,ANOXIA,ANOXIA,,
+HPPAFPTA,9,hppafpta,,,,
+HsIPcPs,9,hsipcps,,HSIPCPS,HIPC,
+HIPcPA,9,hipcpa,,HIPCPA,HIPC,
+TCEF,9,tcef,,,,TCE
+TCCerM,9,tccerm,,,,
+HPAFPCuello,9,hpafpcuello,,,HPAF,HPAFPC
+AQxQuem,8,aqxquem,,,,QUEM
+HPAFPE,8,hpafpe,,,HPAF,
+Trombosis,8,trombosis,,TROMBOSIS,,
+HPAFPR,8,hpafpr,,,HPAF,
+Anencefalia,8,anencefalia,ANENCEFALIA,ANENCEFALIA,,
+InTox,8,intox,,INTOX,,
+Mening,8,mening,MENING,MENING,,
+HsPAFPsCT,8,hspafpsct,,,HPAF,
+En,8,en,,,,
+TCTAP,8,tctap,TCTAP,TCTAP,,TCT
+Electrocutado,8,electrocutado,,ELECTROCUCION,,
+Anoxia,8,anoxia,,ANOXIA,,
+HsPAFPT,8,hspafpt,,,HPAF,
+MP,8,mp,MP,MP,,
+HIPCPV,8,hipcpv,HIPCPV,HIPCPV,HIPC,
+Villa,8,villa,,VILLA,,
+LOC Inf Miocardio,7,loc inf miocardio,,LOC INF MIOCARDIO,,LOC
+HE,7,he,HE,HE,,
+Septicemia,7,septicemia,,septicemia,,
+HIC,7,hic,,,,
+HPIPCPT,7,hpipcpt,HPAFPT,HPAFPT,,
+Peritonitis,7,peritonitis,,PER,,
+AxS,7,axs,,,,
+HPAFPI,7,hpafpi,,,HPAF,
+Intox CO2,7,intox co2,,INTOX CO2,,
+InfPul,7,infpul,,,,
+MI,7,mi,,,,
+HPAFPTV,7,hpafptv,,,HPAF,HPAFPT
+I,7,i,I,I,,
+Indet,7,indet,,,,
+BxTCE,7,bxtce,,,,TCE
+A.NEO.N,7,a neo n,,,,
+CUY,7,cuy,,,,
+TQT,7,tqt,,,,
+BxCQ,7,bxcq,,,,
+bn,7,bn,,BN,,BN
+AxBA,7,axba,,,,
+DIspensa,6,dispensa,,DISPENSA,,DISPENSA
+Inf,6,inf,INF,INF,,
+CG,6,cg,CG,CG,,
+Bronco,6,bronco,BRONCO,BRONCO,,
+?,6,,S-D,,,
+HI,6,hi,,,,
+Enter,6,enter,ENTER,ENTER,,
+HPAFC,6,hpafc,,,HPAF,
+Necrosis,6,necrosis,,NECROSIS,,
+Intoxicación,6,intoxicacion,,INTOX,,
+TPyMsIs,6,tpymsis,,,,
+AO,6,ao,,,,
+TMs,6,tms,,TMS,,TM
+ECEP,6,ecep,ECEP,ECEP,,
+electrocución,6,electrocucion,,ELECTROCUCION,,
+¿?,6,,,,,
+Infección,6,infeccion,,,,
+TEC,6,tec,,,,
+HsIPCpsTA,6,hsipcpsta,,HSIPCPSTA,HIPC,
+CV,6,cv,,,,
+TE,6,te,,,,
+TCETA,6,tceta,,,,TCE
+TPA,6,tpa,,,,
+HPAEPC,6,hpaepc,,,,
+BnoT,6,bnot,,,,BN
+TCervical,5,tcervical,,TCERV,,TCE
+TCerT,5,tcert,,TCCT,,TCE
+TCEyMI,5,tceymi,,,,TCE
+HICC,5,hicc,,,,
+MsIs,5,msis,,,,
+Electroc,5,electroc,,,,
+Enterocolitis,5,enterocolitis,,,,
+HIPCPs,5,hipcps,,,HIPC,
+Men,5,men,,,,
+Inf Pul,5,inf pul,,,,
+CT,5,ct,,,,
+gangrena,5,gangrena,,GANG,,
+PL,5,pl,PL,PL,,
+H,5,h,,,,
+TMsI,5,tmsi,,,,TM
+Gastritis,5,gastritis,,,,
+TCCA,5,tcca,TCCA,TCCA,,
+Apendicitis,5,apendicitis,,,,
+Electrocusión,5,electrocusion,,,,
+AQxGang,5,aqxgang,,,,
+Hidrocefalia,5,hidrocefalia,,,,
+HCNT,5,hcnt,,,,HC
+ANEON,5,aneon,ANEN,ANEN,,
+CSG,5,csg,,,,
+HPIPCPA,4,hpipcpa,,,,
+IM,4,im,,,,
+Ms,4,ms,,,,
+TR,4,tr,,,,
+HsPIPCPs,4,hspipcps,,,,
+HsPsAFPsT,4,hspsafpst,,HSPAFPST,,
+Hs.PAFPsTA,4,hs pafpsta,,,,
+QUEMAduras,4,quemaduras,,QUEM,,QUEM
+TCCE,4,tcce,,,,
+B N,4,b n,,,,
+Quem.,4,quem,,QUEM,,QUEM
+AxBroncoaspiración,4,axbroncoaspiracion,,AXBRONCOASPIRACION,,
+NBNT,4,nbnt,,,,BN
+Dispensa Rep,4,dispensa rep,,,,DISPENSA
+PanH,4,panh,,,,
+IVG,4,ivg,,,,
+Encefalitis,4,encefalitis,,,,
+AAxHE,4,aaxhe,,,,
+UE,4,ue,,,,
+TCEyT,4,tceyt,TCEYT,TCEYT,,TCE
+HICCPC,4,hiccpc,,,,
+AQxQuemaduras,4,aqxquemaduras,,,,QUEM
+CE,4,ce,,,,
+GH,4,gh,,,,
+Pielonefritis,4,pielonefritis,PIELONEFRITIS,PIELONEFRITIS,,
+HsPPAFPT,4,hsppafpt,,,,
+BM,4,bm,,,,
+Inf. Miocardio LOC,4,inf miocardio loc,,,,LOC
+HsCs,4,hscs,,,,
+HPAFPTAN,4,hpafptan,,,HPAF,HPAFPT
+PANCREATITIS,4,pancreatitis,PANCREATITIS,PANCREATITIS,,
+TPC,4,tpc,,,,
+TCEyA,4,tceya,,,,TCE
+AxOVASPA,4,axovaspa,,,,
+LOC Inf. Miocar,4,loc inf miocar,,,,LOC
+TF,4,tf,,,,
+HsIPcPsTA,4,hsipcpsta,,HSIPCPSTA,HIPC,
+BNCH,4,bnch,,,,BN
+CPT,4,cpt,,,,
+Isquemia,4,isquemia,,,,QUEM
+AOxQuem,4,aoxquem,,,,QUEM
+TCuello,4,tcuello,,,,
+TN,4,tn,,,,
+AQMI,4,aqmi,AQMI,AQMI,,
+AOVAS,4,aovas,AOVAS,AOVAS,,AOVA
+HsPsAFPsC,4,hspsafpsc,,,,
+TCE y MI,4,tce y mi,,,,TCE
+Intox Med,4,intox med,INTOX MED,INTOX MED,,
+Hepatitis,4,hepatitis,,,,
+Xoco,4,xoco,,,,
+CC,4,cc,,,,
+AXAH,4,axah,AXA,AXA,,AXA
+ABORTO,4,aborto,ABORTO,ABORTO,,
+SHHV,4,shhv,,,,
+HsPsAFPCTA,4,hspsafpcta,,,,
+CUG,4,cug,CUG,CUG,,
+HsPAFPsTC,4,hspafpstc,,,HPAF,
+HIPCCuello,4,hipccuello,,,HIPC,
+ENTEROCOLITIS,4,enterocolitis,,,,
+IV,3,iv,,,,
+AxE,3,axe,,,,
+HIPcPCuello,3,hipcpcuello,,,HIPC,
+HPIPCPC,3,hpipcpc,HPIPCPC,HPIPCPC,,
+HPAFPCRaq,3,hpafpcraq,,,HPAF,HPAFPC
+Exp P,3,exp p,,,,
+EPSM,3,epsm,EPSM,EPSM,,
+TCI,3,tci,,,,
+No copias xoco,3,no copias xoco,,NO COPIAS XOCO,,
+TCR,3,tcr,,,,
+BNB,3,bnb,BNB,BNB,,BN
+PBxTCE,3,pbxtce,,,,TCE
+TMP,3,tmp,,,,TM
+IAA,3,iaa,,,,
+TMIS,3,tmis,TMIS,TMIS,,TM
+TPyMI,3,tpymi,,,,
+HsIPCPS,3,hsipcps,,HSIPCPS,HIPC,
+QUEM,3,quem,QUEM,QUEM,,QUEM
+BNxTMI,3,bnxtmi,BNXTMI,BNXTMI,,TM
+ASE,3,ase,ASE,ASE,,
+Osteo,3,osteo,,,,
+BN CH,3,bn ch,,,,BN
+EpxPSM,3,epxpsm,,,,
+Ulcera Péptica,3,ulcera peptica,,,,
+Gastroent,3,gastroent,,GASTROENT,,
+Pn,3,pn,,PN,,PN
+HsIPCs,3,hsipcs,,,HIPC,
+Diabetes,3,diabetes,,,,
+TCEyMS,3,tceyms,,,,TCE
+HCC,3,hcc,,,,HC
+Pericarditis,3,pericarditis,,,,
+T.Cerv,3,t cerv,,,,
+Gang.,3,gang,,GANG,,
+Inf.,3,inf,,INF,,
+AQxGangrena,3,aqxgangrena,,,,
+AQxHPAF,3,aqxhpaf,,,HPAF,
+TCCorv,3,tccorv,,,,
+TEE,3,tee,,,,
+Oclusión Intestinal,3,oclusion intestinal,,,,
+HsPsAFPTA,3,hspsafpta,,,,
+HIPcP,3,hipcp,,HIPC,HIPC,
+TCECer,3,tcecer,,,,TCE
+TRaq,3,traq,,,,
+Coma Hepático,3,coma hepatico,,,,
+LOC Inf. Miocardio,3,loc inf miocardio,,LOC INF MIOCARDIO,,LOC
+HIPc,3,hipc,,HIPC,HIPC,
+HsP,3,hsp,,,,
+Int,3,int,,,,
+ME,3,me,,,,
+No copias,3,no copias,,,,
+Inanición,3,inanicion,,,,
+PNT,3,pnt,,,,PN
+TCMed,3,tcmed,,,,
+HPPAFPA,3,hppafpa,,,,
+HIPcPTyA,3,hipcptya,,,HIPC,
+HPATPA,3,hpatpa,,,,
+PBNT,3,pbnt,,,,BN
+TTE,3,tte,,,,
+bN,3,bn,,BN,,BN
+D,3,d,,,,
+TRMed,3,trmed,,,,
+HPHFPC,3,hphfpc,,,,
+TCCero,3,tccero,,,,
+AQx Infección,3,aqx infeccion,,,,
+HsPAFPsCTA,3,hspafpscta,,,HPAF,
+HsPAFPTA,3,hspafpta,,,HPAF,
+Traumática,3,traumatica,,,,
+HsIPCsPs,3,hsipcsps,,,HIPC,
+MEN,3,men,,,,
+Infarto Cerebral,3,infarto cerebral,,,,
+Intox CO2 M,3,intox co2 m,,,,
+AQx,3,aqx,,,,
+TCCerA,3,tccera,,,,
+TC. Cerv.,3,tc cerv,,,,
+Elect,3,elect,,,,
+DISpensa,3,dispensa,,DISPENSA,,DISPENSA
+AnPostParto,3,anpostparto,,,,
+HsIPCPT,3,hsipcpt,,,HIPC,
+InfPulmonar,3,infpulmonar,,,,
+Ulcera,3,ulcera,,,,
+HPFPC,3,hpfpc,HPFPC,HPFPC,,
+Disp,3,disp,DISP,DISP,,
+HPPA,3,hppa,,,,
+HsIPCsPsTA,3,hsipcspsta,,,HIPC,
+CHVE,3,chve,,,,CH
+ATMI,3,atmi,,,,TM
+Aborto Séptico,3,aborto septico,ABORTO + S,ABORTO + S,,
+TOE,3,toe,,,,
+CRG,3,crg,CRG,CRG,,
+ELEC,3,elec,,,,
+ELECTROCUCIÓN,3,electrocucion,,ELECTROCUCION,,
+CHsPPAF,3,chsppaf,,,,CH
+HPPAF,3,hppaf,,,,
+Br,3,br,,,,
+TTyMI,3,ttymi,,,,
+Hemoptisis,3,hemoptisis,,,,
+MT,3,mt,MT,MT,,
+HPIPC,3,hpipc,,,,
+ABA,3,aba,ABORTO,ABORTO,,
+HPATPC,3,hpatpc,,,,
+HPAFPTP,3,hpafptp,,,HPAF,HPAFPT
+Desmutrición,2,desmutricion,,,,
+TAPyMsInEs,2,tapymsines,,,,
+HsPAFPS,2,hspafps,,HSPAFP,HPAF,
+HsIPPs,2,hsipps,,,,
+HIPcPTA,2,hipcpta,,HIPCPTA,HIPC,
+V,2,v,,,,
+BN Electrocución,2,bn electrocucion,,,,BN
+LOC INF MIOCARDIO,2,loc inf miocardio,LOC INF MIOCARDIO,LOC INF MIOCARDIO,,LOC
+InToxicación,2,intoxicacion,,INTOX,,
+AQxNecrosis,2,aqxnecrosis,,,,
+HPIPCPOA,2,hpipcpoa,,,,
+Pancreatitis Hem,2,pancreatitis hem,,,,
+HCAM,2,hcam,HCAM,HCAM,,HC
+HIPCPTxA,2,hipcptxa,,,HIPC,
+GangrenaxT,2,gangrenaxt,,,,
+BBnoT,2,bbnot,,,,BN
+AOVR,2,aovr,,,,
+HDAFPT,2,hdafpt,,,,
+BxTMP,2,bxtmp,,,,TM
+TCEyH,2,tceyh,,,,TCE
+QVY,2,qvy,,,,
+HsPAFPsCC,2,hspafpscc,,,HPAF,
+TPM,2,tpm,,,,
+Infarto Pul,2,infarto pul,,,,
+CPA,2,cpa,,,,
+ANEURISMA,2,aneurisma,,ANEURISMA,,
+HEM,2,hem,HEM,HEM,,
+T.Cuello,2,t cuello,,,,
+ExpP,2,expp,,,,
+Pe,2,pe,,,,
+HsIPcPsTy,2,hsipcpsty,,,HIPC,
+AXA,2,axa,AXA,AXA,,AXA
+HIPCH,2,hipch,,,HIPC,CH
+AQM,2,aqm,AQM,AQM,,
+Inf. pulmonar,2,inf pulmonar,,,,
+Ulceras,2,ulceras,,ULCERAS,,
+FD,2,fd,FD,FD,,
+EM,2,em,EM,EM,,
+TCEAP,2,tceap,,,,TCE
+SHS,2,shs,,,,
+CM,2,cm,,,,
+LVC,2,lvc,,,,
+Ch,2,ch,,CH,,CH
+C Quemaduras,2,c quemaduras,,,,QUEM
+HIPCPCer,2,hipcpcer,,,HIPC,
+Inf. Pulmonar,2,inf pulmonar,,,,
+Hipoxia,2,hipoxia,,,,
+Perf Int,2,perf int,,,,
+CR,2,cr,,,,
+TC Cerv,2,tc cerv,,,,
+HsIPcPsT,2,hsipcpst,,HSIPCPST,HIPC,
+T Cerv Med,2,t cerv med,,,,
+Lesiones Vasc,2,lesiones vasc,,,,
+No Copias Xoco,2,no copias xoco,,NO COPIAS XOCO,,
+HsPAPs,2,hspaps,,,,
+CO,2,co,,,,
+HsPAEPsC,2,hspaepsc,,,,
+HPAFCuello,2,hpafcuello,,,HPAF,
+HsPAFPcTA,2,hspafpcta,,,HPAF,
+BNEC,2,bnec,,,,BN
+HTB TM,2,htb tm,,,,TM
+AAxHIE,2,aaxhie,,,,
+HPAPC,2,hpapc,,,,
+TVI,2,tvi,,,,
+AQ G,2,aq g,,,,
+HC TyCH,2,hc tych,,,,CH
+RT,2,rt,,,,
+HIPPA,2,hippa,,,,
+Pelviperitonitis,2,pelviperitonitis,,,,
+Infartos Pulmonares,2,infartos pulmonares,,,,
+BNTB,2,bntb,,,,BN
+LO,2,lo,,,,
+TTR,2,ttr,,,,
+HsI Pe Ps T,2,hsi pe ps t,,,,
+HPC,2,hpc,,,,
+Abceso Cerebral,2,abceso cerebral,,,,
+PernoT,2,pernot,,,,
+LOC Inf miocardio,2,loc inf miocardio,,LOC INF MIOCARDIO,,LOC
+Electro,2,electro,,,,
+CPTP,2,cptp,,,,
+Pionefrosis,2,pionefrosis,,,,
+Broncoaspiración,2,broncoaspiracion,,,,
+TP y MI,2,tp y mi,,,,
+CPTA,2,cpta,,,,
+MsIns,2,msins,,,,
+TCer Med,2,tcer med,,,,TCE
+TCFCM,2,tcfcm,,,,
+HPAHPTA,2,hpahpta,,,,
+TdeCuello,2,tdecuello,,,,
+IPA,2,ipa,,,,
+AQx?,2,aqx,,,,
+HPAF Cuello,2,hpaf cuello,,,HPAF,
+HIPPC,2,hippc,,,,
+HTBTM,2,htbtm,,,,TM
+AAxT,2,aaxt,,,,
+HsIPCP,2,hsipcp,,,HIPC,
+HPAFPRaq,2,hpafpraq,,,HPAF,
+IntoxA,2,intoxa,,,,
+PTE.,2,pte,,PTE,,
+Entero,2,entero,,,,
+Gastroente,2,gastroente,,,,
+BN LOC,2,bn loc,,,,BN
+QuemBN,2,quembn,,,,BN
+IPM,2,ipm,,,,
+HPAFPP,2,hpafpp,,,HPAF,
+Aborto Sep,2,aborto sep,ABORTO + S,ABORTO + S,,
+HsIPCPsA,2,hsipcpsa,,,HIPC,
+TCerMyT,2,tcermyt,,,,TCE
+Infarto al miocardio,2,infarto al miocardio,,,,
+HsPAFPA,2,hspafpa,,,HPAF,
+T C E,2,t c e,,,,
+HH,2,hh,,,,
+-,2,,S-D,,,
+TMsInfs,2,tmsinfs,,,,TM
+Perf Intest,2,perf intest,,,,
+CA Páncreas,2,ca pancreas,,,,
+HIPOP,2,hipop,,,,
+Tetanos,2,tetanos,,,,
+LOC Inf,2,loc inf,,,,LOC
+No copia Xoco,2,no copia xoco,,,,
+AQxT Gangrena,2,aqxt gangrena,,,,AQXT
+HSB,2,hsb,,,,
+HPAFPMI,2,hpafpmi,,,HPAF,
+HPAFPTyV,2,hpafptyv,HPAFPTYV,HPAFPTYV,HPAF,HPAFPT
+Elec,2,elec,,,,
+IAC,2,iac,,,,
+Intox Es,2,intox es,,,,
+TMIBN,2,tmibn,,,,TM
+InfMiocardio,2,infmiocardio,,,,
+EV,2,ev,,,,
+TCEC,2,tcec,,,,TCE
+AQxDiabetes,2,aqxdiabetes,,,,
+PerxT,2,perxt,,,,
+HIPPT,2,hippt,,,,
+AQx Quem.,2,aqx quem,,,,QUEM
+Insuf Resp,2,insuf resp,,,,
+TBCH,2,tbch,,,,CH
+[Ilegible],2,ilegible,,ILEGIBLE,,
+QUEmaduras,2,quemaduras,,QUEM,,QUEM
+IntoxAlcoholica,2,intoxalcoholica,,,,
+InAxGases,2,inaxgases,,,,
+TCFT,2,tcft,,,,
+AQxD,2,aqxd,,,,
+TMsSs,2,tmsss,,,,TM
+HPAFPT y A,2,hpafpt y a,,,HPAF,HPAFPT
+Inf miocardio,2,inf miocardio,,INF MIOCARDIO,,
+HIPcPs,2,hipcps,,,HIPC,
+OVAS,2,ovas,,,,
+INT MED,2,int med,INT MED,INT MED,,
+HsPIPC,2,hspipc,,,,
+Ilegible,2,ilegible,,ILEGIBLE,,
+Tumor Cerebral,2,tumor cerebral,,,,
+Ente,2,ente,,,,
+HsIPPsTA,2,hsippsta,,,,
+No copias HTB,2,no copias htb,,,,
+S-d,2,s d,,,,
+HsPPAFPC,2,hsppafpc,,,,
+HP,2,hp,,,,
+TCCMA,2,tccma,TCCMA,TCCMA,,
+tce,2,tce,,TCE,,TCE
+asb,2,asb,,ASB,,ASB
+BBNOT,2,bbnot,,,,BN
+BB no T,2,bb no t,,,,
+Tumor,2,tumor,TUMOR,TUMOR,,
+Absceso Pulmonar,2,absceso pulmonar,,,,
+HPAFT,2,hpaft,,,HPAF,
+CHAN,2,chan,,,,CH
+Accidente vascular c,2,accidente vascular c,,,,
+Arterioesclerosis,2,arterioesclerosis,,,,
+AXE,2,axe,,,,
+Hem,2,hem,,HEM,,
+Absceso Cerebral,2,absceso cerebral,,,,
+RetPlac,2,retplac,,,,
+TCAT,2,tcat,,,,
+TPB,2,tpb,,,,
+EPA,2,epa,,,,
+TCB,2,tcb,,,,
+DESNUT,2,desnut,DESNUT,DESNUT,,
+HPTPCPT,2,hptpcpt,,,,
+Des,2,des,,,,
+HEPATITIS,2,hepatitis,,,,
+EAP,2,eap,,,,
+HSPAF,2,hspaf,HSPA,HSPA,HPAF,
+HsIPCPs TA,2,hsipcps ta,,,HIPC,
+HPAEP,2,hpaep,,,,
+Diagnóstico no se ve completo,2,diagnostico no se ve completo,,,,
+EA,2,ea,EA,EA,,
+AQxMachac,2,aqxmachac,,,,CH
+Intox Quim,2,intox quim,,,,
+T Cuello,2,t cuello,,,,
+AQxt,2,aqxt,,AQXT,,AQXT
+AQxHIPC,2,aqxhipc,,,HIPC,
+BA,2,ba,,,,
+CVE,2,cve,,,,
+EC y EP,2,ec y ep,,,,
+necrosis,2,necrosis,,NECROSIS,,
+TTC,2,ttc,TTC,TTC,,
+Menin,2,menin,MENIN,MENIN,,
+INTOX,2,intox,INTOX,INTOX,,
+AIU,2,aiu,,,,
+AnoxiaFetal,2,anoxiafetal,,,,
+HsPAFPcC,2,hspafpcc,,,HPAF,
+Neumonia,2,neumonia,,,,
+HPAFP CUELLO,2,hpafp cuello,,,HPAF,
+HPIPCT,2,hpipct,,,,
+ANNEN,2,annen,,,,
+HPAFPCR,2,hpafpcr,,,HPAF,HPAFPC
+INDETERMINABLE,2,indeterminable,INDETERMINADO,INDETERMINADO,,
+Inmadurez,2,inmadurez,,,,
+Electrofulguración,2,electrofulguracion,,,,
+ASA,2,asa,,,,
+HsPAP,2,hspap,,,,
+HxPAFPC,2,hxpafpc,,,,
+BBNoT,2,bbnot,,,,BN
+AQx isquemia,2,aqx isquemia,,,,QUEM
+AQxTgangrena,2,aqxtgangrena,,,,AQXT
+HsPsAFPTyA,2,hspsafptya,,,,
+BNxT,2,bnxt,,,,BN
+AOxElectrocución,2,aoxelectrocucion,,,,
+TCETP,2,tcetp,,,,TCE
+EC EP,2,ec ep,,,,
+HPHF,2,hphf,,,,
+Inf Miocardio,2,inf miocardio,INF MIOCARDIO,INF MIOCARDIO,,
+HsPsAFPT,2,hspsafpt,,,,
+AL,2,al,,,,
+BBxCQ,2,bbxcq,,,,
+PB,2,pb,,,,
+TBP,2,tbp,,,,
+HPIP,2,hpip,,,,
+AQxGangre,2,aqxgangre,,,,
+T.Cerv.,2,t cerv,,,,
+TBC,2,tbc,,,,
+Gastrointeritis,2,gastrointeritis,,,,
+Nec,2,nec,,,,
+HsPAFPsTyV,2,hspafpstyv,,,HPAF,
+Osteomelitis,2,osteomelitis,,,,
+GASTROENTERITIS,2,gastroenteritis,GASTROENTERITIS,GASTROENTERITIS,,
+ANxVE,2,anxve,ANXVE,ANXVE,,
+HIPCPTV,2,hipcptv,,,HIPC,
+PA,2,pa,,,,
+T Cerv,2,t cerv,,,,
+IMC,1,imc,,,,
+Uleras=A,1,uleras a,,,,
+TCETHI,1,tcethi,,,,TCE
+HPAFPTg,1,hpafptg,,,HPAF,HPAFPT
+TVer,1,tver,,,,
+TMy Electrocusión,1,tmy electrocusion,,,,TM
+Px HIPCPT,1,px hipcpt,,,HIPC,
+Emt,1,emt,,,,
+Intoxicación Acido muriatico,1,intoxicacion acido muriatico,,,,
+HPAFPyT,1,hpafpyt,,,HPAF,
+TRME,1,trme,,,,
+HAxHPAP,1,haxhpap,,,,
+"HPAFPA ""postas""",1,hpafpa postas,,,HPAF,
+HsIPc Ps,1,hsipc ps,,,HIPC,
+TTP yMID,1,ttp ymid,,,,
+"""TETANOS""",1,tetanos,,,,
+MC,1,mc,,,,
+PancreaTiTis,1,pancreatitis,,PANCREATITIS,,
+TGA,1,tga,,,,
+Desro,1,desro,,,,
+broncoaspiración,1,broncoaspiracion,,,,
+Quema,1,quema,,,,QUEM
+Abortyo,1,abortyo,,,,
+InToxicación c/RATICIDA,1,intoxicacion c raticida,,,,
+Hemogastrica,1,hemogastrica,,,,
+HsPsHFPs,1,hspshfps,,,,
+HPAF c/1 Tronco braqui,1,hpaf c 1 tronco braqui,,,HPAF,
+TCE Cer M,1,tce cer m,,,,TCE
+ano Imperforado,1,ano imperforado,,,,
+gangrena gaseosa,1,gangrena gaseosa,,,,
+QH,1,qh,,,,
+BNTCE,1,bntce,,,,TCE
+HsPIPcPsT,1,hspipcpst,,,,
+CVGEC,1,cvgec,,,,CVG
+AxBRONCOASPIRACIÓN,1,axbroncoaspiracion,,AXBRONCOASPIRACION,,
+To Raquis,1,to raquis,,,,
+IPM PANCREATITIS CVG,1,ipm pancreatitis cvg,,,,CVG
+HPAFR,1,hpafr,,,HPAF,
+InTox con RaTicidA,1,intox con raticida,,,,
+HIPc PTyA,1,hipc ptya,,,HIPC,
+Ax COMPRESIÓN DE CUELLO,1,ax compresion de cuello,,,,
+HsTPCs,1,hstpcs,,,,
+AxH,1,axh,,,,
+TTCERVICAL,1,ttcervical,,,,TCE
+AnxHemUTo,1,anxhemuto,,,,
+P-BN,1,p bn,,,,BN
+HO,1,ho,,,,
+Infartos ps Cerebro,1,infartos ps cerebro,INFARTOS PS CEREBRO,INFARTOS PS CEREBRO,,
+Intox por Raticida,1,intox por raticida,,,,
+TTPyMI,1,ttpymi,,,,
+TA y Cerv,1,ta y cerv,,,,
+TCCer Med,1,tccer med,,,,
+AxBRONCOASPIRA,1,axbroncoaspira,,,,
+HPBFPTA,1,hpbfpta,,,,
+TMC,1,tmc,,,,TM
+AN AOVA,1,an aova,,,,AOVA
+Hx yafPA,1,hx yafpa,,,,
+"""Quemaduras",1,quemaduras,,QUEM,,QUEM
+To M,1,to m,,,,
+TC Raque Mec,1,tc raque mec,,,,
+HE nó T,1,he no t,,,,
+BN INFECCIÓN UTERINA,1,bn infeccion uterina,,,,BN
+Piel,1,piel,,,,
+HsPsAFPsHgP,1,hspsafpshgp,,,,
+LdC,1,ldc,,,,
+Bx,1,bx,,,,
+HIPCs,1,hipcs,,,HIPC,
+HIPcPMI,1,hipcpmi,,,HIPC,
+TM EN MsIs,1,tm en msis,,,,TM
+AAxHsPsAFP,1,aaxhspsafp,,,,
+AOVA y ASB,1,aova y asb,,,,AOVA
+InFCerebral,1,infcerebral,,,,
+AAxHPAF,1,aaxhpaf,,,HPAF,
+TAyMIIzq,1,taymiizq,,,,
+CSxTMI,1,csxtmi,,,,TM
+TCEy MI,1,tcey mi,,,,TCE
+CANS,1,cans,,,,
+UMI,1,umi,,,,
+Ax Bc Asp,1,ax bc asp,,,,
+Coma Hepatico IIA,1,coma hepatico iia,,,,
+HPAFPTVV,1,hpafptvv,,,HPAF,HPAFPT
+TH,1,th,,,,
+A:SFxQuem,1,a sfxquem,,,,QUEM
+PH,1,ph,,,,
+InTox GAS CO2,1,intox gas co2,,,,
+EORenal,1,eorenal,,,,
+BNEP,1,bnep,,,,BN
+HsHPAPs,1,hshpaps,,,,
+AOVA COST,1,aova cost,,,,AOVA
+AAxHIXTMsI,1,aaxhixtmsi,,,,TM
+HsIPCsCuello,1,hsipcscuello,,,HIPC,
+PernóT,1,pernot,,,,
+TTyTMI,1,ttytmi,,,,TM
+PCyB,1,pcyb,,,,
+Ulcera péptica,1,ulcera peptica,,,,
+TPV,1,tpv,,,,
+CVB,1,cvb,CVB,CVB,,
+TRA,1,tra,,,,
+Historia Clínica 6,1,historia clinica 6,,,,
+HPIPCYPAF,1,hpipcypaf,,,,
+HsPsAFPsTyTA,1,hspsafpstyta,,,,
+PN-,1,pn,,PN,,PN
+PER TA,1,per ta,,,,
+Ulcera Int,1,ulcera int,,,,
+HIPCPS,1,hipcps,,,HIPC,
+Quen,1,quen,,,,
+ICO2,1,ico2,,,,
+HypafPT,1,hypafpt,,,,
+BNPostT,1,bnpostt,,,,BN
+Hs IPc PsT,1,hs ipc pst,,,,
+HPAFSec,1,hpafsec,,,HPAF,
+BBCTCE,1,bbctce,,,,TCE
+HIPcPCue y T,1,hipcpcue y t,,,HIPC,
+BNO T,1,bno t,,,,BN
+AnReTPlac,1,anretplac,,,,
+Quemaduras del Tubo digestiv,1,quemaduras del tubo digestiv,,,,QUEM
+PerA,1,pera,,,,
+Hepatitis Tóxica,1,hepatitis toxica,,,,
+HPAI,1,hpai,,,,
+HIPc PTA,1,hipc pta,,,HIPC,
+SB,1,sb,,,,
+HsPAPFs,1,hspapfs,,,,
+LOP,1,lop,,,,
+A xA,1,a xa,,,,
+HypafPTRA,1,hypafptra,,,,
+HxpafPT,1,hxpafpt,,,,
+DIABETES,1,diabetes,,,,
+TTAxMP,1,ttaxmp,,,,TTA
+BNEPCH,1,bnepch,,,,BN
+HsIPCPC,1,hsipcpc,,,HIPC,
+AAxHIyEyHsIPcP,1,aaxhiyeyhsipcp,,,HIPC,
+TVerMed TP,1,tvermed tp,,,,
+CN,1,cn,,,,
+PER de TA,1,per de ta,,,,
+Tromb Pol,1,tromb pol,,,,
+ASM,1,asm,,,,
+AP,1,ap,,,,
+AAxCH,1,aaxch,,,,CH
+TsTM5Hs,1,tstm5hs,,,,TM
+PI Quemaduras,1,pi quemaduras,,,,QUEM
+HsPsAFPsTA,1,hspsafpsta,,,,
+RATICIDA,1,raticida,,,,
+HTCcPC,1,htccpc,,,,
+EPno T,1,epno t,,,,PN
+PerfInt,1,perfint,,,,
+AAxHExPardis,1,aaxhexpardis,,,,
+HPATPAyT,1,hpatpayt,,,,
+No dictamen,1,no dictamen,,,,
+HPAHPA,1,hpahpa,,,,
+Abs cerebral,1,abs cerebral,,,,
+AQx Lesión U,1,aqx lesion u,,,,
+Perforación esofagica NoT,1,perforacion esofagica not,,,,
+HemoTórax,1,hemotorax,,,,
+APOVASCE,1,apovasce,,,,
+APAFPC,1,apafpc,,,,
+HsIPcPTyue,1,hsipcptyue,,,HIPC,
+GA,1,ga,,,,
+TCermed,1,tcermed,,TCCM,,TCE
+TCCyMI,1,tccymi,,,,
+HxCentPT,1,hxcentpt,,,,
+HPAFrPC,1,hpafrpc,,,HPAF,
+QueM,1,quem,,QUEM,,QUEM
+TT y MI,1,tt y mi,,,,
+HPAFCCuello,1,hpafccuello,,,HPAF,
+AxS y CVG,1,axs y cvg,,,,CVG
+CVG Quemaduras,1,cvg quemaduras,,,,CVG
+AQxElectroc.,1,aqxelectroc,,,,
+HPAFPRaqui,1,hpafpraqui,,,HPAF,
+Oclusión intestinal,1,oclusion intestinal,,,,
+SxPer HPAF,1,sxper hpaf,,,HPAF,
+HPFPI,1,hpfpi,,,,
+Paro,1,paro,,,,
+Neumopatía y quemaduras,1,neumopatia y quemaduras,,,,QUEM
+CVG Broncoaspiración,1,cvg broncoaspiracion,,,,CVG
+Abs H,1,abs h,,,,
+AOVA Frac Huesos Nariz,1,aova frac huesos nariz,,,,AOVA
+HsIPCPsCT,1,hsipcpsct,,,HIPC,
+HPAGPC,1,hpagpc,,,,
+HIPC An Muslo,1,hipc an muslo,,,HIPC,
+Bn EnT,1,bn ent,,,,BN
+HPAFPTRA,1,hpafptra,,,HPAF,HPAFPT
+TPP,1,tpp,,,,
+CA Uter,1,ca uter,,,,
+THP,1,thp,,,,
+Insuf Renal,1,insuf renal,,,,
+Inf Pulm,1,inf pulm,,,,
+TA y HI,1,ta y hi,,,,
+LOC Int,1,loc int,,,,LOC
+N y CH,1,n y ch,,,,CH
+HPDFPC,1,hpdfpc,,,,
+AAo,1,aao,,,,
+CAxHiAFi,1,caxhiafi,,,,
+Aborto An,1,aborto an,,,,
+"""No Exp""",1,no exp,,,,
+SxT,1,sxt,,,,
+HOVA,1,hova,,,,
+HICCuello,1,hiccuello,,,,
+Per Tom,1,per tom,,,,
+pancreatitis,1,pancreatitis,,PANCREATITIS,,
+TP  Y MstS,1,tp y msts,,,,
+BN Desnutrición,1,bn desnutricion,,,,BN
+EPB Comp De parto distósico,1,epb comp de parto distosico,EPB COMP DE PARTO DISTOSICO,EPB COMP DE PARTO DISTOSICO,,
+Hs IPC,1,hs ipc,,,,
+HPA F,1,hpa f,,,,
+TC Cer. Med.,1,tc cer med,,,,
+T.Cer. Med.,1,t cer med,,,,
+Hs PAF,1,hs paf,,,,
+Hs IPC Ps A,1,hs ipc ps a,,,,
+TCE y HS PC,1,tce y hs pc,,,,TCE
+TMZ,1,tmz,,,,TM
+Ag Cat.,1,ag cat,,,,
+Placenta P.,1,placenta p,,,,
+T.Cer. M,1,t cer m,,,,
+VCG,1,vcg,,,,
+Hs.IPCPT,1,hs ipcpt,,,,
+TC.Cerv.,1,tc cerv,,,,
+Hs.PAFPsA,1,hs pafpsa,,,,
+TE.Cer.,1,te cer,,,,
+Puerperio,1,puerperio,,,,
+T.Cer.,1,t cer,,,,
+Ret. Placent.,1,ret placent,,,,
+HIPC. Cuello,1,hipc cuello,,,HIPC,
+HsPAFPsT y C,1,hspafpst y c,,,HPAF,
+HsIPaPSCo.,1,hsipapsco,,,,
+HPAF (Cuello),1,hpaf cuello,,,HPAF,
+SH. Hip.,1,sh hip,,,,
+Poncoes,1,poncoes,,,,
+Panc.,1,panc,,,,
+Glomerulo,1,glomerulo,GLOMERULO,GLOMERULO,,
+Inf.Pul,1,inf pul,,,,
+Violación rectal,1,violacion rectal,,,,
+TCCerMed A,1,tccermed a,,,,
+TCRMS,1,tcrms,,,,
+Intox Etilica,1,intox etilica,,,,
+AnXEmbEctop,1,anxembectop,,,,
+Grastroenteritis,1,grastroenteritis,,,,
+Broncoaspiracion,1,broncoaspiracion,,,,
+HPAT,1,hpat,,,,
+OL,1,ol,,,,
+TCCerv Med,1,tccerv med,,,,
+HIPcP Cuello,1,hipcp cuello,,,HIPC,
+HsIPE,1,hsipe,,,,
+PS,1,ps,,,,
+Inf Cerebral,1,inf cerebral,,,,
+LOC Int Mit,1,loc int mit,,,,LOC
+Ins,1,ins,,INS,,
+APxHE,1,apxhe,,,,
+Bronc,1,bronc,,,,
+HIPCPH,1,hipcph,,,HIPC,
+RPlacenta,1,rplacenta,,,,
+HsIPCsPsC,1,hsipcspsc,,,HIPC,
+Hs IAnC,1,hs ianc,,,,
+Neumonía,1,neumonia,,,,
+HsPsA,1,hspsa,,,,
+S Mixto,1,s mixto,,,,
+s,1,s,,septicemia,,
+Is,1,is,,,,
+SxHPAFPA,1,sxhpafpa,,,HPAF,
+HIC Cuello AN,1,hic cuello an,,,,
+Inflamación Pulmonar,1,inflamacion pulmonar,,,,
+C Pulmonar,1,c pulmonar,,,,
+Ba,1,ba,,,,
+TAT,1,tat,,,,
+Trom de,1,trom de,,,,
+arcasis,1,arcasis,,,,
+VEB,1,veb,,,,
+HIPC Cara Cuello,1,hipc cara cuello,,,HIPC,
+HsPaFP,1,hspafp,,HSPAFP,HPAF,
+HsPAS,1,hspas,,,,
+Pertusion,1,pertusion,,,,
+Tumor Uterino,1,tumor uterino,,,,
+T Columna Vertebral,1,t columna vertebral,,,,
+Electrocuciòn,1,electrocucion,,ELECTROCUCION,,
+HsPAf,1,hspaf,,HSPA,HPAF,
+HSPA,1,hspa,HSPA,HSPA,,
+Ms I,1,ms i,,,,
+TCCorT,1,tccort,,,,
+HsPsAFP,1,hspsafp,,,,
+Hidrotórax,1,hidrotorax,,,,
+TC Cer T,1,tc cer t,,,,
+TCervMed y Ab,1,tcervmed y ab,,,,TCE
+AB,1,ab,,,,
+Hematoma,1,hematoma,,,,
+SS,1,ss,,,,
+HPAFPPC,1,hpafppc,,,HPAF,
+HIsCPT,1,hiscpt,,,,
+Per Expide Utero,1,per expide utero,,,,
+CD,1,cd,,,,
+Machaca de OPA,1,machaca de opa,,,,CH
+EExHI,1,eexhi,,,,
+HxIPC,1,hxipc,,,,
+Hipoxin,1,hipoxin,,,,
+HspAF,1,hspaf,,HSPA,HPAF,
+HIxVE,1,hixve,,,,
+Gang MI,1,gang mi,,,,
+Carcinoma Hepático,1,carcinoma hepatico,,,,
+No copia,1,no copia,,,,
+Ulcera Gastr.,1,ulcera gastr,,,,
+LOC CH,1,loc ch,,,,CH
+Dial,1,dial,,,,
+HI Pc PT,1,hi pc pt,,,,
+MENINGITIS,1,meningitis,MENINGITIS,MENINGITIS,,
+HsP AF PsT,1,hsp af pst,,,,
+HP AF PT,1,hp af pt,,,,
+LOA,1,loa,,,,
+TRMy T,1,trmy t,,,,
+Hs PA F Ps,1,hs pa f ps,,,,
+T CERVICAL,1,t cervical,,,,
+Hs Ps AFP,1,hs ps afp,,,,
+HaTPAPPs,1,hatpapps,,,,
+Hs.PAF,1,hs paf,,,,
+AQxOs,1,aqxos,,,,
+AQx Infec.,1,aqx infec,,,,
+HPAFPTy A,1,hpafpty a,,,HPAF,HPAFPT
+AQx Quem.x Electroc.,1,aqx quem x electroc,,,,QUEM
+AQxT Quem.,1,aqxt quem,,,,QUEM
+Infec.,1,infec,,,,
+Ty A,1,ty a,,,,
+AQxQ,1,aqxq,,,,
+HPFPI y A,1,hpfpi y a,,,,
+Gan.xT.,1,gan xt,,,,
+AQxGan,1,aqxgan,,,,
+Infec. A.,1,infec a,,,,
+AQxHP,1,aqxhp,,,,
+Drogadicto Intox Inhalación,1,drogadicto intox inhalacion,,,,
+AQx Quem.Electroc.,1,aqx quem electroc,,,,QUEM
+Nec.,1,nec,,,,
+AQxT.Infec.,1,aqxt infec,,,,AQXT
+AQOsTeom,1,aqosteom,,,,
+PB no To,1,pb no to,,,,
+MEP,1,mep,,,,
+HIPc PT,1,hipc pt,,,HIPC,
+Hs Ps A F Ps C,1,hs ps a f ps c,,,,
+TCor Mod,1,tcor mod,,,,
+Itox Intox Q,1,itox intox q,,,,
+abosto séptico,1,abosto septico,ABORTO + S,ABORTO + S,,
+9,1,9,,,,
+TCE CER,1,tce cer,,,,TCE
+PNbN,1,pnbn,,,,BN
+HPADC,1,hpadc,,,,
+HPAFPAyT,1,hpafpayt,,,HPAF,
+SxIntQuir,1,sxintquir,,,,
+Sx PERFORACIÓN DEL COLON,1,sx perforacion del colon,,,,
+Chuem,1,chuem,,,,CH
+DESNUTRICIÓN,1,desnutricion,,DESNUT,,
+TC Cer,1,tc cer,,,,
+BN INTOX ALCOHOLICA,1,bn intox alcoholica,,,,BN
+T Ms Is,1,t ms is,,,,
+HsTPCPs,1,hstpcps,,,,
+Hs IPC Ps TA,1,hs ipc ps ta,,,,
+TCCerMd,1,tccermd,,,,
+Anemia Aguda Post Parto,1,anemia aguda post parto,,,,
+Intoxicación con DDT,1,intoxicacion con ddt,,,,
+NEOC,1,neoc,,,,
+Dsipensa,1,dsipensa,,,,
+"""Dispensa",1,dispensa,,DISPENSA,,DISPENSA
+AAxH PcP,1,aaxh pcp,,,,
+HPHFPA,1,hphfpa,,,,
+H C,1,h c,,,,
+HsPsHFPTyRayo,1,hspshfptyrayo,,,,
+HI Pc P,1,hi pc p,,,,
+Electroc.,1,electroc,,,,
+AQx Insuf.Vasc.,1,aqx insuf vasc,,,,
+HAPF,1,hapf,,,,
+Ostiomelitis Cron.,1,ostiomelitis cron,,,,
+PBU,1,pbu,,,,
+TT MED.,1,tt med,,,,
+CER,1,cer,,,,
+TC CER.MED.,1,tc cer med,,,,
+CH Y desnutricion,1,ch y desnutricion,,,,CH
+VE sangre,1,ve sangre,,,,
+Abs,1,abs,,,,
+HIXVE,1,hixve,,,,
+TCEyMC,1,tceymc,,,,TCE
+HsIPA,1,hsipa,,,,
+TC.Cer.T,1,tc cer t,,,,
+OC.I,1,oc i,,,,
+AMsIs,1,amsis,,,,
+HII,1,hii,,,,
+TC.CERV,1,tc cerv,,,,
+TC Cerd,1,tc cerd,,,,
+Vicera,1,vicera,,,,
+T.Cer.Med,1,t cer med,,,,
+FCP,1,fcp,,,,
+De,1,de,,,,
+AX BRONCO,1,ax bronco,,,,
+TC.Cer.,1,tc cer,,,,
+LOC Inf. mioc.,1,loc inf mioc,,,,LOC
+T. Cer. Med.,1,t cer med,,,,
+Hernias,1,hernias,,,,
+HsIPsCPsTA,1,hsipscpsta,,,,
+Electr.,1,electr,,,,
+ECE,1,ece,,,,
+Hs IPC Ps,1,hs ipc ps,,,,
+T CER.,1,t cer,,,,
+Exp PS,1,exp ps,,,,
+exp PSM,1,exp psm,,EX PSM,,
+Falta cuidado,1,falta cuidado,,,,
+AQxTratamiento,1,aqxtratamiento,,,,AQXT
+AQxTs,1,aqxts,,,,AQXT
+AQx Q...,1,aqx q,,,,
+Ostiomielitis,1,ostiomielitis,,,,
+Osteomielitis,1,osteomielitis,,,,
+AQxV,1,aqxv,,,,
+Celulitis M.,1,celulitis m,,,,
+Oclusión...,1,oclusion,,,,
+Complicación de...,1,complicacion de,,,,
+AQxS,1,aqxs,,,,
+AQxT Osteomielitis,1,aqxt osteomielitis,,,,AQXT
+ICPN,1,icpn,,,,PN
+Falta atención. / mide,1,falta atencion mide,,,,
+FC.P.NaT.,1,fc p nat,,,,
+TBF,1,tbf,,,,
+Parto Dis.,1,parto dis,,,,
+Exp. PCM,1,exp pcm,,,,
+HICPC,1,hicpc,,,,
+Anoxia.InT.,1,anoxia int,,,,
+Neumopulmonia,1,neumopulmonia,,,,
+A.Neo.N,1,a neo n,,,,
+AEX,1,aex,,,,
+A.NE.N,1,a ne n,,ANEN,,
+Frag. Intestinales,1,frag intestinales,,,,
+HIPCPPT,1,hipcppt,,,HIPC,
+Inf. Pul,1,inf pul,,,,
+T CER. MED,1,t cer med,,,,
+Hernia in,1,hernia in,,,,
+TCer y T,1,tcer y t,,,,TCE
+INDETERMINADO,1,indeterminado,INDETERMINADO,INDETERMINADO,,
+HPAFPTH,1,hpafpth,,,HPAF,HPAFPT
+TPAMPD,1,tpampd,,,,
+Retención Placen,1,retencion placen,RETENCION PLACEN,RETENCION PLACEN,,
+BBTMPI,1,bbtmpi,,,,TM
+BBTCET,1,bbtcet,,,,TCE
+VCQ,1,vcq,,,,
+PERID,1,perid,,,,
+BxTTE,1,bxtte,,,,
+BNOTCH,1,bnotch,,,,BN
+AAxHExHPAFP,1,aaxhexhpafp,,,HPAF,
+AnxPunción,1,anxpuncion,,,,
+CA Gastrico,1,ca gastrico,,,,
+HTB TCB,1,htb tcb,,,,
+Alcohol,1,alcohol,,,,
+eLE,1,ele,,,,
+Enteriits,1,enteriits,,,,
+TCER MED,1,tcer med,,,,TCE
+TCervT,1,tcervt,,,,TCE
+An Post P,1,an post p,,,,
+ANNxT,1,annxt,,,,
+AxXAH,1,axxah,,,,
+MTP,1,mtp,,,,
+BBNTC,1,bbntc,,,,BN
+HPAFPS,1,hpafps,,,HPAF,
+Pancreat,1,pancreat,,,,
+TCEPMT,1,tcepmt,,,,TCE
+BMxTCE,1,bmxtce,,,,TCE
+BBXTM,1,bbxtm,,,,TM
+HPPAFDPT,1,hppafdpt,,,,
+NBnT,1,nbnt,,,,BN
+TCECerv,1,tcecerv,,,,TCE
+IPN,1,ipn,,,,PN
+AX/XAO,1,ax xao,,,,
+CSxQuem,1,csxquem,,,,QUEM
+HsPCPs,1,hspcps,,,,
+FPT,1,fpt,,,,
+CSx HPPA FPTA,1,csx hppa fpta,,,,
+DPA,1,dpa,,,,
+Ep,1,ep,,EP,,
+AnxRetPla,1,anxretpla,,,,
+Gast,1,gast,,,,
+HIPCPCA,1,hipcpca,,,HIPC,
+Intox Alchohol Hepatitis,1,intox alchohol hepatitis,,,,CH
+no copias Xoco,1,no copias xoco,,NO COPIAS XOCO,,
+HPTPIPI,1,hptpipi,,,,
+Balbuena,1,balbuena,,,,
+Intox Alcohol,1,intox alcohol,,,,
+HIPCPSA,1,hipcpsa,,,HIPC,
+CVGyLOC,1,cvgyloc,,,,CVG
+HsC,1,hsc,,,,
+HTBTCM,1,htbtcm,,,,
+TIT,1,tit,,,,
+CVS,1,cvs,,,,
+HPPAFJCH,1,hppafjch,,,,CH
+AxOVAPPA,1,axovappa,,,,
+Intox.,1,intox,,INTOX,,
+CVGxMed,1,cvgxmed,,,,CVG
+Hernia Es,1,hernia es,,,,
+BxTM,1,bxtm,,,,TM
+BxTC,1,bxtc,,,,
+HPIPIPT,1,hpipipt,,,,
+TTCerM,1,ttcerm,,,,TCE
+Intox.Sosa,1,intox sosa,,,,
+THPAFPC,1,thpafpc,,,HPAF,HPAFPC
+Intox rat y Alcoholica,1,intox rat y alcoholica,,,,
+HPPAFPM,1,hppafpm,,,,
+Ax/xS,1,ax xs,,,,
+BT,1,bt,,,,
+AxABA,1,axaba,,,,AXA
+PxTAP,1,pxtap,,,,
+PBN,1,pbn,,,,BN
+ANxTM,1,anxtm,,,,TM
+Anxparto,1,anxparto,,,,
+CEHEyP,1,ceheyp,,,,
+BxTAM,1,bxtam,,,,
+EPCH,1,epch,,,,CH
+HCPA,1,hcpa,,,,HC
+TCorv,1,tcorv,,,,
+HPPAFPI,1,hppafpi,,,,
+AAHIBR,1,aahibr,,,,
+EOI,1,eoi,,,,
+TVP,1,tvp,,,,
+BP,1,bp,,,,
+TMsS,1,tmss,,,,TM
+HAFPT,1,hafpt,,,,
+TCCerv.,1,tccerv,,TCC,,
+AAxEI,1,aaxei,,,,
+HPAFP no 29,1,hpafp no 29,,,HPAF,
+AN PostParto,1,an postparto,,,,
+A AxHIxExSTD,1,a axhixexstd,,,,
+BxFdeF,1,bxfdef,,,,
+AxOBASPA,1,axobaspa,,,,
+TPS,1,tps,,,,
+Hn,1,hn,,,,
+HPICPT,1,hpicpt,,,,
+BBTxQ,1,bbtxq,,,,
+Pul,1,pul,,,,
+Trombo,1,trombo,,,,
+BxTCM,1,bxtcm,,,,
+TMIxBN,1,tmixbn,,,,TM
+AAxFIxFC,1,aaxfixfc,,,,
+Abs Cerebral,1,abs cerebral,,,,
+TCE-BN,1,tce bn,,,,TCE
+BxTCT,1,bxtct,,,,TCT
+ECPT,1,ecpt,,,,
+T T,1,t t,,,,
+I Cerebral,1,i cerebral,,,,
+BNDT,1,bndt,,,,BN
+HPPAFPS,1,hppafps,,,,
+BH,1,bh,,,,
+B Bx C Q,1,b bx c q,,,,
+HPIPPT,1,hpippt,,,,
+HCPC,1,hcpc,,,,HC
+ACxT,1,acxt,,,,
+CAGastrico,1,cagastrico,,,,
+CHI,1,chi,,,,CH
+CKSxIPP,1,cksxipp,,,,
+BBxTIA,1,bbxtia,,,,
+CVGxCH,1,cvgxch,,,,CVG
+NB,1,nb,,,,
+BBxFF,1,bbxff,,,,
+AxOVASPPA,1,axovasppa,,,,
+APOVASPPA,1,apovasppa,,,,
+VA,1,va,,,,
+APOVA,1,apova,,,,
+BBNTE,1,bbnte,,,,BN
+ESG,1,esg,,,,
+ROVR,1,rovr,,,,
+hsPAFPTs,1,hspafpts,,,HPAF,
+BBxTM,1,bbxtm,,,,TM
+BBCQ,1,bbcq,,,,
+AxXEST,1,axxest,,,,
+BBT,1,bbt,,,,
+"Tumor cerebral ""CA""",1,tumor cerebral ca,,,,
+TRaquideo,1,traquideo,,,,
+HCNoT,1,hcnot,,,,HC
+BCQ,1,bcq,,,,
+AxAHTP,1,axahtp,,,,AXA
+AOVAsPA,1,aovaspa,,,,AOVA
+DMTCM,1,dmtcm,,,,
+No se recibieron copias,1,no se recibieron copias,,,,
+Ar,1,ar,,,,
+CVGCOC,1,cvgcoc,,,,CVG
+HPAFPL,1,hpafpl,,,HPAF,
+CHBN,1,chbn,,,,BN
+Per Oclu Int,1,per oclu int,,,,
+T Cer Med,1,t cer med,,,,
+EHP,1,ehp,,,,
+CSGnoT,1,csgnot,,,,
+BBnTxHIE,1,bbntxhie,,,,BN
+A Suspensión,1,a suspension,,,,
+ICnoT,1,icnot,,,,
+TCMC,1,tcmc,,,,
+HTBTP,1,htbtp,,,,
+HPPAFPCE,1,hppafpce,,,,
+Exp,1,exp,,,,
+HAPFT,1,hapft,,,,
+TCETyP,1,tcetyp,,,,TCE
+TTAPM,1,ttapm,,,,TTA
+BBxTCE,1,bbxtce,,,,TCE
+PHNT,1,phnt,,,,
+BNTCH,1,bntch,,,,BN
+CPP,1,cpp,,,,
+HTC,1,htc,,,,
+BBUT,1,bbut,,,,
+HPIPVP,1,hpipvp,,,,
+AAHE,1,aahe,,,,
+NVNT,1,nvnt,,,,
+HPAFPAT,1,hpafpat,,,HPAF,
+AxxA,1,axxa,,,,
+BBnTyE,1,bbntye,,,,BN
+Putref,1,putref,,,,
+AXOVAR,1,axovar,,,,
+AQxInfecc,1,aqxinfecc,,,,
+AQxT OCE,1,aqxt oce,,,,AQXT
+AQ Electrocución,1,aq electrocucion,,,,
+Atrofia Muscular,1,atrofia muscular,,,,
+AQxInfec,1,aqxinfec,,,,
+Se ignora,1,se ignora,,,,
+TQIPT,1,tqipt,,,,
+AOT,1,aot,,,,
+HPAFPCT,1,hpafpct,,,HPAF,HPAFPC
+HPAF AQxT,1,hpaf aqxt,,,HPAF,AQXT
+Hernia Bockdebe,1,hernia bockdebe,,,,
+TnT,1,tnt,,,,
+enT,1,ent,,ENT,,
+Meningocele,1,meningocele,,,,
+FA,1,fa,,,,
+AXXE,1,axxe,,,,
+Hs Cortantes,1,hs cortantes,,,,
+EGMat,1,egmat,,,,
+Surimiento Fetal,1,surimiento fetal,,,,
+Probr Enf Gral,1,probr enf gral,,,,
+HIB,1,hib,,,,
+AxOVAS,1,axovas,,,,
+ANON,1,anon,,,,
+FAO,1,fao,,,,
+Enfermedad M,1,enfermedad m,,,,
+Ent Gral Mal,1,ent gral mal,,,,
+ANNxTCE,1,annxtce,,,,TCE
+Coagulaciòn Intravos.,1,coagulacion intravos,,,,
+AoXT,1,aoxt,,AQXT,,
+Sufrimiento Fetal,1,sufrimiento fetal,,,,
+Decapitación,1,decapitacion,,,,
+No envió copias Balbuena,1,no envio copias balbuena,,,,
+BBxNP,1,bbxnp,,,,
+AsxBronoaspiración,1,asxbronoaspiracion,,,,
+An Parto D,1,an parto d,,,,
+HPCCPA,1,hpccpa,,,,
+OCLU INT,1,oclu int,,,,
+IntoxMed,1,intoxmed,,,,
+NLxTMPD,1,nlxtmpd,,,,TM
+SxMPA,1,sxmpa,,,,
+AEP,1,aep,,,,
+AXCVAS,1,axcvas,,,,
+BBnT,1,bbnt,,BN,,BN
+IHCH,1,ihch,,,,CH
+BnoT en FHG,1,bnot en fhg,,,,BN
+IHMP,1,ihmp,,,,
+Shock,1,shock,,,,
+TVulvoVaginaPel,1,tvulvovaginapel,,,,
+HPAFPAC,1,hpafpac,,,HPAF,
+HCRNTA,1,hcrnta,,,,HC
+Intox Cianuro,1,intox cianuro,,,,
+TRS,1,trs,,,,
+AnPosParto,1,anposparto,,,,
+Abceso Gere,1,abceso gere,,,,
+CSGxCQ,1,csgxcq,,,,
+TME,1,tme,,,,TM
+AN POST PART,1,an post part,AN POS,AN POS,,
+AAHxAT,1,aahxat,,,,
+FH,1,fh,,,,
+ExtoxHPAF,1,extoxhpaf,,,HPAF,
+TMsIsBN,1,tmsisbn,,,,TM
+CVGEM,1,cvgem,,,,CVG
+EPHIxGE,1,ephixge,,,,
+BxTAT,1,bxtat,,,,
+HIDROCEFALIA,1,hidrocefalia,,,,
+PBNoT,1,pbnot,,,,BN
+BBxTCM,1,bbxtcm,,,,
+CervRev,1,cervrev,,,,
+MBBNT,1,mbbnt,,,,BN
+AAxSMV,1,aaxsmv,,,,
+CVGxCQ,1,cvgxcq,,,,CVG
+ECIP,1,ecip,,,,
+Int Pulmon,1,int pulmon,,,,
+Visceras,1,visceras,,,,
+AxXVACG,1,axxvacg,,,,
+BBnoTE,1,bbnote,,,,BN
+AxFxS,1,axfxs,,,,
+Bla,1,bla,,,,
+CPTAP,1,cptap,,,,
+APOVASA,1,apovasa,,,,
+FP,1,fp,,,,
+ANHIPPT,1,anhippt,,,,
+AAPHExTM,1,aaphextm,,,,TM
+TPFC,1,tpfc,,,,
+Ulcera Per,1,ulcera per,,,,
+No copias Ba...,1,no copias ba,,,,
+TPAP,1,tpap,,,,
+HPPAFPMFyC,1,hppafpmfyc,,,,
+PNBNT,1,pnbnt,,,,BN
+Intox Cemento,1,intox cemento,,,,
+S.d,1,s d,,,,
+Hepat,1,hepat,,,,
+¨P,1,p,,P,,
+HTXoco,1,htxoco,,,,
+TANoT,1,tanot,,,,
+HCPTA,1,hcpta,,,,HC
+NBxCQ,1,nbxcq,,,,
+NBNTxCA,1,nbntxca,,,,BN
+CVFxCQ,1,cvfxcq,,,,
+PTA,1,pta,,,,
+Explos,1,explos,,,,
+Focos Sep,1,focos sep,,,,
+Hemep,1,hemep,,,,
+A broncoaspiración,1,a broncoaspiracion,,,,
+HPFP,1,hpfp,,,,
+HIxAborto,1,hixaborto,,,,
+BNxAborto,1,bnxaborto,,,,BN
+Carbonización,1,carbonizacion,,,,
+TMsIP,1,tmsip,,,,TM
+HPsAFPs,1,hpsafps,,,,
+TTAI,1,ttai,,,,TTA
+insufisiencia renal,1,insufisiencia renal,,,,
+cornada toro,1,cornada toro,,,,
+TCTMed,1,tctmed,,,,TM
+HC no T,1,hc no t,,,,HC
+CCG,1,ccg,,,,
+TCCerHeD,1,tccerhed,,,,
+HsIPCPsC,1,hsipcpsc,,,HIPC,
+lesión meningoencefalica,1,lesion meningoencefalica,,,,
+HsIPcPsTyA,1,hsipcpstya,,,HIPC,
+Intox alcohol metilo,1,intox alcohol metilo,,,,
+HsIPcPsTCuello,1,hsipcpstcuello,,,HIPC,
+APOVASPCGaeo,1,apovaspcgaeo,,,,
+AAPE,1,aape,,,,
+ICE,1,ice,,,,
+Esteatosas hepatica,1,esteatosas hepatica,,,,
+CHyLOC,1,chyloc,,,,CH
+HsPsAFPsTyA,1,hspsafpstya,,,,
+"""Tetanos""",1,tetanos,,,,
+Bronconeumonía,1,bronconeumonia,,,,
+Int CO2,1,int co2,,,,
+AAxAE,1,aaxae,,,,AXA
+HxPAFPA,1,hxpafpa,,,,
+Infartos Pol,1,infartos pol,,,,
+SEPSIS,1,sepsis,,,,
+LOC y CVG,1,loc y cvg,,,,CVG
+E Aoison,1,e aoison,,,,
+TCETo,1,tceto,,,,TCE
+CNT,1,cnt,,,,
+AxOVAPA,1,axovapa,,,,
+TCCerMes,1,tccermes,,,,
+AxObsxAS,1,axobsxas,,,,
+Ind,1,ind,,,,
+ADNA,1,adna,,,,
+MPnoT,1,mpnot,,,,PN
+HPcPCuello,1,hpcpcuello,,,,
+HsPAEPS,1,hspaeps,,,,
+Encefalocele,1,encefalocele,,,,LOC
+Flegmón.,1,flegmon,,FLEGMON,,
+Enp P,1,enp p,,,,
+Exp PcSM,1,exp pcsm,,,,
+Inm Pulmonar,1,inm pulmonar,,,,
+TCEyP,1,tceyp,,,,TCE
+TCE Cer,1,tce cer,,,,TCE
+Abseso Hep,1,abseso hep,,ABSESO HEP,,
+HsPcPs,1,hspcps,,,,
+HsIPcPT,1,hsipcpt,,,HIPC,
+HMasiva,1,hmasiva,,,,
+B no T,1,b no t,,,,
+AN MI,1,an mi,,,,
+HsIPcPcTyA,1,hsipcpctya,,,HIPC,
+HsIPcPS,1,hsipcps,,HSIPCPS,HIPC,
+HICcPT,1,hiccpt,,,,
+MeningitisPCVG,1,meningitispcvg,,,,CVG
+Infartos Pulmón,1,infartos pulmon,,,,
+Legrado,1,legrado,,,,
+HxPAFPT,1,hxpafpt,,,,
+Necrosis INT Del,1,necrosis int del,,,,
+Apéndice Perforada,1,apendice perforada,,,,
+No envió copias HT XOCO,1,no envio copias ht xoco,,,,
+HC e TI,1,hc e ti,,,,HC
+LDC,1,ldc,,,,
+I sobs,1,i sobs,,,,
+Quemaduras Nó,1,quemaduras no,,,,QUEM
+AxOVAxPerAI,1,axovaxperai,,,,
+CoL,1,col,,,,
+BBPosT,1,bbpost,,,,
+CRANEO Hiper,1,craneo hiper,,,,
+HPAFPCC,1,hpafpcc,,,HPAF,HPAFPC
+Perforación uterina,1,perforacion uterina,,,,
+TMax I,1,tmax i,,,,TM
+SN,1,sn,,,,
+Inf Pol,1,inf pol,,,,
+TCE y A,1,tce y a,,,,TCE
+Int Pul,1,int pul,,,,
+BTM,1,btm,,,,TM
+CSxHsPsAF,1,csxhspsaf,,,,
+AAxHExAborto,1,aaxhexaborto,,,,
+HPPSFPC,1,hppsfpc,,,,
+P-EURO BN,1,p euro bn,,,,BN
+Deposito,1,deposito,,,,
+IC,1,ic,,,,
+ENDOMETRITIS,1,endometritis,,,,
+Ulcera Gast,1,ulcera gast,,,,
+shock,1,shock,,,,
+Quemadruas,1,quemadruas,,,,QUEM
+IrisH,1,irish,,,,
+TCE y MsIs,1,tce y msis,,,,TCE
+P/BN,1,p bn,,,,BN
+TM y Electrocución,1,tm y electrocucion,,,,TM
+HIxTM,1,hixtm,,,,TM
+Intox Penicilina,1,intox penicilina,,,,
+HsÁFPs,1,hsafps,,,,
+Hematoma Subderd,1,hematoma subderd,,,,
+EmbTub,1,embtub,,,,
+HPAFPSC,1,hpafpsc,,,HPAF,
+ALCOHOL,1,alcohol,,,,
+Embolia,1,embolia,,,,
+IAP,1,iap,,,,
+HPATPT,1,hpatpt,,,,
+No envió copias  CHT xoco,1,no envio copias cht xoco,,,,CH
+TCFaCerMed,1,tcfacermed,,,,
+Ins renal,1,ins renal,,,,
+Colecistitis,1,colecistitis,,,,
+TCEFacial,1,tcefacial,,,,TCE
+Tumor cerebral,1,tumor cerebral,,,,
+C Hipertensión,1,c hipertension,,,,
+HPAFPTyAxTCE,1,hpafptyaxtce,,,HPAF,TCE
+RotPlacenta,1,rotplacenta,,,,
+Hemopericard Compresivo,1,hemopericard compresivo,,,,
+IResp,1,iresp,,,,
+Electrofulgución,1,electrofulgucion,,,,
+Gangrena Septicemia,1,gangrena septicemia,,,,
+HPAEPA,1,hpaepa,,,,
+TUMOR CEREBRAL,1,tumor cerebral,,,,
+TMIPI,1,tmipi,,,,TM
+DNT,1,dnt,,,,
+AIPCPT,1,aipcpt,,,,
+Intoxicación corosiva,1,intoxicacion corosiva,,,,
+Piquete de vibora E Pulmonar y C,1,piquete de vibora e pulmonar y c,,,,
+BBN,1,bbn,,,,BN
+Intoxición,1,intoxicion,,,,
+Sep,1,sep,,,,
+Per y TM,1,per y tm,,,,TM
+TO,1,to,,,,
+Desno,1,desno,,,,
+As,1,as,,ASF,,
+2HPNFP,1,2hpnfp,,,,PN
+TCorvMed,1,tcorvmed,,,,
+BC,1,bc,,,,
+Intox. Med.,1,intox med,,INTOX MED,,
+PC,1,pc,,,,
+Desnutrición 4 G,1,desnutricion 4 g,,,,
+AnxEmbarazo,1,anxembarazo,,,,
+BBzCQ,1,bbzcq,,,,
+AC,1,ac,AC,AC,,
+CSJ,1,csj,,,,
+RCE,1,rce,,,,
+HPIPCA,1,hpipca,,,,
+HPAFPs,1,hpafps,,,HPAF,
+AAXTPECPT,1,aaxtpecpt,,,,
+Peritonitis no T,1,peritonitis no t,,,,
+P N,1,p n,,,,
+BNBN,1,bnbn,,,,BN
+IntoxRaticida,1,intoxraticida,,,,
+Parto,1,parto,,,,
+HPPAFTA,1,hppafta,,,,
+TRI,1,tri,,,,
+Cáncer Gástrico,1,cancer gastrico,,,,
+C H,1,c h,,,,
+VEAN,1,vean,,,,
+TCeri,1,tceri,,,,TCE
+F,1,f,,,,
+CSGXPI,1,csgxpi,,,,
+AVA,1,ava,AVA,AVA,,
+AxFXOVSPa,1,axfxovspa,,,,
+MEPxTCE,1,mepxtce,,,,TCE
+EPLOC,1,eploc,,,,LOC
+ACN,1,acn,ACN,ACN,,
+APPAFPTA,1,appafpta,,,,
+Quem*BN,1,quem bn,,,,BN
+CACV,1,cacv,,,,
+HPIPT,1,hpipt,,,,
+CSGxTM,1,csgxtm,,,,TM
+BN InhaladorThiner,1,bn inhaladorthiner,,,,BN
+hc,1,hc,,HC,,HC
+BBnt,1,bbnt,,BN,,BN
+HspsAFPsT,1,hspsafpst,,HSPAFPST,,
+TCEM,1,tcem,,,,TCE
+TCMP,1,tcmp,,,,
+TBT,1,tbt,,,,
+IPB,1,ipb,,,,
+CVF,1,cvf,,,,
+HIPPsTA,1,hippsta,,,,
+Ax/Xe,1,ax xe,,,,
+AxXBA,1,axxba,,,,
+Colapso Pulmonar,1,colapso pulmonar,,,,
+BBUTCVG,1,bbutcvg,,,,CVG
+Shock Penisilínico,1,shock penisilinico,,,,
+HPATP,1,hpatp,,,,
+Intoxi SubsToxi,1,intoxi substoxi,,,,
+EnsP,1,ensp,,,,
+InfCerv,1,infcerv,,,,
+HTBEE,1,htbee,,,,
+AOVA (piedra),1,aova piedra,,,,AOVA
+No Copias HTB,1,no copias htb,,,,
+BABxTP,1,babxtp,,,,
+TITMP,1,titmp,,,,TM
+Flegmon,1,flegmon,FLEGMON,FLEGMON,,
+FMI,1,fmi,FMI,FMI,,
+PBinot,1,pbinot,,,,
+BBFTFD,1,bbftfd,,,,
+4C,1,4c,,,,
+W,1,w,,,,
+Octución int,1,octucion int,,,,
+Arteroesclerosis coronaria,1,arteroesclerosis coronaria,,,,
+Tratamiento a infección,1,tratamiento a infeccion,,,,
+AQxTM,1,aqxtm,,,,TM
+HPAPA,1,hpapa,,,,
+AQxL Vasc,1,aqxl vasc,,,,
+ABroncoaspiración,1,abroncoaspiracion,,,,
+Falta C PostN,1,falta c postn,,,,
+AxEstrangulación,1,axestrangulacion,,,,
+BBNTc,1,bbntc,,,,BN
+Queamaduras,1,queamaduras,,,,
+Paro cario respiratorio,1,paro cario respiratorio,,,,
+Malformación congénita,1,malformacion congenita,,,,
+H NE N,1,h ne n,,,,
+Falta de Desa,1,falta de desa,,,,
+Anóxia,1,anoxia,,ANOXIA,,
+Indeterm,1,indeterm,,,,
+AQxTMI,1,aqxtmi,,,,TM
+HAxHI,1,haxhi,,,,
+AxHE,1,axhe,,,,
+HPAFPUT,1,hpafput,,,HPAF,
+TumCer,1,tumcer,,,,
+BnEPc,1,bnepc,,,,BN
+RM,1,rm,,,,
+PN CH,1,pn ch,,,,CH
+Sin Copias XT XOCO,1,sin copias xt xoco,,,,
+EOG,1,eog,,,,
+VG,1,vg,,,,
+ASB CVG,1,asb cvg,,,,CVG
+BnoI,1,bnoi,,,,BN
+TPCB,1,tpcb,,,,
+Septisemia,1,septisemia,,,,
+AQXGangrena,1,aqxgangrena,,,,
+TQ,1,tq,,,,
+PxTCE,1,pxtce,,,,TCE
+HsPIPCP,1,hspipcp,,,,
+BBxTP,1,bbxtp,,,,
+BAB,1,bab,,,,
+Intoxicación raticida,1,intoxicacion raticida,,,,
+HTB No copias,1,htb no copias,,,,
+TC Mod,1,tc mod,,,,
+HsPAFPr,1,hspafpr,,,HPAF,
+InfPol,1,infpol,,,,
+COC,1,coc,,,,
+ICGTM,1,icgtm,,,,TM
+TCCM Y T,1,tccm y t,,,,
+AAPHIE,1,aaphie,,,,
+HPPAFPDC,1,hppafpdc,,,,
+BAPFP,1,bapfp,,,,
+TAS,1,tas,,,,
+HaPAFPs,1,hapafps,,,,
+TQxHpp,1,tqxhpp,,,,
+Cirrosis Hepática,1,cirrosis hepatica,,,,
+HSIPCPs,1,hsipcps,,HSIPCPS,HIPC,
+CVC,1,cvc,,,,
+TCPBA,1,tcpba,,,,
+Derar AxT,1,derar axt,,,,
+Ortoria,1,ortoria,,,,
+Trat Roir,1,trat roir,,,,
+Endometrio Premenstrual,1,endometrio premenstrual,,,,
+Traumatismo,1,traumatismo,,,,
+DesorQxT,1,desorqxt,,,,
+AQxTahuem,1,aqxtahuem,,,,AQXT
+AQTratam,1,aqtratam,,,,
+AQxYS,1,aqxys,,,,
+AQxND,1,aqxnd,,,,
+TCEyMs I,1,tceyms i,,,,TCE
+Leucemia,1,leucemia,,,,
+TCEAE,1,tceae,,,,TCE
+AAH,1,aah,,,,
+Infarto Cerebr,1,infarto cerebr,,,,
+TCe,1,tce,,TCE,,TCE
+Ehoc,1,ehoc,,,,
+HsPIP,1,hspip,,,,
+IntE,1,inte,,,,
+HPASPC,1,hpaspc,,,,
+AnAxHIE,1,anaxhie,,,,
+SxAbortoPerV,1,sxabortoperv,,,,
+BNyPer,1,bnyper,,,,BN
+AnPestPap,1,anpestpap,,,,
+HsPAFPsTR,1,hspafpstr,,,HPAF,
+AQMI-BN,1,aqmi bn,AQMI-BN,,,BN
+NAHOP,1,nahop,,,,
+SecArtFem,1,secartfem,,,,
+HsPFPTV,1,hspfptv,,,,
+Septicopioemia,1,septicopioemia,,,,
+Aneurisma C,1,aneurisma c,,,,
+TCE´BN,1,tce bn,,,,TCE
+Absceso C,1,absceso c,,,,
+HIPC c/se Fem,1,hipc c se fem,,,HIPC,
+VEAn,1,vean,,,,
+TMinf,1,tminf,,,,TM
+Deshidrat,1,deshidrat,,,,
+ANRU,1,anru,ANRU,ANRU,,
+HPCPV,1,hpcpv,,,,
+AHepático,1,ahepatico,,,,
+TTCerv,1,ttcerv,,,,TCE
+HsPC,1,hspc,,,,
+TCyR,1,tcyr,,,,
+HPCPTy,1,hpcpty,,,,
+Insuf Hepática,1,insuf hepatica,,,,
+SHHVxT,1,shhvxt,,,,
+TCTC,1,tctc,,,,TCT
+CVG [] Electrocución,1,cvg electrocucion,,,,CVG
+InfartosPulm,1,infartospulm,,,,
+InfartoPulm,1,infartopulm,,,,
+BN ENT,1,bn ent,,,,BN
+HPAFPZ,1,hpafpz,,,HPAF,
+Desn,1,desn,,,,
+GastritisHemo,1,gastritishemo,,,,
+Pielonef,1,pielonef,,,,
+ECEPCVG,1,ecepcvg,ECEPCVG,ECEPCVG,,CVG
+TUM CEREBRAL,1,tum cerebral,,,,
+HPAFPCue,1,hpafpcue,,,HPAF,HPAFPC
+HsCHsIPC,1,hschsipc,,,HIPC,CH
+HsPPAF,1,hsppaf,,,,
+TCCTÉP,1,tcctep,,,,
+Pancr,1,pancr,,,,
+HPHFPTyH,1,hphfptyh,,,,
+TCTyA,1,tctya,,,,TCT
+TASH,1,tash,,,,
+InfartoCe,1,infartoce,,,,
+CuadroSéptico AbortoSéptico,1,cuadroseptico abortoseptico,,,,
+HsPAIPs,1,hspaips,,,,
+SHxMordeduras de Roedor,1,shxmordeduras de roedor,,,,
+Imod,1,imod,IMOD,IMOD,,
+HPAF C-Sec ArtF,1,hpaf c sec artf,,,HPAF,
+InfartoCerebral,1,infartocerebral,,,,
+pER,1,per,,PER,,
+Substancias Medicamentosas,1,substancias medicamentosas,,,,
+HsPIPCPsP,1,hspipcpsp,,,,
+LOC InfMioCardio,1,loc infmiocardio,,,,LOC
+(Aborto) A Séptico,1,aborto a septico,,,,
+LOC (Infart),1,loc infart,,,,LOC
+Aneurisma Aorta AB,1,aneurisma aorta ab,,,,
+TCE Pancreat,1,tce pancreat,,,,TCE
+Discracia Se,1,discracia se,,,,
+Conj de Q,1,conj de q,,,,
+FLVO,1,flvo,,,,
+TCF y Cer,1,tcf y cer,,,,
+TA y MI,1,ta y mi,,,,
+Pancreas,1,pancreas,,,,
+TMID,1,tmid,,,,TM
+HsPCPsA,1,hspcpsa,,,,
+Y,1,y,,,,
+CVG Intox Med,1,cvg intox med,,,,CVG
+ECBN,1,ecbn,,,,BN
+BN´TCE,1,bn tce,,,,TCE
+Perf Uter Placent,1,perf uter placent,,,,
+ANENN,1,anenn,,,,
+BN Men,1,bn men,,,,BN
+Intox Barbi,1,intox barbi,,,,
+HPPAFPCuello,1,hppafpcuello,,,,
+ELECTROCUTADO AOVA,1,electrocutado aova,,,,AOVA
+HsPSFPs,1,hspsfps,,,,
+Hipoxia Cerebral,1,hipoxia cerebral,,,,
+AxBronco,1,axbronco,,AXBRONCO,,
+ProlonFritis,1,prolonfritis,,,,
+ASR,1,asr,,,,
+Infarto Pulmonar,1,infarto pulmonar,,INFARTO PULMONAR,,
+TMS´BN,1,tms bn,,,,TM
+OH,1,oh,,,,
+ENCÉFALOMALASIA,1,encefalomalasia,ENCEFALOMALASIA,ENCEFALOMALASIA,,
+CHV,1,chv,,,,CH
+AbortoSep,1,abortosep,,,,
+Perf asa intest nó T,1,perf asa intest no t,,,,
+AnxRetPlace,1,anxretplace,,,,
+HsPAFPsCCT,1,hspafpscct,,,HPAF,
+PN y Per,1,pn y per,,,,PN
+HsPAFPsCTV,1,hspafpsctv,,,HPAF,
+T´,1,t,,T,,
+PxPERF,1,pxperf,,,,
+abseso hep,1,abseso hep,ABSESO HEP,ABSESO HEP,,
+Hidroc,1,hidroc,,,,
+T Cervical,1,t cervical,,,,
+Legrado U,1,legrado u,,,,
+AOMI,1,aomi,AOMI,AOMI,,
+BN Meningitis,1,bn meningitis,,,,BN
+Estrangulación de Asas Intest,1,estrangulacion de asas intest,,,,
+An postParto,1,an postparto,,,,
+HPAF C/S Vasos,1,hpaf c s vasos,,,HPAF,
+TMII,1,tmii,,,,TM
+Cisticecosis,1,cisticecosis,,,,
+TMPI,1,tmpi,,,,TM
+CHPC,1,chpc,,,,CH
+HNxHE,1,hnxhe,,,,
+Perf nó T ileon,1,perf no t ileon,,,,
+HPADP,1,hpadp,,,,
+Aborto inco,1,aborto inco,,,,
+PerEstVisHudca,1,perestvishudca,,,,
+rup de art Pulmonar nó T,1,rup de art pulmonar no t,,,,
+Homopetic,1,homopetic,,,,
+HPAFPCM,1,hpafpcm,,,HPAF,HPAFPC
+An Post Parto,1,an post parto,,,,
+Per Post Tr,1,per post tr,,,,
+EnTi,1,enti,,,,
+LOC (inf mio),1,loc inf mio,,,,LOC
+RC,1,rc,RC,RC,,
+SHinfecxTMI,1,shinfecxtmi,,,,TM
+BYGE,1,byge,,,,
+GASTRO,1,gastro,,,,
+AnemiaPostParto,1,anemiapostparto,,,,
+TCV,1,tcv,,,,
+InfPulmo,1,infpulmo,,,,
+LOC Inf mio,1,loc inf mio,,,,LOC
+AN Placenta Previ,1,an placenta previ,,,,
+TMI Broncoasp,1,tmi broncoasp,,,,TM
+ANAHVA,1,anahva,,,,
+ByCH,1,bych,,,,CH
+T Encefàlico,1,t encefalico,T ENCEFALICO,T ENCEFALICO,,
+Asf,1,asf,,ASF,,
+TCTyMS,1,tctyms,,,,TCT
+AbsP,1,absp,,,,
+AbsPul,1,abspul,,,,
+AbsPiq,1,abspiq,,,,
+LOC Inf miocard,1,loc inf miocard,,,,LOC
+Per nó T,1,per no t,,,,
+TPyMsIns,1,tpymsins,,,,
+BNxTTP,1,bnxttp,,,,BN
+AbscesoHepático,1,abscesohepatico,,,,
+HPCPTA,1,hpcpta,,,,
+TCEyMsIs,1,tceymsis,,,,TCE
+TCyMI,1,tcymi,,,,
+InfCerebral,1,infcerebral,,,,
+ESB,1,esb,,,,
+HICdeC,1,hicdec,,,,
+me,1,me,,,,
+RotRestPla,1,rotrestpla,,,,
+TCerA,1,tcera,,,,TCE
+Tbuco-Cerv,1,tbuco cerv,,,,
+inget east[...],1,inget east,,,,
+Perf es[...]go,1,perf es go,,,,
+PancreatitisHem,1,pancreatitishem,,,,
+HICPT,1,hicpt,,,,
+ANxRetRest,1,anxretrest,,,,
+HPAFdeCuello,1,hpafdecuello,,,HPAF,
+micosis,1,micosis,,,,
+HsÁF´sTA,1,hsaf sta,,,,
+TA Per,1,ta per,,,,
+Hernia umbilical,1,hernia umbilical,,,,
+CSep,1,csep,,,,
+BN (Ascaris Lumbri),1,bn ascaris lumbri,,,,BN
+LOC Inf mi,1,loc inf mi,,,,LOC
+EPileps,1,epileps,,,,
+Parto distosico AN,1,parto distosico an,,,,
+Emb,1,emb,,,,
+BnTb,1,bntb,,,,BN
+Inf miocario LOC,1,inf miocario loc,,,,LOC
+Rup Uterino,1,rup uterino,,,,
+HPAFPU,1,hpafpu,,,HPAF,
+Apendic,1,apendic,,,,
+HIPC c/s,1,hipc c s,,,HIPC,
+HsPAFPsTV,1,hspafpstv,,,HPAF,
+MAbortivas,1,mabortivas,,,,
+TTAF,1,ttaf,TTAF,TTAF,,TTA
+AN A PostParto,1,an a postparto,,,,
+HPAF u/sec,1,hpaf u sec,,,HPAF,
+HPAFPRaquis,1,hpafpraquis,,,HPAF,
+AOVAxPaso desa[],1,aovaxpaso desa,,,,AOVA
+Coma Diabético,1,coma diabetico,,,,
+CACérvicoUterino,1,cacervicouterino,,,,
+RupParedVent,1,rupparedvent,,,,
+hemPer,1,hemper,,,,
+HPAFPT HIPPT,1,hpafpt hippt,,,HPAF,HPAFPT
+Embarazo ectopico,1,embarazo ectopico,,,,
+Trombosis Misent[] Hernia Estrang[],1,trombosis misent hernia estrang,,,,
+Quem elec,1,quem elec,,,,QUEM
+TBPulmones,1,tbpulmones,,,,
+HsPAFPsTTA,1,hspafpstta,,,HPAF,TTA
+SHOCK T,1,shock t,,,,
+Intox por Raticida ingeri,1,intox por raticida ingeri,,,,
+CH CVG,1,ch cvg,,,,CVG
+ANxUteroP,1,anxuterop,,,,
+OQ,1,oq,,,,
+LOC Inf miocar,1,loc inf miocar,,,,LOC
+LOC CardiopRev,1,loc cardioprev,,,,LOC
+CVH,1,cvh,,,,
+TMInf,1,tminf,,,,TM
+TCCMYT,1,tccmyt,,,,
+Endomet[],1,endomet,,,,
+TCEyMD,1,tceymd,,,,TCE
+Anxpencion Per,1,anxpencion per,,,,
+HsPFPsCT,1,hspfpsct,,,,
+HemoperC,1,hemoperc,,,,
+Infarto miocardio LOC,1,infarto miocardio loc,,,,LOC
+InfPulmonares,1,infpulmonares,,,,
+Depósito,1,deposito,,,,
+TMI Meningoencef,1,tmi meningoencef,,,,TM
+R,1,r,,,,
+TFyMsInfs,1,tfymsinfs,,,,
+TPAFPC,1,tpafpc,,,,
+(con viota de Exp.) ASB,1,con viota de exp asb,,,,ASB
+InfMiocardio LOC,1,infmiocardio loc,,,,LOC
+MIB,1,mib,,,,
+TCECA,1,tceca,,,,TCE
+BN TMinf,1,bn tminf,,,,TM
+Infarto C,1,infarto c,,,,
+MeningoEncef,1,meningoencef,,,,
+PerfVis,1,perfvis,,,,
+HPAFPC/S,1,hpafpc s,,,HPAF,HPAFPC
+AxBroncoAspiración,1,axbroncoaspiracion,,AXBRONCOASPIRACION,,
+HPAFPRaguis,1,hpafpraguis,,,HPAF,
+QuemEP,1,quemep,,,,QUEM
+TCCCer,1,tcccer,,,,
+CVG (intox),1,cvg intox,,,,CVG
+IntocRaticida,1,intocraticida,,,,
+IntoxMedica,1,intoxmedica,,,,
+Neu,1,neu,,,,
+HICC c/sec Vasc,1,hicc c sec vasc,,,,
+ANxRupCuelloV y PartoDistósico,1,anxrupcuellov y partodistosico,,,,
+CVGRebCer,1,cvgrebcer,,,,CVG
+TCCerP,1,tccerp,,,,
+Hem aguda post Parto,1,hem aguda post parto,,,,
+HsIPCsPsT,1,hsipcspst,,,HIPC,
+BN Gang,1,bn gang,,,,BN
+HsPIPCPsTA,1,hspipcpsta,,,,
+AnxEupPSM,1,anxeuppsm,,,,
+ASxUleraGastrica,1,asxuleragastrica,,,,
+QuemEC,1,quemec,,,,QUEM
+AbsesoC,1,absesoc,,,,
+TOTA,1,tota,,,,
+TMsIn/s,1,tmsin s,,,,TM
+LOC I del mioca,1,loc i del mioca,,,,LOC
+EN,1,en,,,,
+Cisticércosis Cerebral,1,cisticercosis cerebral,,,,
+TraumMultip,1,traummultip,,,,
+HIPPCPT,1,hippcpt,,,,
+TCerC,1,tcerc,,,,TCE
+EE,1,ee,,,,
+CAdeVESICU,1,cadevesicu,,,,
+InfartoCore,1,infartocore,,,,
+[Dec],1,dec,DEC,,,
+EmboliaPulmona,1,emboliapulmona,,,,
+PNCH,1,pnch,,,,CH
+SxTMI,1,sxtmi,,,,TM
+AnPostPar,1,anpostpar,,,,
+SHTde la,1,shtde la,,,,
+AVC,1,avc,AVC,AVC,,
+AN RUP  AOVA,1,an rup aova,AN + AOVA,AN + AOVA,,AOVA
+Cuadro Séptico por Perf no T,1,cuadro septico por perf no t,,,,
+HIPEMI,1,hipemi,,,,
+TCFYCM,1,tcfycm,,TCFYCM,,
+LOCH,1,loch,LOCH,LOCH,,CH
+AOM,1,aom,,,,
+Discracia,1,discracia,DISCRACIA,DISCRACIA,,
+perf,1,perf,,,,
+BNBAEP,1,bnbaep,,,,BN
+HIPC Lesión,1,hipc lesion,,,HIPC,
+HemPul,1,hempul,HEMPUL,HEMPUL,,
+Meningitis nó T,1,meningitis no t,,,,
+Asfixia,1,asfixia,,,,
+ULCERAS,1,ulceras,ULCERAS,ULCERAS,,
+C d Q,1,c d q,,,,
+Neomopatia,1,neomopatia,,,,
+Absesos C,1,absesos c,,,,
+PL y CL,1,pl y cl,,,,
+ByTCAP,1,bytcap,,,,
+AC y RAA,1,ac y raa,,,,
+HPAFP Cara y C,1,hpafp cara y c,HPAFP CARA Y C,HPAFP CARA Y C,HPAF,
+AsHs,1,ashs,ASHS,ASHS,,
+TCFyCT,1,tcfyct,TCFYCT,TCFYCT,,
+AN had,1,an had,,,,
+Hemoperic Inf Miocardio,1,hemoperic inf miocardio,,,,
+loc,1,loc,,LOC,,LOC
+Insuf Circulatoria Periférica LOC,1,insuf circulatoria periferica loc,,,,LOC
+Aborto incomp,1,aborto incomp,ABORTO,ABORTO,,
+ECP,1,ecp,,,,
+QUEMADURA,1,quemadura,QUEM,QUEM,,QUEM
+S no TxP,1,s no txp,,,,
+frac,1,frac,FRAC,FRAC,,
+HSPAPS,1,hspaps,,,,
+Hem Post,1,hem post,HEM POST,HEM POST,,
+ANP PREVIA,1,anp previa,ANP PREVIA,ANP PREVIA,,
+Tumuración Maligna de riñón,1,tumuracion maligna de rinon,TUMURACION MALIGNA DE RINON,TUMURACION MALIGNA DE RINON,,
+TCF y CM,1,tcf y cm,TCF Y CM,TCF Y CM,,
+REB,1,reb,,,,
+S nó T,1,s no t,,,,
+AVEN,1,aven,AVEN,AVEN,,
+HsPAPPTyA,1,hspapptya,HSPAPPTYA,HSPAPPTYA,,
+HsPPAEP,1,hsppaep,,,,
+ANXRF,1,anxrf,,,,
+TAPYMS,1,tapyms,,,,
+PER PERF NOT,1,per perf not,,,,
+PN TCE,1,pn tce,PN TCE,PN TCE,,TCE
+AND,1,and,AND,AND,,
+TCRMyP,1,tcrmyp,,,,
+N InEPul,1,n inepul,,,,
+LO TROMBOSIS,1,lo trombosis,LO TROMBOSIS,LO TROMBOSIS,,
+REB CER,1,reb cer,,,,
+TA y MIS,1,ta y mis,,,,
+AN RUP UTERO,1,an rup utero,,,,
+HPAFPT y AAN,1,hpafpt y aan,,,HPAF,HPAFPT
+INFARTO PULMONAR,1,infarto pulmonar,INFARTO PULMONAR,INFARTO PULMONAR,,
+I ACIDO MURIATICO,1,i acido muriatico,,,,
+HCPCPT,1,hcpcpt,,,,HC
+INS,1,ins,INS,INS,,
+TTAYP,1,ttayp,,,,TTA
+PxInfarto,1,pxinfarto,,,,
+HPPAFPL,1,hppafpl,,,,
+AN POS,1,an pos,AN POS,AN POS,,
+CA RIÑONES,1,ca rinones,,,,
+Perit nó T,1,perit no t,PERIT NO T,PERIT NO T,,
+c,1,c,,CH,,
+HsPAFPsTAA,1,hspafpstaa,,,HPAF,
+HIPCPTyV,1,hipcptyv,,,HIPC,
+HIPCPR,1,hipcpr,,,HIPC,
+AXBronco,1,axbronco,AXBRONCO,AXBRONCO,,
+HPAFPsT,1,hpafpst,,,HPAF,
+HIHC,1,hihc,,,,HC
+AG OVA,1,ag ova,,,,
+HPIPCPR,1,hpipcpr,,,,
+TCCMT,1,tccmt,,,,
+MS,1,ms,,,,
+CO2,1,co2,,,,
+SxCuadro de obs Sigmoides,1,sxcuadro de obs sigmoides,SXCUADRO DE OBS SIGMOIDES,SXCUADRO DE OBS SIGMOIDES,,
+BNxTCE,1,bnxtce,,,,TCE
+PER X RUP,1,per x rup,,,,
+HPAFPCTA,1,hpafpcta,,,HPAF,HPAFPC
+DESGARRO DE ART FEM,1,desgarro de art fem,,,,
+HSPAFPCT,1,hspafpct,,,HPAF,
+hipcpt,1,hipcpt,,HIPCPT,HIPC,
+TCMA,1,tcma,,,,
+Sang Tubo digestivo SH HIPOVOL,1,sang tubo digestivo sh hipovol,,,,
+LOC HEMOPER,1,loc hemoper,,,,LOC
+INTOXTAP,1,intoxtap,INTOXTAP,INTOXTAP,,
+Rup Uterina,1,rup uterina,RUP UTERINA,RUP UTERINA,,
+HsIPCPsTVC,1,hsipcpstvc,,,HIPC,
+CVG INTOX ARESEMICO,1,cvg intox aresemico,CVG INTOX ARESEMICO,CVG INTOX ARESEMICO,,CVG
+INF PULMONAR,1,inf pulmonar,,,,
+Cuadro Séptico por aborto,1,cuadro septico por aborto,CUADRO SEPTICO POR ABORTO,CUADRO SEPTICO POR ABORTO,,
+Ins Renal,1,ins renal,,,,
+HEMOPERICARDIO,1,hemopericardio,,,,
+AOA,1,aoa,AOA,AOA,,
+HPAFPTXV,1,hpafptxv,,,HPAF,HPAFPT
+PE,1,pe,,,,
+HPIPCP,1,hpipcp,,,,
+INFARTO,1,infarto,,,,
+MPyB,1,mpyb,MPYB,MPYB,,
+TCMI,1,tcmi,,,,
+IPCPC,1,ipcpc,,,,
+cvg,1,cvg,,CVG,,CVG
+Hepatomegalia,1,hepatomegalia,,,,
+tct,1,tct,,TCT,,TCT
+PERITONITIS,1,peritonitis,PER,PER,,
+IN MIOCARDIO LOC,1,in miocardio loc,,,,LOC
+EP e Ins Renal,1,ep e ins renal,EP E INS RENAL,EP E INS RENAL,,
+hpafpt,1,hpafpt,,HPAFPT,HPAF,HPAFPT
+HPAFMI,1,hpafmi,,,HPAF,
+BNME,1,bnme,,,,BN
+Desecho Obstétrico,1,desecho obstetrico,,,,CH
+ept,1,ept,,,,
+C S,1,c s,,,,
+HsPAFPCTV,1,hspafpctv,,,HPAF,
+LOC (Infarto),1,loc infarto,,,,LOC
+HICCPT,1,hiccpt,,,,
+Pericardio,1,pericardio,,,,
+PN ABSCESOS,1,pn abscesos,,,,PN
+DES,1,des,,,,
+SALICILI,1,salicili,SALICILI,SALICILI,,
+SHT,1,sht,,,,
+NxBroncoasp,1,nxbroncoasp,NXBRONCOASP,NXBRONCOASP,,
+HsIPCS,1,hsipcs,,,HIPC,
+ATTA,1,atta,,,,TTA
+cardioangioesclerosis y BN,1,cardioangioesclerosis y bn,,,,BN
+QOVQ,1,qovq,QOVQ,QOVQ,,
+LOC TROM CORONARIA,1,loc trom coronaria,LOC TROM CORONARIA,LOC TROM CORONARIA,,LOC
+TMsItS,1,tmsits,TMSITS,TMSITS,,TM
+ASFIXIA  POR ESP,1,asfixia por esp,,,,
+INSEP,1,insep,INSEP,INSEP,,
+AN VE,1,an ve,,,,
+HsPAFAC,1,hspafac,HSPAFAC,HSPAFAC,HPAF,
+HPAFPVS,1,hpafpvs,,,HPAF,
+HICC de Cue,1,hicc de cue,,,,
+SxAborto Séptico,1,sxaborto septico,,,,
+AN MANIOBRAS ABORT,1,an maniobras abort,AN + ABORTO,AN + ABORTO,,
+NTCE,1,ntce,,,,TCE
+HRAFPC,1,hrafpc,,,,
+IPs,1,ips,,,,
+LOC (inf mio,1,loc inf mio,,,,LOC
+TC Dorsal,1,tc dorsal,TC DORSAL,TC DORSAL,,
+CAPulm,1,capulm,,,,
+Embolia P,1,embolia p,,,,
+Hprfpc,1,hprfpc,HPRFPC,HPRFPC,,
+FRACMIS,1,fracmis,,,,
+Tromboembolismo,1,tromboembolismo,,,,
+Hem Intra,1,hem intra,,,,
+HIPCPTyP,1,hipcptyp,,,HIPC,
+OP,1,op,,,,
+HPACPC,1,hpacpc,,,,
+LOC INFART,1,loc infart,,,,LOC
+HPAFPO,1,hpafpo,,,HPAF,
+Aneurisma de Ventriculo izq,1,aneurisma de ventriculo izq,,,,
+T RECTAL,1,t rectal,,,,
+TCC´BN,1,tcc bn,,,,BN
+UlcerasSTres,1,ulcerasstres,,,,
+Septiemia,1,septiemia,,,,
+El[a],1,el a,,,,
+Carcinoma,1,carcinoma,,,,
+Meningitis T,1,meningitis t,MENINGITIS T,MENINGITIS T,,
+TPm inf,1,tpm inf,,,,
+Perf Intest Per,1,perf intest per,,,,
+TCABN,1,tcabn,TCABN,TCABN,,BN
+er,1,er,,,,
+CA (gla Ma,1,ca gla ma,,,,
+HPFrag,1,hpfrag,,,,
+TPyM,1,tpym,,,,
+BN-CV,1,bn cv,,,,BN
+HsPAFPsCrT,1,hspafpscrt,,,HPAF,
+PerxAH,1,perxah,,,,
+HPAFPCMed,1,hpafpcmed,,,HPAF,HPAFPC
+HEM PER,1,hem per,,,,
+Hep,1,hep,,,,
+ANAHE,1,anahe,,,,
+Inf Pulmonares,1,inf pulmonares,,,,
+Diabetes De cardiopatía,1,diabetes de cardiopatia,,,,
+Med,1,med,,,,
+HIC e-sec F,1,hic e sec f,,,,
+CReumaT,1,creumat,,,,
+HPAFPCyR,1,hpafpcyr,,,HPAF,HPAFPC
+HPAFPAR,1,hpafpar,,,HPAF,
+BNTMS,1,bntms,,,,TM
+HsPAFPsV,1,hspafpsv,,,HPAF,
+EP Quemaduras,1,ep quemaduras,,,,QUEM
+HsPAFPsTA Crane,1,hspafpsta crane,,,HPAF,
+Intox Medicamentosa EPCVG,1,intox medicamentosa epcvg,,,,CVG
+ANxRupUterina PD,1,anxruputerina pd,,,,
+TCTPsV,1,tctpsv,,,,TCT
+HPAFPTC,1,hpafptc,,,HPAF,HPAFPT
+Dia Pancreatitis,1,dia pancreatitis,,,,
+PAN H,1,pan h,,,,
+TCerP,1,tcerp,,,,TCE
+Intox Men de,1,intox men de,,,,
+Miembros,1,miembros,,,,
+Infs Pulmonares,1,infs pulmonares,,,,
+TCEBN,1,tcebn,,,,TCE
+Absceso,1,absceso,,,,
+CuadroS,1,cuadros,,,,
+AbscesoVag,1,abscesovag,,,,
+Anoxia Post T,1,anoxia post t,ANOXIA,ANOXIA,,
+PG,1,pg,PG,PG,,
+BNAH,1,bnah,,,,BN
+NCH,1,nch,,,,CH
+Inf Miocardio LOC,1,inf miocardio loc,,,,LOC
+T Vag,1,t vag,T VAG,T VAG,,
+TCPT,1,tcpt,,,,
+HsPCPT,1,hspcpt,,,,
+ECEPVCES,1,ecepvces,,,,
+HIPCI,1,hipci,,,HIPC,
+ANE,1,ane,ANEN,ANEN,,
+TCIA,1,tcia,,,,
+TMT,1,tmt,,,,TM
+ANA,1,ana,ANA,ANA,,
+Maniobras Obstr,1,maniobras obstr,MANIOBRAS OBSTR,MANIOBRAS OBSTR,,
+PerxRH,1,perxrh,,,,
+LOCCHN,1,locchn,LOCCHN,LOCCHN,,CH
+Per AsH,1,per ash,,,,
+PERX APENDICITIS,1,perx apendicitis,,,,
+Violación,1,violacion,VIOLACION,VIOLACION,,
+TCF y T,1,tcf y t,,,,
+Q,1,q,,,,
+sd,1,sd,,,,
+BR,1,br,,,,
+AxI,1,axi,,,,
+U,1,u,,,,
+ANG,1,ang,ANG,ANG,,
+B y CH,1,b y ch,,,,CH
+PL y CH,1,pl y ch,,,,CH
+PL y TCP,1,pl y tcp,,,,
+HIsPST,1,hispst,HISPST,HISPST,,
+RB,1,rb,RB,RB,,
+Retención Placentaria,1,retencion placentaria,,,,
+PD,1,pd,PD,PD,,
+ANVE,1,anve,,,,
+Pancreatitis CH,1,pancreatitis ch,,,,CH
+TCFyCer,1,tcfycer,,,,
+HIPC C/S Fem,1,hipc c s fem,,,HIPC,
+Inf Pulm TromboFlobT,1,inf pulm tromboflobt,,,,
+Encef,1,encef,,,,
+AN PostAborto,1,an postaborto,,,,
+AECA,1,aeca,AECA,AECA,,
+T de cuello,1,t de cuello,,,,
+AXASPPOST PART,1,axasppost part,AXASPPOST PART,AXASPPOST PART,,AXA
+HPAFPsCT,1,hpafpsct,,,HPAF,
+TCMyT,1,tcmyt,TCMYT,TCMYT,,
+CPN,1,cpn,CPN,CPN,,PN
+Mordeduras roedores,1,mordeduras roedores,MORDEDURAS ROEDORES,MORDEDURAS ROEDORES,,
+SP,1,sp,,,,
+"Reb Cerebral, infart pulmonar",1,reb cerebral infart pulmonar,,,,
+AM,1,am,,,,
+EOM,1,eom,,,,
+Estudios Anatómicos,1,estudios anatomicos,,,,
+Lesiones Neur,1,lesiones neur,,,,
+aa,1,aa,,AXA,,
+ATMS,1,atms,,,,TM
+CREP,1,crep,CREP,CREP,,
+PEM,1,pem,PEM,PEM,,
+Malf Congénitas,1,malf congenitas,MALF CONGENITAS,MALF CONGENITAS,,
+PEGM,1,pegm,PEGM,PEGM,,
+FAM,1,fam,FAM,FAM,,
+DPSM,1,dpsm,DPSM,DPSM,,
+FCN,1,fcn,FCN,FCN,,
+Raticida y alcohol,1,raticida y alcohol,,,,
+Homopericardio compxI Miocardio,1,homopericardio compxi miocardio,,,,
+Absesos Pulmon,1,absesos pulmon,,,,
+TMSH,1,tmsh,,,,TM
+T.Cor.Med,1,t cor med,,,,
+HDAFP,1,hdafp,,,,
+BN y GasT,1,bn y gast,,,,BN
+HIC Cuello,1,hic cuello,,,,
+AxOVA,1,axova,,,,
+PNEH,1,pneh,,,,PN
+BNAsHs,1,bnashs,,,,BN
+LDE,1,lde,,,,
+Anxnova A.Rep Higado,1,anxnova a rep higado,,,,
+HIPCT,1,hipct,,,HIPC,
+T.C.Cero,1,t c cero,,,,
+Sec. Vasos de Brazos -,1,sec vasos de brazos,,,,
+Per X Perb Inf,1,per x perb inf,,,,
+TMBN,1,tmbn,,,,TM
+T.Cor.m,1,t cor m,,,,
+TMed,1,tmed,,,,TM
+Per.,1,per,,PER,,
+Pancopatitis (?),1,pancopatitis,,,,
+Inf. miocardio Quem,1,inf miocardio quem,,,,QUEM
+Inf. miocardio CHL,1,inf miocardio chl,,,,CH
+Pielona,1,pielona,,,,
+Inf. miocardio LOC,1,inf miocardio loc,,,,LOC
+Encéfalomalacia,1,encefalomalacia,,,,
+LOO,1,loo,,,,
+LC,1,lc,,,,
+ADVA,1,adva,,,,
+CHsPPA,1,chsppa,,,,CH
+TTP y MS,1,ttp y ms,TTP Y MS,TTP Y MS,,
+LOQ,1,loq,,,,
+Int. pul.inf.,1,int pul inf,,,,
+TS,1,ts,,,,
+HIPC C/Sue. Yugular,1,hipc c sue yugular,,,HIPC,
+TCconMed,1,tcconmed,,,,
+HsPc,1,hspc,,,,
+Asfixia por,1,asfixia por,,,,
+HPAFPTyP,1,hpafptyp,,,HPAF,HPAFPT
+Rastro Placentaris,1,rastro placentaris,,,,
+Momificación,1,momificacion,,,,
+HsPAFps,1,hspafps,,HSPAFP,HPAF,
+BN y Hidro...,1,bn y hidro,,,,BN
+TCCep Med,1,tccep med,,,,
+TCExHPAF,1,tcexhpaf,,,HPAF,TCE
+HPAPFPA,1,hpapfpa,,,,
+TAE,1,tae,,,,
+Septicernia,1,septicernia,,,,
+HsPAFsCT,1,hspafsct,,,HPAF,
+AE HPAFC,1,ae hpafc,,,HPAF,
+Sup. PS,1,sup ps,,,,
+CVYx,1,cvyx,,,,
+HSPAFPsA,1,hspafpsa,,HSPAFPSA,HPAF,
+HsPAFRs,1,hspafrs,,,HPAF,
+Bu,1,bu,,,,
+¿TCE?,1,tce,,TCE,,TCE
+As Post. partum,1,as post partum,,,,
+T.Cor.Med.,1,t cor med,,,,
+Perf. Intestin,1,perf intestin,,,,
+TCer.M,1,tcer m,,,,TCE
+TC Cos,1,tc cos,,,,
+TFE,1,tfe,,,,
+Pancreatotos,1,pancreatotos,,,,
+Intoxicación Alcoholica,1,intoxicacion alcoholica,,,,
+Feto,1,feto,,,,
+EnT Hemorragia,1,ent hemorragia,,,,
+BN AOMI,1,bn aomi,,,,BN
+Edema Glotis,1,edema glotis,,,,
+TCTyRaq,1,tctyraq,,,,TCT
+PerfIntestinal,1,perfintestinal,,,,
+SxHCC,1,sxhcc,,,,HC
+Panccreatitis,1,panccreatitis,,,,
+Carcinoma Pulmonar,1,carcinoma pulmonar,,,,
+Parto Dis,1,parto dis,,,,
+CA de Higado,1,ca de higado,,,,
+Pancreatitis y BN,1,pancreatitis y bn,,,,BN
+Sarcoma,1,sarcoma,,,,
+Intox C,1,intox c,,,,
+ByTT,1,bytt,BYTT,BYTT,,
+Edampsia,1,edampsia,,,,
+S.,1,s,,septicemia,,
+HsPAFyPC,1,hspafypc,,,HPAF,
+Infartos,1,infartos,,,,
+INTER ED CEB,1,inter ed ceb,,,,
+Parto Distósico,1,parto distosico,,,,
+HICdeMI,1,hicdemi,,,,
+Intox.Med,1,intox med,,INTOX MED,,
+AnxV,1,anxv,,,,
+HPIPcP,1,hpipcp,,,,
+Br y E,1,br y e,BR Y E,BR Y E,,
+ACGVAS,1,acgvas,,,,
+Intoxicación medicamento,1,intoxicacion medicamento,,,,
+Moningit,1,moningit,,,,
+HPAFPColumna,1,hpafpcolumna,,,HPAF,HPAFPC
+TTAyMI,1,ttaymi,,,,TTA
+TCEyFxIcorto,1,tceyfxicorto,,,,TCE
+HPAFPTR,1,hpafptr,,,HPAF,HPAFPT
+V Cejas Stress,1,v cejas stress,,,,
+Intox A,1,intox a,,,,
+PancreaT,1,pancreat,,,,
+TCExHIPC,1,tcexhipc,,,HIPC,TCE
+Meningitis Per,1,meningitis per,,,,
+BNXAsp,1,bnxasp,,,,BN
+Pancretitis,1,pancretitis,,,,
+HsIPcPTA,1,hsipcpta,,,HIPC,
+TCEN,1,tcen,,,,TCE
+E.Glot,1,e glot,,,,
+Tétanos,1,tetanos,,,,
+HsPAFPsTCuello,1,hspafpstcuello,,,HPAF,
+Pancret,1,pancret,,,,
+HPAFCue,1,hpafcue,,,HPAF,
+Abs. P,1,abs p,,,,
+EsCyP,1,escyp,,,,
+CSxTM,1,csxtm,,,,TM
+Ulcera Gástrica An,1,ulcera gastrica an,,,,
+HsPAFPCA,1,hspafpca,,,HPAF,
+HPAFRaquis,1,hpafraquis,,,HPAF,
+Inf. mesentérico,1,inf mesenterico,,,,
+Encéfalomalasia,1,encefalomalasia,,ENCEFALOMALASIA,,
+SxChancroBlanco,1,sxchancroblanco,,,,CH
+Atrepsia,1,atrepsia,,,,
+Ovioreta Dispensa,1,ovioreta dispensa,,,,DISPENSA
+AnxLegUterino,1,anxleguterino,,,,
+HIPsP,1,hipsp,,,,
+CHOE,1,choe,,,,CH
+SH endo,1,sh endo,,,,
+LOC Viceras,1,loc viceras,,,,LOC
+TMIder,1,tmider,,,,TM
+TVerT,1,tvert,,,,
+Intox alcoholica,1,intox alcoholica,,,,
+HsICPsT,1,hsicpst,,,,
+AxBRON,1,axbron,,,,
+IntoxAn,1,intoxan,,,,
+FDF,1,fdf,,,,
+Anoxie,1,anoxie,,,,
+F.Desarrollo,1,f desarrollo,,,,
+Parto Distos,1,parto distos,,,,
+HcC,1,hcc,,,,HC
+Desnutricion,1,desnutricion,,DESNUT,,
+CVGCO2,1,cvgco2,,,,CVG
+Hiper,1,hiper,,,,
+ASP,1,asp,,,,
+HsPSAFPs,1,hspsafps,,HSPAFP,,
+HsIPCPsH,1,hsipcpsh,,,HIPC,
+Gastritis Hemo,1,gastritis hemo,,,,
+n,1,n,,N,,
+Hipoglucemia,1,hipoglucemia,,,,
+TCCERV,1,tccerv,TCC,TCC,,
+Parto Prem An,1,parto prem an,,,,
+TTi,1,tti,,,,
+TCCervMed,1,tccervmed,,,,
+BN Quemaduras,1,bn quemaduras,,,,BN
+AMN,1,amn,,,,
+Reblandeciones,1,reblandeciones,,,,
+AnXA,1,anxa,,,,
+Sept,1,sept,,,,
+HIPIPT,1,hipipt,,,,
+PostP,1,postp,,,,
+TTVertebral,1,ttvertebral,,,,
+TPyMsTs,1,tpymsts,,,,
+TCE y P,1,tce y p,,,,TCE
+SSxHPAFPA,1,ssxhpafpa,,,HPAF,
+Aneurisma Abdominal,1,aneurisma abdominal,,,,
+Hom,1,hom,,,,
+LOC Inf mioc,1,loc inf mioc,,,,LOC
+TCCor,1,tccor,,,,
+HPAFPF,1,hpafpf,,,HPAF,
+AS-TT,1,as tt,,,,
+TRaF,1,traf,,,,
+HsIPCPII,1,hsipcpii,,,HIPC,
+Hemopericardio,1,hemopericardio,,,,
+Edema,1,edema,,,,
+HIPCsPs,1,hipcsps,,,HIPC,
+Intox Inhalantes,1,intox inhalantes,,,,
+Intox CVG,1,intox cvg,,,,CVG
+TCCerFacial,1,tccerfacial,,,,
+CVA,1,cva,,,,
+TCerHeo,1,tcerheo,,,,TCE
+CGH,1,cgh,,,,
+TCETCF,1,tcetcf,,,,TCE
+TCERV,1,tcerv,TCERV,TCERV,,TCE
+AAXHE por VP,1,aaxhe por vp,,,,
+Inf Inte,1,inf inte,,,,
+SxUlcera Per,1,sxulcera per,,,,
+HsIPPsT,1,hsippst,,,,
+Aneurisma,1,aneurisma,ANEURISMA,ANEURISMA,,
+TCO,1,tco,,,,
+Aborto Sept,1,aborto sept,,,,
+HPHP,1,hphp,,,,
+HsPsAF,1,hspsaf,,,,
+EO,1,eo,,,,
+HPF,1,hpf,,,,
+HsIPCPSC,1,hsipcpsc,,,HIPC,
+Rup Arteria Pulmonar,1,rup arteria pulmonar,,,,
+Choque Septico,1,choque septico,,,,CH
+PnxTM,1,pnxtm,,,,TM
+HPFPT,1,hpfpt,,,,
+HsPO,1,hspo,,,,
+Rep Uterino,1,rep uterino,,,,
+AnAxHE,1,anaxhe,,,,
+HPFAPT,1,hpfapt,,,,
+MBHPBF,1,mbhpbf,,,,
+Ictericia Hemolítica,1,ictericia hemolitica,,,,
+FPCER,1,fpcer,,,,
+HIPCM,1,hipcm,,,HIPC,
+Intoxicación alcohólica,1,intoxicacion alcoholica,,,,
+HIPIPTA,1,hipipta,,,,
+Insuf. Vasc.,1,insuf vasc,,,,
+BNxPer Uterino,1,bnxper uterino,BNXPER UTERINO,BNXPER UTERINO,,BN
+Pioartrosis,1,pioartrosis,,,,
+AOxGangrena,1,aoxgangrena,,,,
+AOxGangrenaxElec,1,aoxgangrenaxelec,,,,
+AOxNecrosis,1,aoxnecrosis,,,,
+"AOxInsuf, Vascular Perif.",1,aoxinsuf vascular perif,,,,
+AOxTA,1,aoxta,,,,
+OxTA,1,oxta,,,,
+Necrosis e I.,1,necrosis e i,,,,
+AOxLesión,1,aoxlesion,,,,
+AQTratAA,1,aqtrataa,,,,
+Traumatica,1,traumatica,,,,
+Izquemia,1,izquemia,,,,QUEM
+Necrosis no T,1,necrosis no t,,,,
+AOxHCC,1,aoxhcc,,,,HC
+AOxGang,1,aoxgang,,,,
+AOxHPAF,1,aoxhpaf,,,HPAF,
+Infec,1,infec,,,,
+Esfacela,1,esfacela,,,,
+AOxTM,1,aoxtm,,,,TM
+HsPAFPostas AOX,1,hspafpostas aox,,,HPAF,
+AOxMordCan,1,aoxmordcan,,,,
+E.Pulmonar,1,e pulmonar,,,,
+Inmadurez fetal,1,inmadurez fetal,,,,
+TCExM,1,tcexm,,,,TCE
+HsPAT,1,hspat,,,,
+An Post,1,an post,,,,
+Anx Aborto,1,anx aborto,,,,
+Septic,1,septic,,,,
+TCCMyT,1,tccmyt,,,,
+Moningo encef,1,moningo encef,,,,
+Insuf. Renal,1,insuf renal,,,,
+Infarto Mioc,1,infarto mioc,,,,
+HIPCPAP,1,hipcpap,,,HIPC,
+TTF,1,ttf,,,,
+TCE y Quem,1,tce y quem,,,,TCE
+P de TA,1,p de ta,,,,
+Por,1,por,,,,
+TMsSseIs,1,tmssseis,,,,TM
+SxT Rectal,1,sxt rectal,,,,
+HiPin,1,hipin,,,,
+Aneurisma Aórtico,1,aneurisma aortico,,,,
+Abcesos Cerebrales,1,abcesos cerebrales,,,,
+Quemduras,1,quemduras,,,,QUEM
+Hs.P.-,1,hs p,,,,
+HCV,1,hcv,,,,HC
+T.Cord.Med.,1,t cord med,,,,
+THAFPT,1,thafpt,,,,
+HsPsAFPsCTA,1,hspsafpscta,,,,
+TPEA,1,tpea,,,,
+AAyHE,1,aayhe,,,,
+HsPAFPCora,1,hspafpcora,,,HPAF,
+CSxHP,1,csxhp,,,,
+TCEyM,1,tceym,,,,TCE
+BNH,1,bnh,,,,BN
+HsIPsPs,1,hsipsps,,,,
+Hs,1,hs,,,,
+HPAPPA,1,hpappa,,,,
+DesnuT,1,desnut,,DESNUT,,
+TM4,1,tm4,,,,TM
+CH H,1,ch h,,,,CH
+proceso de infec,1,proceso de infec,,,,
+"A.Q.X. Tratamiento por Q 2°,3°",1,a q x tratamiento por q 2deg 3deg,,,,
+AQx Trombosis,1,aqx trombosis,,,,
+AQx insificiencia vascular,1,aqx insificiencia vascular,,,,
+AQx oseometria,1,aqx oseometria,,,,
+REAQx gangrena,1,reaqx gangrena,,,,
+AQx quemadura,1,aqx quemadura,,,,QUEM
+trom,1,trom,,,,
+AQxT osteo,1,aqxt osteo,,,,AQXT
+AQx gangrena,1,aqx gangrena,,,,
+AQxTrombosis,1,aqxtrombosis,,,,AQXT
+AQxT trastorno vascular,1,aqxt trastorno vascular,,,,AQXT
+AQx electroc,1,aqx electroc,,,,
+isquemia,1,isquemia,,,,QUEM
+AQx gang trau,1,aqx gang trau,,,,
+electroc,1,electroc,,,,
+HIPCPTyA,1,hipcptya,,,HIPC,
+quem,1,quem,,QUEM,,QUEM
+QQx quem,1,qqx quem,,,,QUEM
+AQx osteomelit,1,aqx osteomelit,,,,
+AQxTDiabetes,1,aqxtdiabetes,,,,AQXT
+AQxT c/soc vasc ne,1,aqxt c soc vasc ne,,,,AQXT
+Ax quem,1,ax quem,,,,QUEM
+AQx quem elec,1,aqx quem elec,,,,QUEM
+TCFyCM,1,tcfycm,TCFYCM,TCFYCM,,
+Tumor de MI,1,tumor de mi,,,,
+Ga,1,ga,,,,
+AQxT y Mac,1,aqxt y mac,,,,AQXT
+Tipo isquemia Lesiones Vasculares,1,tipo isquemia lesiones vasculares,,,,QUEM
+Gangrena Hu,1,gangrena hu,,,,
+Gangrena gas,1,gangrena gas,,,,
+PNyLOC,1,pnyloc,,,,LOC
+TQE,1,tqe,,,,
+BN Cisticerco sis cerebral,1,bn cisticerco sis cerebral,,,,BN
+HPAFPc,1,hpafpc,,HPAFPC,HPAF,HPAFPC
+HIPConT,1,hipcont,,,HIPC,
+Miningo encefalitis,1,miningo encefalitis,,,,
+INT,1,int,,,,
+AAXHE,1,aaxhe,,,,
+CcerT,1,ccert,,,,
+CA Piloro,1,ca piloro,,,,
+Chem,1,chem,,,,CH
+S. Peritonitis,1,s peritonitis,,,,
+Encéfalo ce,1,encefalo ce,,,,
+TCEyMH,1,tceymh,,,,TCE
+Lesiones,1,lesiones,,,,
+Electrocu,1,electrocu,,,,
+TP Inf. Miocardio,1,tp inf miocardio,,,,
+TMN,1,tmn,,,,TM
+PancreaTi,1,pancreati,,,,
+Perf. de color,1,perf de color,,,,
+intox. al,1,intox al,,,,
+Inf. Pulmo,1,inf pulmo,,,,
+ENTCOLITIS,1,entcolitis,ENTCOLITIS,ENTCOLITIS,,
+INTOX CIA,1,intox cia,INTOX CIA,INTOX CIA,,
+GASTROENT,1,gastroent,GASTROENT,GASTROENT,,
+TC Electroo,1,tc electroo,,,,
+Quemado,1,quemado,,,,QUEM
+TCCrM,1,tccrm,,,,
+FPT Anomia,1,fpt anomia,,,,
+LOC Inp.miocardio,1,loc inp miocardio,,,,LOC
+AOMsIs,1,aomsis,,,,
+TC-I,1,tc i,,,,
+TMTPN,1,tmtpn,,,,TM
+AQxAgenos,1,aqxagenos,,,,
+Gangrena Seco,1,gangrena seco,,,,
+GastroenT,1,gastroent,,GASTROENT,,
+Gastro,1,gastro,,,,
+HEMINTCRA,1,hemintcra,,,,
+EstMitral,1,estmitral,,,,TM
+Inf miocardio LOC,1,inf miocardio loc,,,,LOC
+BNCVGAE,1,bncvgae,,,,BN
+TTAEP,1,ttaep,,,,TTA
+AbsHe,1,abshe,,,,
+ANxRup Vasos Fam,1,anxrup vasos fam,,,,
+Entertis,1,entertis,,,,
+TCTRM,1,tctrm,,,,TCT
+HsPsAFPsCT,1,hspsafpsct,,,,
+HSPAPSTYA,1,hspapstya,,,,
+HPAF que sec arterias,1,hpaf que sec arterias,,,HPAF,
+Inf miocardio Hemoper Com,1,inf miocardio hemoper com,,,,
+N Inf miocardio,1,n inf miocardio,,,,
+Hema [...] Inf de miocard,1,hema inf de miocard,,,,
+TMsIns,1,tmsins,,,,TM
+Inf mio Pancreatitis,1,inf mio pancreatitis,,,,
+CH Desnut,1,ch desnut,,,,CH
+Higroma cerebral,1,higroma cerebral,,,,
+HsIPCsPst,1,hsipcspst,,,HIPC,
+TBE,1,tbe,,,,
+TCCMyA,1,tccmya,,,,
+Quem (carbonización),1,quem carbonizacion,,,,QUEM
+Atelectasia,1,atelectasia,,,,
+TCEyF,1,tceyf,,,,TCE
+Indeterminab,1,indeterminab,,,,
+BN Heria [gatrang...],1,bn heria gatrang,,,,BN
+Hidrocefalia Cong,1,hidrocefalia cong,,,,
+Ins Hepática,1,ins hepatica,,,,
+ENTA,1,enta,ENTA,ENTA,,
+TMsINS,1,tmsins,,,,TM
+SHxAQMI,1,shxaqmi,,,,
+HsPAFPCCue,1,hspafpccue,,,HPAF,
+TbHepatica,1,tbhepatica,,,,
+Colitis,1,colitis,,,,
+AQxPseudoartrosis,1,aqxpseudoartrosis,,,,
+necroso,1,necroso,,,,
+necro,1,necro,,,,
+TGERM,1,tgerm,,,,
+No se recibieron,1,no se recibieron,,,,
+ANeN,1,anen,,ANEN,,
+Anemia Aguda,1,anemia aguda,,,,
+AETCE,1,aetce,,,,TCE
+Atelectasia P,1,atelectasia p,,,,
+HPAFC/S,1,hpafc s,,,HPAF,
+Traumatismo Materno,1,traumatismo materno,,,,
+TM in:útero,1,tm in utero,,,,TM
+ANoN,1,anon,,,,
+Falta de desarrollo,1,falta de desarrollo,,,,
+Desgarro vaginal post parto,1,desgarro vaginal post parto,,,,
+Anoxia Intrav,1,anoxia intrav,,,,
+AsfNN,1,asfnn,,,,
+Anoxia Fetal,1,anoxia fetal,,,,
+Atelectacia Pulmonar,1,atelectacia pulmonar,,,,
+Coagulos Fibri,1,coagulos fibri,,,,
+Coagulos,1,coagulos,,,,
+Restos Placent,1,restos placent,,,,
+MalfCongenita,1,malfcongenita,,,,
+TCE por parto distésico,1,tce por parto distesico,,,,TCE
+HsPAFPsTAS,1,hspafpstas,,,HPAF,
+FCPT,1,fcpt,,,,
+Post Legrado,1,post legrado,POST LEGRADO,POST LEGRADO,,
+AAxVE,1,aaxve,,,,
+VESHHr,1,veshhr,,,,
+HIPC que Sec paquete Vasc cuello,1,hipc que sec paquete vasc cuello,,,HIPC,
+TLT,1,tlt,,,,
+Estonosis eso,1,estonosis eso,,,,
+AnxRet.RestosPlacent.,1,anxret restosplacent,,,,
+Intox. Medic.,1,intox medic,,,,
+Dispensa AVIO,1,dispensa avio,,,,DISPENSA
+(CVGxI),1,cvgxi,,,,CVG
+AsA,1,asa,,,,
+Meningo,1,meningo,,,,
+Cisticer,1,cisticer,,,,
+HPAFA,1,hpafa,,,HPAF,
+Stress Ulcera,1,stress ulcera,,,,
+H Intra Cer,1,h intra cer,H INTRA CER,H INTRA CER,,
+Deshidratación,1,deshidratacion,,,,
+Inf. miocardio Hemoperic.,1,inf miocardio hemoperic,,,,
+LOE,1,loe,,,,
+HsPesPs,1,hspesps,,,,
+An.,1,an,,AN,,
+Viceras TMI,1,viceras tmi,,,,TM
+Maniobras Abortivas,1,maniobras abortivas,,,,
+HsPsPC,1,hspspc,,,,
+septicemia,1,septicemia,,septicemia,,
+Ret. Placenta Per.,1,ret placenta per,,,,
+HPAE,1,hpae,,,,
+Panc,1,panc,,,,
+TMsSI,1,tmssi,,,,TM
+Meningitis Pur.,1,meningitis pur,,,,
+HIPCc/sPV,1,hipcc spv,,,HIPC,
+Eletro,1,eletro,,,,
+SHHP,1,shhp,,,,
+TPAyMs,1,tpayms,,,,
+TCE Exhumación,1,tce exhumacion,,,,TCE
+CVG Intox Substancia,1,cvg intox substancia,,,,CVG
+Inf. Pulmonares,1,inf pulmonares,,,,
+BioxTM,1,bioxtm,,,,TM
+BN Ent,1,bn ent,,,,BN
+Hepot,1,hepot,,,,
+Cer,1,cer,,,,
+Gastroen,1,gastroen,,,,
+RupUtero,1,ruputero,,,,
+IntoxSustancia,1,intoxsustancia,,,,
+HPAEPT,1,hpaept,,,,
+TAPyMI,1,tapymi,,,,
+Insuficiencia Redac. Aguda,1,insuficiencia redac aguda,,,,
+AxCompreToracica,1,axcompretoracica,,,,
+HsPsAFAP,1,hspsafap,,,,
+TCerCerM,1,tcercerm,,,,TCE
+TCerMx,1,tcermx,,,,TCE
+GasT,1,gast,,,,
+TAA,1,taa,,,,
+Cardiopatia,1,cardiopatia,CARDIOPATIA,CARDIOPATIA,,
+SxresecRecTal,1,sxresecrectal,,,,
+HsPAFPCT,1,hspafpct,,,HPAF,
+HPAFPQuem,1,hpafpquem,,,HPAF,QUEM
+Tumor Hipofisiari,1,tumor hipofisiari,,,,
+SecVena,1,secvena,,,,
+HPAFP AOVA,1,hpafp aova,,,HPAF,AOVA
+Man. Abortivas,1,man abortivas,,,,
+Listicareosis Pare,1,listicareosis pare,,,,
+Gan,1,gan,,,,
+AQMS,1,aqms,,,,
+CB,1,cb,,,,
+PerxRetRe,1,perxretre,,,,
+TCE AP,1,tce ap,,,,TCE
+LOC Inf. miocardio,1,loc inf miocardio,,LOC INF MIOCARDIO,,LOC
+Hip.Por,1,hip por,,,,
+Into,1,into,,,,
+Gastrit,1,gastrit,,,,
+Enf,1,enf,,,,
+TCPA,1,tcpa,,,,
+HsICC,1,hsicc,,,,
+Eoteritis,1,eoteritis,,,,
+ANEM,1,anem,,,,
+SHVHC,1,shvhc,,,,HC
+HIPCPFPer,1,hipcpfper,,,HIPC,
+Inf. mioc (LOC,1,inf mioc loc,,,,LOC
+HIPcPF,1,hipcpf,,,HIPC,
+IndoTerm,1,indoterm,,,,
+HsIPCTCCer,1,hsipctccer,,,HIPC,
+Menig,1,menig,,,,
+TCCervA,1,tccerva,,,,
+Gas Domestico Intox por MO,1,gas domestico intox por mo,,,,
+TromPI,1,trompi,,,,
+Entoritis,1,entoritis,,,,
+HIPC Cuello,1,hipc cuello,,,HIPC,
+HIPcPTs,1,hipcpts,,,HIPC,
+Perforaci,1,perforaci,,,,
+AOX,1,aox,,,,
+CSXT,1,csxt,,,,
+An cuello,1,an cuello,,,,
+Inf.Miocardio LOC,1,inf miocardio loc,,,,LOC
+LOS,1,los,,,,
+Oclusión InTest,1,oclusion intest,,,,
+Amputación,1,amputacion,,,,
+TMsTs,1,tmsts,,,,TM
+BNXMANIOBRAS ABORTIVAS,1,bnxmaniobras abortivas,BNXMANIOBRAS ABORTIVAS,BNXMANIOBRAS ABORTIVAS,,BN
+Hernia Ing,1,hernia ing,,,,
+AN Vicera Péptica,1,an vicera peptica,,,,
+Inf. Pulmón,1,inf pulmon,,,,
+Reb. cerebral,1,reb cerebral,,,,
+AnEmbarazo mo,1,anembarazo mo,,,,
+HemoperCorn,1,hemopercorn,,,,
+Ruptura,1,ruptura,,,,
+HPPFPT,1,hppfpt,,,,
+TCFyT,1,tcfyt,,,,
+HIPcPCC,1,hipcpcc,,,HIPC,
+HCVulvo-Vaginal,1,hcvulvo vaginal,,,,HC
+TCFyMB,1,tcfymb,,,,
+EN ES,1,en es,EN ES,EN ES,,
+"Dispensa ""avionetazo""",1,dispensa avionetazo,,,,DISPENSA
+Bronco A,1,bronco a,,,,
+TCerRaquidea,1,tcerraquidea,,,,TCE
+HPAF med,1,hpaf med,,,HPAF,
+TCCermed,1,tccermed,,TCCM,,
+Pancreatitis crón,1,pancreatitis cron,,,,
+AnPostLegra,1,anpostlegra,,,,
+Rup AOVA nal,1,rup aova nal,,,,AOVA
+"LOC ""Inf Miocardio""",1,loc inf miocardio,"LOC ""INF MIOCARDIO""",LOC INF MIOCARDIO,,LOC
+"LOC ""Ruo Art Coronaria""",1,loc ruo art coronaria,,,,LOC
+Intox Marihuana y Coment,1,intox marihuana y coment,,,,
+CVTC,1,cvtc,,,,
+An. Post. Parto,1,an post parto,,,,
+HsPCsPsT,1,hspcspst,,,,
+EP Intox Ci,1,ep intox ci,EP INTOX CI,EP INTOX CI,,
+HsI - PCPsTyA,1,hsi pcpstya,,,,
+Perf. Gastrica,1,perf gastrica,,,,
+Par,1,par,,,,
+HsIPCsPsTC,1,hsipcspstc,,,HIPC,
+CVG CO,1,cvg co,,,,CVG
+HsPAFPsAC,1,hspafpsac,,,HPAF,
+Re,1,re,,,,
+TCH,1,tch,,,,CH
+AQxElectrocución,1,aqxelectrocucion,,,,

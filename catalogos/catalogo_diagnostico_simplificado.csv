@@ -1,0 +1,331 @@
+Data,Valor,Equivalencia,Notas
+-,sin datos,S-D,
+?,sin datos,S-D,
+??,sin datos,S-D,
+[Dec],,DEC,*
+A NE N,asfixia neo natorum,ANEN,
+AA,asfixia por ahorcamiento,AXA,
+HE por VP,Herida por VP,HEporVP,*
+ABA,aborto,ABORTO,*
+ABORTO,aborto,ABORTO,
+Aborto incomp,aborto,ABORTO,*
+Aborto Sep,aborto + septicemia,ABORTO + S,*
+Aborto Séptico,aborto + septicemia,ABORTO + S,*
+abosto séptico,aborto + septicemia,ABORTO + S,*
+abseso hep,abseso hepático,ABSESO HEP,*
+AC,,AC,*
+ACN,,ACN,*
+AE,asfixia por estrangulación,AE,
+AECA,,AECA,*
+AH,asfixia por ahorcamiento,AXA,*
+AN,anemia,AN,
+AN MANIOBRAS ABORT,anemia + aborto,AN + ABORTO,*
+AN POS,anemia postparto,AN POS,*
+AN POST PART,anemia postparto,AN POS,*
+AN RUP  AOVA,anemia + asfixia por obstrucción de vías aéreas,AN + AOVA,*
+RUP UTERO,ruptura utero,RUP UTERO,*
+Aneurisma,aneurisma,ANEURISMA,*
+ANA,,ANA,*
+AND,,AND,*
+ANE,asfixia neo natorum,ANEN,*
+ANEN,asfixia neo natorum,ANEN,
+Anencefalia,anencefalia,ANENCEFALIA,*
+ANEON,asfixia neo natorum,ANEN,
+ANG,,ANG,*
+ANN,asfixia neo natorum,ANEN,
+ANOXIA,anoxia,ANOXIA,
+Anoxia Post T,anoxia,ANOXIA,*
+ANP PREVIA,,ANP PREVIA,*
+ANRU,,ANRU,*
+ANxVE,,ANXVE,*
+AOA,,AOA,*
+AOMI,,AOMI,*
+AOVA,asfixia por obstrucción de vías aéreas,AOVA,
+AOVAS,,AOVAS,*
+AOXT,amputación quirúrgica consecutiva al traumatismo,AQXT,
+AQ,,AQ,*
+AQM,,AQM,*
+AQMI,,AQMI,*
+AQMI-BN,,AQMI-BN,*
+AQT,amputación quirúrgica consecutiva al traumatismo,AQXT,
+AQXT,amputación quirúrgica consecutiva al traumatismo,AQXT,
+AS,asfixia por sofocación,ASF,
+ASB,asfixia por sumersion,ASB,
+ASE,,ASE,*
+ASF,asfixia por sofocación,ASF,
+AsHs,,ASHS,*
+AT,amputación traumática,AT,
+AVA,,AVA,*
+AVC,,AVC,*
+AVEN,,AVEN,*
+AXA,asfixia por ahorcamiento,AXA,
+AXAH,asfixia por ahorcamiento,AXA,
+AXASPPOST PART,,AXASPPOST PART,*
+AXBronco,,AXBRONCO,*
+AXBRONCOASPIRACION,asfixia por broncoaspiracion,AXBRONCOASPIRACION,
+B,,B,*
+BBNT,bronconeumonia bilateral no traumatica,BN,
+BN,bronconeumonia,BN,
+BNB,,BNB,*
+BNT,bronconeumonia no traumatica,BN,
+BNXMANIOBRAS ABORTIVAS,,BNXMANIOBRAS ABORTIVAS,*
+BNxPer Uterino,,BNXPER UTERINO,*
+BNxTMI,,BNXTMI,*
+Br y E,,BR Y E,*
+Bronco,,BRONCO,*
+ByTT,,BYTT,*
+C,cirrosis,CH,
+Cardiopatia,,CARDIOPATIA,*
+CG,,CG,*
+CH,cirrosis hepatica,CH,
+CISTICERCOSIS,cisticercosis,CISTICERCOSIS,
+CL,conjunto de lesiones,CL,
+CPN,,CPN,*
+CREP,,CREP,*
+CRG,,CRG,*
+Cuadro Séptico por aborto,,CUADRO SEPTICO POR ABORTO,*
+CUG,,CUG,*
+CVB,,CVB,*
+CVG,congestion visceral generalizada,CVG,
+CVG INTOX ARESEMICO,,CVG INTOX ARESEMICO,*
+CVY,,CVY,*
+Desgarro vaginal post parto:DESGARRO VAGINAL POST PARTO,,,*
+DESNUT,desnutricion,DESNUT,
+DESNUTRICION,desnutricion,DESNUT,
+Discracia,,DISCRACIA,*
+Disp,,DISP,*
+DISPENSA,dispensa,DISPENSA,
+DISPENSAN,dispensa,DISPENSA,
+DPSM,,DPSM,*
+E,,E,*
+EA,,EA,*
+EC,edema cerebral,EC,
+ECEP,,ECEP,*
+ECEPCVG,,ECEPCVG,*
+ELECTROCUCION,electrocucion,ELECTROCUCION,
+ELECTROCUTADO,electrocucion,ELECTROCUCION,
+EM,,EM,*
+EN ES,,EN ES,*
+ENCÉFALOMALASIA,,ENCEFALOMALASIA,*
+ENT,enteritis,ENT,
+ENTA,,ENTA,*
+ENTCOLITIS,,ENTCOLITIS,*
+Enter,,ENTER,*
+ENTERITIS,enteritis,ENT,
+EOC,enfermedad orgánica del corazón,LOC,
+EP,edema pulmonar,EP,
+EP e Ins Renal,,EP E INS RENAL,*
+EP Intox Ci,,EP INTOX CI,*
+EPB Comp De parto distósico,,EPB COMP DE PARTO DISTOSICO,*
+EPSM,,EPSM,*
+EX PSM,expulsion prematura del seno materno,EX PSM,
+EXP PSM,expulsion prematura del seno materno,EX PSM,
+EXPPMS,expulsion prematura del seno materno,EX PSM,
+EXPPSM,expulsion prematura del seno materno,EX PSM,
+FAM,,FAM,*
+FCN,,FCN,*
+FCPN,falta de cuidado post natales,FCPN,
+FD,,FD,*
+Flegmon,,FLEGMON,*
+FMI,,FMI,*
+frac,,FRAC,*
+G,gangrena,GANG,
+GANG,gangrena,GANG,
+GANGRENA,gangrena,GANG,
+GASTROENT,,GASTROENT,*
+GASTROENTERITIS,gastroenteritis,GASTROENTERITIS,
+Glomerulo,,GLOMERULO,*
+H Intra Cer,,H INTRA CER,*
+HC,hemorragia cerebral,HC,
+HCAM,,HCAM,*
+HE,,HE,*
+HEM,,HEM,*
+Hem Post,,HEM POST,*
+HemPul,,HEMPUL,*
+HIP,herida por instrumento punzo cortante,HIP,
+HIPC,herida por instrumento punzo cortante,HIP,
+HIPC,herida por instrumento punzocortante penetrante,HIPC,
+HIPCP,herida por instrumento punzocortante penetrante,HIPC,
+HIPCPA,herida por instrumento punzocortante penetrante de abdomen,HIPCPA,
+HIPCPC,herida por instrumento punzocortante penetrante de cuello,HIPCPC,
+HIPCPT,herida por instrumento punzocortante penetrante de tórax,HIPCPT,
+HIPCPTA,herida por instrumento punzocortante penetrante tórax y abdomen,HIPCPTA,
+HIPCPV,,HIPCPV,*
+HIsPST,,HISPST,*
+HPA,herida por proyectil de arma de fuego,HPAF,
+HPAF,herida por proyectil de arma de fuego,HPAF,
+HPAFP,herida por proyectil de arma de fuego penetrante,HPAFP,
+HPAFP Cara y C,,HPAFP CARA Y C,*
+HPAFPA,herida por proyectil de arma de fuego penetrante de abdomen,HPAFPA,
+HPAFPC,herida por proyectil de arma de fuego penetrante de cráneo,HPAFPC,
+HPAFPT,herida por proyectil de arma de fuego penetrante de tórax,HPAFPT,
+HPAFPTA,herida por proyectil de arma de fuego penetrante de tórax y abdomen,HPAFPTA,
+HPAFPTYA,herida por proyectil de arma de fuego penetrante de tórax y abdomen,HPAFPTA,
+HPAFPTyV,,HPAFPTYV,*
+HPAFPV,herida por proyectil de arma de fuego penetrante de vientre,HPAFPV,
+HPAP,herida por proyectil de arma de fuego penetrante,HPAFP,
+HPFPC,,HPFPC,*
+HPIPCPC,,HPIPCPC,*
+HPIPCPT,herida por proyectil de arma de fuego penetrante de tórax,HPAFPT,
+HPPAFP,herida por proyectil de arma de fuego penetrante,HPAFP,
+HPPAFPC,herida por proyectil de arma de fuego penetrante de cráneo,HPAFPC,
+HPPAFPT,herida por proyectil de arma de fuego penetrante de tórax,HPAFPT,
+Hprfpc,,HPRFPC,*
+HSIP,heridas por instrumento punzo cortante,HSIP,
+HSIPC,heridas por instrumento punzo cortante,HSIP,
+HSIPCPS,heridas por instrumento punzo cortante penetrantes,HSIPCPS,
+HSIPCPST,heridas por instrumento punzo cortante penetrantes de tórax,HSIPCPST,
+HSIPCPSTA,heridas por instrumento punzo cortante penetrantes de tórax y abdomen,HSIPCPSTA,
+HSPA,heridas por proyectil de arma de fuego,HSPA,
+HSPAF,heridas por proyectil de arma de fuego,HSPA,
+HsPAFAC,,HSPAFAC,*
+HSPAFP,heridas por proyectil de arma de fuego penetrante,HSPAFP,
+HSPAFPC,heridas por proyectil de arma de fuego penetrante de cráneo,HSPAFPC,
+HSPAFPS,heridas por proyectil de arma de fuego penetrante,HSPAFP,
+HSPAFPSA,heridas por proyectil de arma de fuego penetrantes de abdomen,HSPAFPSA,
+HSPAFPSC,heridas por proyectil de arma de fuego penetrante de cráneo,HSPAFPC,
+HSPAFPST,heridas por proyectil de arma de fuego penetrantes de tórax,HSPAFPST,
+HSPAFPSTA,heridas por proyectil de arma de fuego penetrantes de tórax y abdomen,HSPAFPSTA,
+HsPAPPTyA,,HSPAPPTYA,*
+HSPSAFPS,heridas por proyectil de arma de fuego penetrante,HSPAFP,
+HSPSAFPST,heridas por proyectil de arma de fuego penetrantes de tórax,HSPAFPST,
+I,,I,*
+IA,,IA,*
+ILEGIBLE,ilegible,ILEGIBLE,
+Imod,,IMOD,*
+INDETERMINABLE,indeterminado,INDETERMINADO,
+INDETERMINADO,indeterminado,INDETERMINADO,
+Inf,,INF,*
+Inf Miocardio,,INF MIOCARDIO,*
+INFARTO PULMONAR,,INFARTO PULMONAR,*
+Infartos ps Cerebro,,INFARTOS PS CEREBRO,*
+INS,,INS,*
+INSEP,,INSEP,*
+INT MED,,INT MED,*
+INTOX,intoxicacion,INTOX,
+INTOX CIA,,INTOX CIA,*
+INTOX CO2,intoxicación por co2,INTOX CO2,
+Intox Med,,INTOX MED,*
+INTOXICACION,intoxicacion,INTOX,
+INTOXTAP,,INTOXTAP,*
+IP,,IP,*
+LO TROMBOSIS,,LO TROMBOSIS,*
+LOC,enfermedad orgánica del corazón,LOC,
+"LOC ""Inf Miocardio""",,"LOC ""INF MIOCARDIO""",*
+LOC INF MIOCARDIO,infarto agudo al miocardio,LOC INF MIOCARDIO,
+LOC TROM CORONARIA,,LOC TROM CORONARIA,*
+LOCCHN,,LOCCHN,*
+LOCH,,LOCH,*
+Malf Congénitas,,MALF CONGENITAS,*
+Maniobras Obstr,,MANIOBRAS OBSTR,*
+Menin,,MENIN,*
+Mening,,MENING,*
+MENINGITIS,meningitis,MENINGITIS,
+Meningitis T,,MENINGITIS T,*
+Mordeduras roedores,,MORDEDURAS ROEDORES,*
+MP,,MP,*
+MPyB,,MPYB,*
+MT,,MT,*
+N,neumonia,N,
+NECROSIS,necrosis,NECROSIS,
+NO COPIAS XOCO,no copias xoco,NO COPIAS XOCO,
+NxBroncoasp,,NXBRONCOASP,*
+P,,P,*
+PANCREATITIS,pancreatitis,PANCREATITIS,
+Parto distosico AN x Rup Uterino,,PARTO DISTOSICO AN X RUP UTERINO,*
+PD,,PD,*
+PEGM,,PEGM,*
+PEM,,PEM,*
+PER,peritonitis,PER,
+Perit nó T,,PERIT NO T,*
+PERITONITIS,peritonitis,PER,
+PG,,PG,*
+Pielonefritis,,PIELONEFRITIS,*
+PL,,PL,*
+PN,pleuro pneumonia,PN,
+PN TCE,,PN TCE,*
+Post Legrado,,POST LEGRADO,*
+PTE,diagnostico no determinable (pleuroneumonia o septicemia),PTE,
+QOVQ,,QOVQ,*
+QUEM,quemaduras,QUEM,
+QUEMADURA,quemaduras,QUEM,
+QUEMADURAS,quemaduras,QUEM,
+RB,,RB,*
+RC,,RC,*
+Retención Placen,,RETENCION PLACEN,*
+Rup Uterina,,RUP UTERINA,*
+S,septicemia,septicemia,
+S-D,sin datos,S-D,
+SALICILI,,SALICILI,*
+SEPTICEMIA,septicemia,septicemia,
+SH,,SH,*
+SxCuadro de obs Sigmoides,,SXCUADRO DE OBS SIGMOIDES,*
+T,diagnostico no determinable,T,
+T Encefàlico,,T ENCEFALICO,*
+T M,traumatismo multiple,TM,
+T Vag,,T VAG,*
+TA,traumatismo abdominal,TA,
+TAP,traumatismo abdomino pelvico,TAP,
+TB,tuberculosis,TB,
+TC,traumatismo cervical,TCERV,
+TC Dorsal,,TC DORSAL,*
+TCA,traumatismo craneal abdominal,TCA,
+TCABN,,TCABN,*
+TCAP,traumatismo cráneo abdomino pelvico,TCAP,
+TCC,traumatismo craneo cervical,TCC,
+TCCA,,TCCA,*
+TCCER,traumatismo craneo cervical,TCC,
+TCCERMED,traumatismo craneo cervico medular,TCCM,
+TCCERT,traumatismo craneo cervico toracico,TCCT,
+TCCERV,traumatismo craneo cervical,TCC,
+TCCM,traumatismo craneo cervico medular,TCCM,
+TCCMA,,TCCMA,*
+TCCT,traumatismo craneo cervico toracico,TCCT,
+TCE,trauma craneoencefalico,TCE,
+TCE,traumatismo craneo encefálico,TCE,
+TCE,traumatismo craneoencefalico,TCE,
+TCEA,traumatismo cráneo encefálico abdominal,TCEA,
+TCER,traumatismo cervical,TCERV,
+TCERM,traumatismo craneo cervico medular,TCCM,
+TCERMED,traumatismo craneo cervico medular,TCCM,
+TCERT,traumatismo craneo cervico toracico,TCCT,
+TCERV,traumatismo cervical,TCERV,
+TCERVICAL,traumatismo cervical,TCERV,
+TCERVMED,traumatismo cervical medular,TCM,
+TCET,traumatismo craneoencefalico toracico,TCET,
+TCEyT,,TCEYT,*
+TCF,traumatismo craneo facial,TCF,
+TCF y CM,,TCF Y CM,*
+TCFyCM,,TCFYCM,*
+TCFyCT,,TCFYCT,*
+TCM,traumatismo cervical medular,TCM,
+TCMyT,,TCMYT,*
+TCP,traumatismo cráneo abdomino pelvico,TCAP,
+TCRM,traumatismo cráneo raqui medular,TCRM,
+TCT,traumatismo craneo toracico,TCT,
+TCTA,traumatismo craneal torácico abdominal,TCTA,
+TCTAP,traumatismo cervical toracico abdomino pelvico,TCTAP,
+TCTP,traumatismo craneo toracico pelvico,TCTP,
+TM,traumatismo multiple,TM,
+TMI,traumatismo de miembro inferior,TMI,
+TMIS,traumatismo de miembros inferiores,TMIS,
+TMIS,traumatismo de miembros inferiores,TMIS,
+TMS,traumatismo de miembro superior,TMS,
+TMSIS,traumatismo de miembros inferiores,TMIS,
+TMsItS,,TMSITS,*
+TP,traumatismo pelvico,TP,
+TROMBOSIS,trombosis,TROMBOSIS,
+TT,trauma toracico,TT,
+TT,traumatismo toracico,TT,
+TTA,traumatismo toracico abdominal,TTA,
+TTAF,,TTAF,*
+TTAP,traumatismo toracico abdomino pelvico,TTAP,
+TTC,,TTC,*
+TTP,traumatismo toracico pelvico,TTP,
+TTP y MS,,TTP Y MS,*
+Tumor,,TUMOR,*
+Tumuración Maligna de riñón,,TUMURACION MALIGNA DE RINON,*
+ULCERAS,,ULCERAS,*
+VE,varices esofagicas,VE,
+VILLA,villa,VILLA,
+Violación,,VIOLACION,*

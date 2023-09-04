@@ -1,9 +1,6 @@
-jupyterlab
-ydata-profiling
-
 numpy
 pandas
-openpyxl==3.0.10
+openpyxl
 
 matplotlib
 seaborn
@@ -11,3 +8,6 @@ seaborn
 unidecode
 thefuzz[speedup]
 wibblywobbly
+
+jupyterlab
+ydata-profiling
