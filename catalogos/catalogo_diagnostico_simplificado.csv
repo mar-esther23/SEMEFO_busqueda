@@ -1,351 +1,351 @@
 Diagnostico,Equivalencia,Extendido
-S-D,S-D,sin datos
-TM,TM,traumatismo multiple
-TCE,TCE,traumatismo craneo encefalico
-BN,BN,bronconeumonia no traumatica
-CVG,CVG,congestion visceral generalizada
-CH,CH,cirrosis hepatica
-TCT,TCT,traumatismo craneo torax
-LOC,LOC,enfermedad organica del corazon
-AOVA,AOVA,asfixia por obstruccion de vias aereas
-HPAFPC,HPAFPC,herida arma fuego craneo
-Dispensa,DISPENSA,dispensa
-PN,PN,pleuro pneumonia
-Quemaduras,QUEM,quemaduras
-HPAFPT,HPAFPT,herida arma fuego torax
-Quem,QUEM,quemaduras
-ASB,ASB,asfixia por sumersion
-AA,AXA,asfixia por ahorcamiento
-HC,HC,hemorragia cerebral
-TTA,TTA,traumatismo torax abdomen
-AQxT,AQXT,amputacion quirurgica consecutiva al traumatismo
-TMI,TMI,traumatismo miembro inferior
-ANN,ANEN,asfixia neo natorum
-TA,TA,traumatismo abdomen
-TT,TT,traumatismo torax
-N,N,neumonia
-HPAFP,HPAF,herida arma fuego
-TB,TB,tuberculosis
-TCA,TCA,traumatismo craneo abdomen
-HPAFPA,HPAFPA,herida arma fuego abdomen
-ExpPSM,EXPSM,expulsion prematura del seno materno
-S,SEPTICEMIA,septicemia
-HPAF,HPAF,herida arma fuego
-,S-D,sin datos
-HIPCPT,HIPCPT,herida punzo cortante torax
-TP,TP,traumatismo pelvis
-HsPAFPs,HPAF,herida arma fuego
-TCTA,TCTA,traumatismo craneo torax abdomen
-TAP,TAP,traumatismo abdomen pelvis
-Electrocucion,ELECTROCUCION,electrocucion
-TC,TCERV,traumatismo cervical
-AE,AE,asfixia por estrangulacion
-EP,EP,edema pulmonar
-TCF,TCF,traumatismo
-TCP,TCAP,traumatismo craneo abdomen pelvis
-HPAFPTA,HPAFPTA,herida arma fuego torax abdomen
-AOxT,AQXT,amputacion quirurgica consecutiva al traumatismo
-ANEN,ANEN,asfixia neo natorum
-B,B,diagnostico no determinable
-Exp. PSM,EXPSM,expulsion prematura del seno materno
-EX PSM,EXPSM,expulsion prematura del seno materno
-Per,PER,peritonitis
-AS,ASF,asfixia por sofocacion
-AN,AN,anemia
-TCCerv,TCC,traumatismo craneo cervical
-HPA,HPAF,herida arma fuego
-C,CH,cirrosis hepatica
-EC,EC,edema cerebral
-TCCer,TCC,traumatismo craneo cervical
-VE,VE,varices esofagicas
-Dispensan,DISPENSA,dispensa
-Exp PSM,EXPSM,expulsion prematura del seno materno
-HIPCP,HIPC,herida punzo cortante
-An,AN,anemia
-ENT,ENT,enteritis
-TCET,TCET,traumatismo craneo encefalico torax
-HIPCPA,HIPCPA,herida punzo cortante abdomen
-TTP,TTP,traumatismo torax pelvis
-Ent,ENT,enteritis
-HsPAFPsTA,HPAFPTA,herida arma fuego torax abdomen
-TCCM,TCCM,traumatismo craneo cervico medular
-Pancreatitis,PANCREATITIS,pancreatitis
-HsPAFPsT,HPAFPT,herida arma fuego torax
-TCerMed,TCCM,traumatismo craneo cervico medular
-Indeterminable,INDETERMINADO,indeterminado
-HsIPCPs,HIPC,herida punzo cortante
-HIPC,HIPC,herida punzo cortante
-AQT,AQXT,amputacion quirurgica consecutiva al traumatismo
-TTAP,TTAP,traumatismo torax abdomen pelvis
 A,A,diagnostico no determinable
-TCerv,TCERV,traumatismo cervical
-P,P,diagnostico no determinable
-TCC,TCC,traumatismo craneo cervical
-TCM,TCM,traumatismo cervical medular
-BNT,BN,bronconeumonia no traumatica
-Gangrena,GANG,gangrena
-TCCerMed,TCCM,traumatismo craneo cervico medular
-CVY,CVY,diagnostico no determinable
-TMsIs,TMI,traumatismo miembro inferior
-TCAP,TCAP,traumatismo craneo abdomen pelvis
-HsIPCPsT,HIPCPT,herida punzo cortante torax
-HIPCPTA,HIPCPTA,herida punzo cortante torax abdomen
-Tb,TB,tuberculosis
-CL,CL,conjunto lesiones
-Gang,GANG,gangrena
-HsPAF,HPAF,herida arma fuego
-TCer,TCERV,traumatismo cervical
-Indeterminado,INDETERMINADO,indeterminado
-T,T,diagnostico no determinable
-HsPA,HPAF,herida arma fuego
-AxA,AXA,asfixia por ahorcamiento
-A NE N,ANEN,asfixia neo natorum
-AT,AT,amputacion traumatica
-SH,SH,diagnostico no determinable
-EOC,LOC,enfermedad organica del corazon
-TMS,TMS,traumatismo miembro superior
-HIPcPT,HIPCPT,herida punzo cortante torax
-E,E,diagnostico no determinable
 Aborto,ABORTO,aborto
-TCEA,TCEA,traumatismo craneo encefalico abdomen
-QUemaduras,QUEM,quemaduras
-FCPN,FCPN,falta cuidado post natales
-Intox,INTOX,intoxicacion
-Meningitis,MENINGITIS,meningitis
-HsPAFPsC,HPAFPC,herida arma fuego craneo
-QUEMADURAS,QUEM,quemaduras
-CQ,CQ,diagnostico no determinable
-AQ,AQ,amputacion quirurgica
-HsIPCPsTA,HIPCPTA,herida punzo cortante torax abdomen
-BBNT,BN,bronconeumonia no traumatica
-PER,PER,peritonitis
-HPPAFPT,HPAFPT,herida arma fuego torax
-L,L,diagnostico no determinable
-HsIPC,HIPC,herida punzo cortante
-CS,CS,diagnostico no determinable
-HIP,HIPC,herida punzo cortante
-HPAP,HPAF,herida arma fuego
-TCCT,TCCT,traumatismo craneo cervico torax
-TCTP,TCTP,traumatismo craneo torax pelvis
-HPPAFPC,HPAFPC,herida arma fuego craneo
-Bn,BN,bronconeumonia no traumatica
-ASF,ASF,asfixia por sofocacion
-PTE,PTE,diagnostico no determinable
-CA,CA,diagnostico no determinable
-Gastroenteritis,GASTROENTERITIS,gastroenteritis
-G,GANG,gangrena
-HPPAFP,HPAF,herida arma fuego
-AH,AXA,asfixia por ahorcamiento
-A. NE. N,ANEN,asfixia neo natorum
-Enteritis,ENT,enteritis
-BB,BB,diagnostico no determinable
-HIPCPC,HIPCPC,herida punzo cortante cuello
-HPAFPTyA,HPAFPTA,herida arma fuego torax abdomen
-IP,IP,diagnostico no determinable
-ExpPMS,EXPSM,expulsion prematura del seno materno
-HsPAFP,HPAF,herida arma fuego
-EnT,ENT,enteritis
-Desnutricion,DESNUT,desnutricion
-AOV,AOVA,asfixia por obstruccion de vias aereas
-M,M,diagnostico no determinable
-HPAFPV,HPAFPV,herida arma fuego vientre
-MI,MI,miembros
-No copias Xoco,NO COPIAS XOCO,no copias xoco
-TCCerT,TCCT,traumatismo craneo cervico torax
-MsIs,MI,miembros
-Quemadura,QUEM,quemaduras
-HsPAFPsA,HPAFPA,herida arma fuego abdomen
-HsPsAFPs,HPAF,herida arma fuego
-TRM,TRM,traumatismo raqui medular
-HsPAFPC,HPAFPC,herida arma fuego craneo
-AxAH,AXA,asfixia por ahorcamiento
-TMIs,TMI,traumatismo miembro inferior
-TCervMed,TCM,traumatismo cervical medular
-TCRM,TCRM,traumatismo craneo raqui medular
-Cisticercosis,CISTICERCOSIS,cisticercosis
-HPCPT,HIPCPT,herida punzo cortante torax
-Desnut,DESNUT,desnutricion
-TCerM,TCCM,traumatismo craneo cervico medular
-HsIP,HIPC,herida punzo cortante
-T M,TM,traumatismo multiple
-TCEP,TCERV,traumatismo cervical
-TCCerM,TCCM,traumatismo craneo cervico medular
-ANOXIA,ANOXIA,anoxia
-HPPAFPTA,HPAFPTA,herida arma fuego torax abdomen
-TCEF,TCE,traumatismo craneo encefalico
-HsIPcPs,HIPC,herida punzo cortante
-Anoxia,ANOXIA,anoxia
-HIPcPA,HIPCPA,herida punzo cortante abdomen
-HPAFPR,HPAF,herida arma fuego
-Trombosis,TROMBOSIS,trombosis
-TCTAP,TCTAP,traumatismo cervical torax abdomen pelvis
-HsPAFPT,HPAFPT,herida arma fuego torax
-En,ENT,enteritis
-HPAFPCuello,HPAFPCU,herida arma fuego cuello
-Electrocutado,ELECTROCUCION,electrocucion
-Anencefalia,ANENCEFALIA,anencefalia
-HIPCPV,HIPCPV,herida punzo cortante vientre
-HsPAFPsCT,HPAFPCT,herida arma fuego craneo torax
-HPAFPE,HPAF,herida arma fuego
-Mening,MENINGITIS,meningitis
-Villa,VILLA,villa
-HPAFPI,HPAF,herida arma fuego
-Septicemia,SEPTICEMIA,septicemia
-Intox CO2,INTOX CO2,intoxicacion por co2
-LOC Inf Miocardio,LOC,enfermedad organica del corazon
-Indet,INDETERMINADO,indeterminado
-HPIPCPT,HIPCPT,herida punzo cortante torax
-InTox,INTOX,intoxicacion
-Peritonitis,PER,peritonitis
-A.NEO.N,ANEN,asfixia neo natorum
-InfPul,INFPUL,infeccion pulmon
-bn,BN,bronconeumonia no traumatica
-HPAFPTV,HPAFPTV,herida arma fuego torax vientre
-HPAEPC,HPAFPC,herida arma fuego craneo
-BnoT,BN,bronconeumonia no traumatica
-?,S-D,sin datos
-TE,T,traumatismo
-TPA,TAP,traumatismo abdomen pelvis
-Intoxicacion,INTOX,intoxicacion
-Enter,ENT,enteritis
-DIspensa,DISPENSA,dispensa
-HPAFC,HPAFPC,herida arma fuego craneo
-Infeccion,INF,infeccion
-AO,AOVA,asfixia por obstruccion de vias aereas
-HsIPCpsTA,HIPCPTA,herida punzo cortante torax abdomen
-Necrosis,NECROSIS,necrosis
-TEC,T,traumatismo
-TCETA,TCETA,traumatismo craneo encefalico torax abdomen
-CV,CVG,congestion visceral generalizada
-TMs,TMS,traumatismo miembro superior
-Inf,INF,infeccion
-??,S-D,sin datos
-Men,MENINGITIS,meningitis
-Electroc,ELECTROCUCION,electrocucion
-Gastritis,GASTROENTERITIS,gastroenteritis
-PL,PN,pleuro pneumonia
-Bronco,BN,bronconeumonia no traumatica
-Enterocolitis,ENT,enteritis
-TCerT,TCCT,traumatismo craneo cervico torax
-TCCA,TCC,traumatismo craneo cervical
-gangrena,GANG,gangrena
-ANEON,ANEN,asfixia neo natorum
-Inf Pul,INFPUL,infeccion pulmon
-Hidrocefalia,HIDROCEFALIA,hidrocefalia
-HIPCPs,HIPC,herida punzo cortante
-Apendicitis,APENDICITIS,apendicitis
-Electrocusion,ELECTROCUCION,electrocucion
-TCervical,TCERV,traumatismo cervical
-TMsI,TMI,traumatismo miembro inferior
-AXAH,AXA,asfixia por ahorcamiento
-ENTEROCOLITIS,ENT,enteritis
-PANCREATITIS,PANCREATITIS,pancreatitis
-HsIPcPsTA,HIPCPTA,herida punzo cortante torax abdomen
-Quem.,QUEM,quemaduras
-QUEMAduras,QUEM,quemaduras
 ABORTO,ABORTO,aborto
-HsIPCPS,HIPC,herida punzo cortante
-Pn,PN,pleuro pneumonia
-TMIS,TMI,traumatismo miembro inferior
-QUEM,QUEM,quemaduras
+AE,AE,asfixia por estrangulacion
+AN,AN,anemia
+An,AN,anemia
+An.,AN,anemia
+ANN,ANEN,asfixia neo natorum
+ANEN,ANEN,asfixia neo natorum
+A NE N,ANEN,asfixia neo natorum
+A. NE. N,ANEN,asfixia neo natorum
+A.NEO.N,ANEN,asfixia neo natorum
+ANEON,ANEN,asfixia neo natorum
+A.Neo.N,ANEN,asfixia neo natorum
+A.NE.N,ANEN,asfixia neo natorum
+ANeN,ANEN,asfixia neo natorum
+Anencefalia,ANENCEFALIA,anencefalia
+ANOXIA,ANOXIA,anoxia
+Anoxia,ANOXIA,anoxia
+AOVA,AOVA,asfixia por obstruccion de vias aereas
+AOV,AOVA,asfixia por obstruccion de vias aereas
+AO,AOVA,asfixia por obstruccion de vias aereas
+Apendicitis,APENDICITIS,apendicitis
+AQ,AQ,amputacion quirurgica
+AQxT,AQXT,amputacion quirurgica consecutiva al traumatismo
+AOxT,AQXT,amputacion quirurgica consecutiva al traumatismo
+AQT,AQXT,amputacion quirurgica consecutiva al traumatismo
+AQxt,AQXT,amputacion quirurgica consecutiva al traumatismo
+AoXT,AQXT,amputacion quirurgica consecutiva al traumatismo
+ASB,ASB,asfixia por sumersion
+asb,ASB,asfixia por sumersion
+AS,ASF,asfixia por sofocacion
+ASF,ASF,asfixia por sofocacion
+As,ASF,asfixia por sofocacion
+AT,AT,amputacion traumatica
+AA,AXA,asfixia por ahorcamiento
+AxA,AXA,asfixia por ahorcamiento
+AH,AXA,asfixia por ahorcamiento
+AxAH,AXA,asfixia por ahorcamiento
+AXAH,AXA,asfixia por ahorcamiento
+AXA,AXA,asfixia por ahorcamiento
+aa,AXA,asfixia por ahorcamiento
+B,B,diagnostico no determinable
+BB,BB,diagnostico no determinable
+BN,BN,bronconeumonia
+BNT,BN,bronconeumonia
+BBNT,BN,bronconeumonia
+Bn,BN,bronconeumonia
+bn,BN,bronconeumonia
+BnoT,BN,bronconeumonia
+Bronco,BN,bronconeumonia
+bN,BN,bronconeumonia
+BBnT,BN,bronconeumonia
+BBnt,BN,bronconeumonia
+CA,CA,diagnostico no determinable
+CH,CH,cirrosis hepatica
+C,CH,cirrosis hepatica
+Ch,CH,cirrosis hepatica
+c,CH,cirrosis hepatica
+Cisticercosis,CISTICERCOSIS,cisticercosis
+CL,CL,conjunto lesiones
+CQ,CQ,diagnostico no determinable
+CS,CS,diagnostico no determinable
+CVG,CVG,congestion visceral generalizada
+CV,CVG,congestion visceral generalizada
+cvg,CVG,congestion visceral generalizada
+CVY,CVY,diagnostico no determinable
+Desnutricion,DESNUT,desnutricion
+Desnut,DESNUT,desnutricion
+DESNUT,DESNUT,desnutricion
+DESNUTRICION,DESNUT,desnutricion
+DesnuT,DESNUT,desnutricion
+Dispensa,DISPENSA,dispensa
+Dispensan,DISPENSA,dispensa
+DIspensa,DISPENSA,dispensa
 DISpensa,DISPENSA,dispensa
+"""Dispensa",DISPENSA,dispensa
+E,E,diagnostico no determinable
+EC,EC,edema cerebral
+Electrocucion,ELECTROCUCION,electrocucion
+Electrocutado,ELECTROCUCION,electrocucion
+Electroc,ELECTROCUCION,electrocucion
+Electrocusion,ELECTROCUCION,electrocucion
 ELECTROCUCION,ELECTROCUCION,electrocucion
 electrocucion,ELECTROCUCION,electrocucion
-No copias xoco,NO COPIAS XOCO,no copias xoco
-Gang.,GANG,gangrena
-Inf.,INF,infeccion
-LOC Inf. Miocardio,LOC,enfermedad organica del corazon
-HIPcP,HIPC,herida punzo cortante
-MEN,MENINGITIS,meningitis
-bN,BN,bronconeumonia no traumatica
-HIPc,HIPC,herida punzo cortante
-PTE.,PTE,diagnostico no determinable
-HIPcPTA,HIPCPTA,herida punzo cortante torax abdomen
-Ch,CH,cirrosis hepatica
-S-d,S-D,sin datos
-HSPAF,HPAF,herida arma fuego
-LOC Inf miocardio,LOC,enfermedad organica del corazon
-necrosis,NECROSIS,necrosis
-HIPcPs,HIPC,herida punzo cortante
-InToxicacion,INTOX,intoxicacion
-HsIPcPsT,HIPCPT,herida punzo cortante torax
-INDETERMINABLE,INDETERMINADO,indeterminado
-GASTROENTERITIS,GASTROENTERITIS,gastroenteritis
-tce,TCE,traumatismo craneo encefalico
-LOC INF MIOCARDIO,LOC,enfermedad organica del corazon
-asb,ASB,asfixia por sumersion
-DESNUT,DESNUT,desnutricion
--,S-D,sin datos
-HsPAFPS,HPAF,herida arma fuego
-AXA,AXA,asfixia por ahorcamiento
-QUEmaduras,QUEM,quemaduras
-No Copias Xoco,NO COPIAS XOCO,no copias xoco
-AQxt,AQXT,amputacion quirurgica consecutiva al traumatismo
-INTOX,INTOX,intoxicacion
-MENINGITIS,MENINGITIS,meningitis
-"""Dispensa",DISPENSA,dispensa
-A.Neo.N,ANEN,asfixia neo natorum
 Electroc.,ELECTROCUCION,electrocucion
-QueM,QUEM,quemaduras
-BBnT,BN,bronconeumonia no traumatica
-HIPCPS,HIPC,herida punzo cortante
-"""P",P,diagnostico no determinable
-"""Quemaduras",QUEM,quemaduras
-S.d,S-D,sin datos
-DESNUTRICION,DESNUT,desnutricion
-PancreaTiTis,PANCREATITIS,pancreatitis
+ENT,ENT,enteritis
+Ent,ENT,enteritis
+Enteritis,ENT,enteritis
+EnT,ENT,enteritis
+En,ENT,enteritis
+Enter,ENT,enteritis
+Enterocolitis,ENT,enteritis
+ENTEROCOLITIS,ENT,enteritis
+enT,ENT,enteritis
+EN,ENT,enteritis
+EP,EP,edema pulmonar
+Ep,EP,edema pulmonar
+ExpPSM,EXPSM,expulsion prematura del seno materno
+Exp. PSM,EXPSM,expulsion prematura del seno materno
+EX PSM,EXPSM,expulsion prematura del seno materno
+Exp PSM,EXPSM,expulsion prematura del seno materno
+ExpPMS,EXPSM,expulsion prematura del seno materno
+exp PSM,EXPSM,expulsion prematura del seno materno
+FCPN,FCPN,falta cuidado post natales
+Gangrena,GANG,gangrena
+Gang,GANG,gangrena
+G,GANG,gangrena
+gangrena,GANG,gangrena
+Gang.,GANG,gangrena
+Gastroenteritis,GASTROENTERITIS,gastroenteritis
+Gastritis,GASTROENTERITIS,gastroenteritis
+GASTROENTERITIS,GASTROENTERITIS,gastroenteritis
+HC,HC,hemorragia cerebral
+hc,HC,hemorragia cerebral
+Hidrocefalia,HIDROCEFALIA,hidrocefalia
 HIDROCEFALIA,HIDROCEFALIA,hidrocefalia
+HIPCP,HIPC,herida punzo cortante
+HsIPCPs,HIPC,herida punzo cortante
+HIPC,HIPC,herida punzo cortante
+HsIPC,HIPC,herida punzo cortante
+HIP,HIPC,herida punzo cortante
+HsIP,HIPC,herida punzo cortante
+HsIPcPs,HIPC,herida punzo cortante
+HIPCPs,HIPC,herida punzo cortante
+HsIPCPS,HIPC,herida punzo cortante
+HIPcP,HIPC,herida punzo cortante
+HIPc,HIPC,herida punzo cortante
+HIPcPs,HIPC,herida punzo cortante
+HIPCPS,HIPC,herida punzo cortante
+HsIPcPS,HIPC,herida punzo cortante
+HSIPCPs,HIPC,herida punzo cortante
+HIPCPA,HIPCPA,herida punzo cortante abdomen
+HIPcPA,HIPCPA,herida punzo cortante abdomen
+HIPCPC,HIPCPC,herida punzo cortante cuello
+HIPCPT,HIPCPT,herida punzo cortante torax
+HsIPCPsT,HIPCPT,herida punzo cortante torax
+HIPcPT,HIPCPT,herida punzo cortante torax
+HPCPT,HIPCPT,herida punzo cortante torax
+HPIPCPT,HIPCPT,herida punzo cortante torax
+HsIPcPsT,HIPCPT,herida punzo cortante torax
+hipcpt,HIPCPT,herida punzo cortante torax
+HIPCPTA,HIPCPTA,herida punzo cortante torax abdomen
+HsIPCPsTA,HIPCPTA,herida punzo cortante torax abdomen
+HsIPCpsTA,HIPCPTA,herida punzo cortante torax abdomen
+HsIPcPsTA,HIPCPTA,herida punzo cortante torax abdomen
+HIPcPTA,HIPCPTA,herida punzo cortante torax abdomen
+HIPCPV,HIPCPV,herida punzo cortante vientre
+HPAFP,HPAF,herida arma fuego
+HPAF,HPAF,herida arma fuego
+HsPAFPs,HPAF,herida arma fuego
+HPA,HPAF,herida arma fuego
+HsPAF,HPAF,herida arma fuego
+HsPA,HPAF,herida arma fuego
+HPAP,HPAF,herida arma fuego
+HPPAFP,HPAF,herida arma fuego
+HsPAFP,HPAF,herida arma fuego
+HsPsAFPs,HPAF,herida arma fuego
+HPAFPR,HPAF,herida arma fuego
+HPAFPE,HPAF,herida arma fuego
+HPAFPI,HPAF,herida arma fuego
+HSPAF,HPAF,herida arma fuego
+HsPAFPS,HPAF,herida arma fuego
 HsPaFP,HPAF,herida arma fuego
 HspAF,HPAF,herida arma fuego
 HSPA,HPAF,herida arma fuego
 HsPAf,HPAF,herida arma fuego
-TCERV,TCERV,traumatismo cervical
-enT,ENT,enteritis
-s,SEPTICEMIA,septicemia
-exp PSM,EXPSM,expulsion prematura del seno materno
-A.NE.N,ANEN,asfixia neo natorum
+HsPSAFPs,HPAF,herida arma fuego
+HsPAFps,HPAF,herida arma fuego
+HPAFPA,HPAFPA,herida arma fuego abdomen
+HsPAFPsA,HPAFPA,herida arma fuego abdomen
+HSPAFPsA,HPAFPA,herida arma fuego abdomen
+HPAFPC,HPAFPC,herida arma fuego craneo
+HsPAFPsC,HPAFPC,herida arma fuego craneo
+HPPAFPC,HPAFPC,herida arma fuego craneo
+HsPAFPC,HPAFPC,herida arma fuego craneo
+HPAEPC,HPAFPC,herida arma fuego craneo
+HPAFC,HPAFPC,herida arma fuego craneo
+HPAFPc,HPAFPC,herida arma fuego craneo
+HsPAFPsCT,HPAFPCT,herida arma fuego craneo torax
+HPAFPCuello,HPAFPCU,herida arma fuego cuello
+HPAFPT,HPAFPT,herida arma fuego torax
+HsPAFPsT,HPAFPT,herida arma fuego torax
+HPPAFPT,HPAFPT,herida arma fuego torax
+HsPAFPT,HPAFPT,herida arma fuego torax
+hpafpt,HPAFPT,herida arma fuego torax
+HPAFPTA,HPAFPTA,herida arma fuego torax abdomen
+HsPAFPsTA,HPAFPTA,herida arma fuego torax abdomen
+HPAFPTyA,HPAFPTA,herida arma fuego torax abdomen
+HPPAFPTA,HPAFPTA,herida arma fuego torax abdomen
+HPAFPTV,HPAFPTV,herida arma fuego torax vientre
+HPAFPV,HPAFPV,herida arma fuego vientre
+Indeterminable,INDETERMINADO,indeterminado
+Indeterminado,INDETERMINADO,indeterminado
+Indet,INDETERMINADO,indeterminado
+INDETERMINABLE,INDETERMINADO,indeterminado
+INDETERMINADO,INDETERMINADO,indeterminado
+Infeccion,INF,infeccion
+Inf,INF,infeccion
+Inf.,INF,infeccion
+InfPul,INFPUL,infeccion pulmon
+Inf Pul,INFPUL,infeccion pulmon
 Inf. Pul,INFPUL,infeccion pulmon
 Inf.Pul,INFPUL,infeccion pulmon
-pancreatitis,PANCREATITIS,pancreatitis
-AoXT,AQXT,amputacion quirurgica consecutiva al traumatismo
-HsIPcPS,HIPC,herida punzo cortante
-BBnt,BN,bronconeumonia no traumatica
-hc,HC,hemorragia cerebral
-As,ASF,asfixia por sofocacion
-HSIPCPs,HIPC,herida punzo cortante
-TCCerv.,TCC,traumatismo craneo cervical
-TCermed,TCCM,traumatismo craneo cervico medular
+Intox,INTOX,intoxicacion
+InTox,INTOX,intoxicacion
+Intoxicacion,INTOX,intoxicacion
+InToxicacion,INTOX,intoxicacion
+INTOX,INTOX,intoxicacion
 Intox.,INTOX,intoxicacion
-PN-,PN,pleuro pneumonia
-no copias Xoco,NO COPIAS XOCO,no copias xoco
-Ep,EP,edema pulmonar
-TCe,TCE,traumatismo craneo encefalico
-T',T,diagnostico no determinable
+Intox CO2,INTOX CO2,intoxicacion por co2
+IP,IP,diagnostico no determinable
+L,L,diagnostico no determinable
+LOC,LOC,enfermedad organica del corazon
+EOC,LOC,enfermedad organica del corazon
+LOC Inf Miocardio,LOC,enfermedad organica del corazon
+LOC Inf. Miocardio,LOC,enfermedad organica del corazon
+LOC Inf miocardio,LOC,enfermedad organica del corazon
+LOC INF MIOCARDIO,LOC,enfermedad organica del corazon
 "LOC ""Inf Miocardio""",LOC,enfermedad organica del corazon
-septicemia,SEPTICEMIA,septicemia
-pER,PER,peritonitis
-HSPAFPsA,HPAFPA,herida arma fuego abdomen
-QUEMADURA,QUEM,quemaduras
-PERITONITIS,PER,peritonitis
-aa,AXA,asfixia por ahorcamiento
-hpafpt,HPAFPT,herida arma fuego torax
-INDETERMINADO,INDETERMINADO,indeterminado
-tct,TCT,traumatismo craneo torax
-cvg,CVG,congestion visceral generalizada
-hipcpt,HIPCPT,herida punzo cortante torax
-c,CH,cirrosis hepatica
 loc,LOC,enfermedad organica del corazon
-Per.,PER,peritonitis
-S.,SEPTICEMIA,septicemia
 LOC Inf. miocardio,LOC,enfermedad organica del corazon
-An.,AN,anemia
-DesnuT,DESNUT,desnutricion
-HsPSAFPs,HPAF,herida arma fuego
+M,M,diagnostico no determinable
+Meningitis,MENINGITIS,meningitis
+Mening,MENINGITIS,meningitis
+Men,MENINGITIS,meningitis
+MEN,MENINGITIS,meningitis
+MENINGITIS,MENINGITIS,meningitis
+MI,MI,miembros
+MsIs,MI,miembros
+N,N,neumonia
 n,N,neumonia
+Necrosis,NECROSIS,necrosis
+necrosis,NECROSIS,necrosis
+No copias Xoco,NO COPIAS XOCO,no copias xoco
+No copias xoco,NO COPIAS XOCO,no copias xoco
+No Copias Xoco,NO COPIAS XOCO,no copias xoco
+no copias Xoco,NO COPIAS XOCO,no copias xoco
+P,P,diagnostico no determinable
+"""P",P,diagnostico no determinable
+Pancreatitis,PANCREATITIS,pancreatitis
+PANCREATITIS,PANCREATITIS,pancreatitis
+PancreaTiTis,PANCREATITIS,pancreatitis
+pancreatitis,PANCREATITIS,pancreatitis
+Per,PER,peritonitis
+PER,PER,peritonitis
+Peritonitis,PER,peritonitis
+pER,PER,peritonitis
+PERITONITIS,PER,peritonitis
+Per.,PER,peritonitis
+PN,PN,pleuro pneumonia
+PL,PN,pleuro pneumonia
+Pn,PN,pleuro pneumonia
+PN-,PN,pleuro pneumonia
+PTE,PTE,diagnostico no determinable
+PTE.,PTE,diagnostico no determinable
+Quemaduras,QUEM,quemaduras
+Quem,QUEM,quemaduras
+QUemaduras,QUEM,quemaduras
+QUEMADURAS,QUEM,quemaduras
+Quemadura,QUEM,quemaduras
+Quem.,QUEM,quemaduras
+QUEMAduras,QUEM,quemaduras
+QUEM,QUEM,quemaduras
+QUEmaduras,QUEM,quemaduras
+QueM,QUEM,quemaduras
+"""Quemaduras",QUEM,quemaduras
+QUEMADURA,QUEM,quemaduras
+S-D,S-D,sin datos
+,S-D,sin datos
+?,S-D,sin datos
+??,S-D,sin datos
+S-d,S-D,sin datos
+-,S-D,sin datos
+S.d,S-D,sin datos
+S,S,septicemia
+Septicemia,S,septicemia
+s,S,septicemia
+septicemia,S,septicemia
+S.,S,septicemia
+SH,SH,diagnostico no determinable
+T,T,diagnostico no determinable
+TE,T,traumatismo
+TEC,T,traumatismo
+T',T,diagnostico no determinable
+TA,TA,traumatismo abdomen
+TAP,TAP,traumatismo abdomen pelvis
+TPA,TAP,traumatismo abdomen pelvis
+TB,TB,tuberculosis
+Tb,TB,tuberculosis
+TCA,TCA,traumatismo craneo abdomen
+TCP,TCAP,traumatismo craneo abdomen pelvis
+TCAP,TCAP,traumatismo craneo abdomen pelvis
+TCCerv,TCC,traumatismo craneo cervical
+TCCer,TCC,traumatismo craneo cervical
+TCC,TCC,traumatismo craneo cervical
+TCCA,TCC,traumatismo craneo cervical
+TCCerv.,TCC,traumatismo craneo cervical
 TCCERV,TCC,traumatismo craneo cervical
-?TCE?,TCE,traumatismo craneo encefalico
-HsPAFps,HPAF,herida arma fuego
-ANeN,ANEN,asfixia neo natorum
-EN,ENT,enteritis
+TCCM,TCCM,traumatismo craneo cervico medular
+TCerMed,TCCM,traumatismo craneo cervico medular
+TCCerMed,TCCM,traumatismo craneo cervico medular
+TCerM,TCCM,traumatismo craneo cervico medular
+TCCerM,TCCM,traumatismo craneo cervico medular
+TCermed,TCCM,traumatismo craneo cervico medular
 TCCermed,TCCM,traumatismo craneo cervico medular
-HPAFPc,HPAFPC,herida arma fuego craneo
+TCCT,TCCT,traumatismo craneo cervico torax
+TCCerT,TCCT,traumatismo craneo cervico torax
+TCerT,TCCT,traumatismo craneo cervico torax
+TCE,TCE,traumatismo craneo encefalico
+TCEF,TCE,traumatismo craneo encefalico
+tce,TCE,traumatismo craneo encefalico
+TCe,TCE,traumatismo craneo encefalico
+?TCE?,TCE,traumatismo craneo encefalico
+TCEA,TCEA,traumatismo craneo encefalico abdomen
+TC,TCERV,traumatismo cervical
+TCerv,TCERV,traumatismo cervical
+TCer,TCERV,traumatismo cervical
+TCEP,TCERV,traumatismo cervical
+TCervical,TCERV,traumatismo cervical
+TCERV,TCERV,traumatismo cervical
+TCET,TCET,traumatismo craneo encefalico torax
+TCETA,TCETA,traumatismo craneo encefalico torax abdomen
+TCF,TCF,traumatismo
+TCM,TCM,traumatismo cervical medular
+TCervMed,TCM,traumatismo cervical medular
+TCRM,TCRM,traumatismo craneo raqui medular
+TCT,TCT,traumatismo craneo torax
+tct,TCT,traumatismo craneo torax
+TCTA,TCTA,traumatismo craneo torax abdomen
+TCTAP,TCTAP,traumatismo cervical torax abdomen pelvis
+TCTP,TCTP,traumatismo craneo torax pelvis
+TM,TM,traumatismo multiple
+T M,TM,traumatismo multiple
+TMI,TMI,traumatismo miembro inferior
+TMsIs,TMI,traumatismo miembro inferior
+TMIs,TMI,traumatismo miembro inferior
+TMsI,TMI,traumatismo miembro inferior
+TMIS,TMI,traumatismo miembro inferior
+TMS,TMS,traumatismo miembro superior
+TMs,TMS,traumatismo miembro superior
+TP,TP,traumatismo pelvis
+TRM,TRM,traumatismo raqui medular
+Trombosis,TROMBOSIS,trombosis
+TT,TT,traumatismo torax
+TTA,TTA,traumatismo torax abdomen
+TTAP,TTAP,traumatismo torax abdomen pelvis
+TTP,TTP,traumatismo torax pelvis
+VE,VE,varices esofagicas
+Villa,VILLA,villa
