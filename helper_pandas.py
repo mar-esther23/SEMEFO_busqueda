@@ -12,6 +12,13 @@ from numpy import nan
 def flatten_list(regular_list):
     return [item for sublist in regular_list for item in sublist]
 
+def df_to_dict(df, col_key=None, col_value=None):
+    if col_key==None:  col_key = df.columns[0]
+    if col_value==None:  col_value = df.columns[1]
+    d = {k:v for k,v in zip(df[col_key],df[col_value])}
+    return d
+
+
 
 def simplify_string(text, str_case='lower', remove_special=False):
     """Simplify a string to remove special characters, double spaces and use lower case."""
