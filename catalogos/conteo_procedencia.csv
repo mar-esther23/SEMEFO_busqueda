@@ -1,0 +1,810 @@
+Procedencia_transcrito,Procedencia_estandar,Procedencia_direccion,Procedencia_alcaldia,count
+S-D,S-D,Sin datos,,26862
+32a,32A,Ministerio Público 32,,2073
+33a,33A,Ministerio Público 33 (Col Jardín Balbuena),Venustiano Carranza,1970
+37a,37A,Ministerio Público 37 (Col Polanco),Miguel Hidalgo,1701
+32,32A,Ministerio Público 32,,1562
+20a,20A,Ministerio Público 20 (UH Vicente Guerrero),Iztacalco,1453
+1a,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,1378
+35a,35A,Ministerio Público 35 (Col General Anaya),Benito Juárez,1363
+36a,36A,Ministerio Público 36 (Col Granjas Modernas),Gustavo A. Madero,1317
+24a,24A,Ministerio Público 24 (Col Progreso Tizapán),Álvaro Obregón,1273
+34a,34A,Ministerio Público 34 (Col Santo Tomás),Miguel Hidalgo,1264
+MH-CR,MH-CR,Cruz Roja (Col Polanco),Miguel Hidalgo,1181
+13a,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,1149
+37,37A,Ministerio Público 37 (Col Polanco),Miguel Hidalgo,1108
+33,33A,Ministerio Público 33 (Col Jardín Balbuena),Venustiano Carranza,1081
+22a,22A,Ministerio Público 22 (Col Romero de Terreros),Coyoacán,1058
+9a,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,1041
+14a,14A,Ministerio Público 14 (Col del Maestro),Azcapotzalco,1032
+VC-HB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,912
+5a,5A,Ministerio Público 5 (Col Guerrero),Cuauhtémoc,868
+18a,18A,Ministerio Público 18 (Col Ramos Millán),Iztacalco,835
+20,20A,Ministerio Público 20 (UH Vicente Guerrero),Iztacalco,772
+BJ-CM,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,751
+23a,23A,Ministerio Público 23 (Col La Joya Tlalpan),Tlalpan,733
+19a,19A,Ministerio Público 19 (Col Barrio de San Lucas),Iztapalapa,714
+2a,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,712
+35,35A,Ministerio Público 35 (Col General Anaya),Benito Juárez,700
+GAM-HV,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,671
+15a,15A,Ministerio Público 15 (Col Aragón La Villa),Gustavo A. Madero,666
+11a,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,654
+CR,CR,Cruz Roja,,651
+34,34A,Ministerio Público 34 (Col Santo Tomás),Miguel Hidalgo,634
+C-HX,HX,Hospital Xoco (Col General Anaya),Benito Juárez,622
+1,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,622
+36,36A,Ministerio Público 36 (Col Granjas Modernas),Gustavo A. Madero,619
+MH-HRL,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,609
+17a,17A,Ministerio Público 17 (Col Jardín Balbuena),Venustiano Carranza,609
+6a,6A,Ministerio Público 6 (Col Centro),Cuauhtémoc,606
+7a,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,591
+HB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,569
+10a,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,568
+22,22A,Ministerio Público 22 (Col Romero de Terreros),Coyoacán,567
+8a,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,565
+27a,27A,Ministerio Público 27 (San Pedro),Xochimilco,552
+24,24A,Ministerio Público 24 (Col Progreso Tizapán),Álvaro Obregón,543
+9,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,525
+HX,HX,Hospital Xoco (Col General Anaya),Benito Juárez,499
+12a,12A,Ministerio Público 12 (Col Portales),Benito Juárez,490
+VC-2,VC-2,Coordinación Territorial 2 Venustiano Carranza (Col Moctezuma 2ª Sección.),Venustiano Carranza,478
+16a,16A,Ministerio Público 16 (Col San Juan de Aragón),Gustavo A. Madero,469
+5,5A,Ministerio Público 5 (Col Guerrero),Cuauhtémoc,460
+18,18A,Ministerio Público 18 (Col Ramos Millán),Iztacalco,449
+14,14A,Ministerio Público 14 (Col del Maestro),Azcapotzalco,439
+38a,38A,Ministerio Público 38 (Col Unidad CTM Culhuacán),Coyoacán,429
+23,23A,Ministerio Público 23 (Col La Joya Tlalpan),Tlalpan,429
+GAM-1,GAM-1,Coordinación Territorial 1 Gustavo A. Madero (Col Cuautepec Barrio Bajo),Gustavo A. Madero,412
+13,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,412
+3a,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,401
+HTB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,400
+AO-1,AO-1,Coordinación Territorial 1 Álvaro Obregón (Col Cristo Rey),Álvaro Obregón,390
+IZA-2,IZA-2,Coordinación Territorial 2 Iztapalapa (Col Barrio Santa Barbará),Iztapalapa,389
+26a,26A,Ministerio Público 26 (Col Cuajimalpa Centro),Cuajimalpa,387
+CM,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,384
+4a,4A,Ministerio Público 4 (Col Obrera),Cuauhtémoc,366
+VC-1,VC-1,Coordinación Territorial 1 Venustiano Carranza (Col Merced),Venustiano Carranza,364
+HCM,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,357
+11,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,356
+HTV,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,350
+21a,21A,Ministerio Público 21 (Col Cuautepec Barrio Bajo),Gustavo A. Madero,321
+AZ-1,AZ-1,Coordinación Territorial 1 Azcapotzalco (Col El Rosario),Azcapotzalco,311
+C-1,C-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,310
+19,19A,Ministerio Público 19 (Col Barrio de San Lucas),Iztapalapa,309
+HV,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,303
+Xoco,HX,Hospital Xoco (Col General Anaya),Benito Juárez,295
+17,17A,Ministerio Público 17 (Col Jardín Balbuena),Venustiano Carranza,295
+Iztapalapa,IZA,Iztapalapa,Iztapalapa,287
+27,27A,Ministerio Público 27 (San Pedro),Xochimilco,281
+VC-II,VC-2,Coordinación Territorial 2 Venustiano Carranza (Col Moctezuma 2ª Sección.),Venustiano Carranza,281
+7,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,281
+MH-1,MH-1,Coordinación Territorial 1 (Hosp. Rubén Leñero) Miguel Hidalgo (Col Tacuba),Miguel Hidalgo,268
+H.T.B.,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,267
+38,38A,Ministerio Público 38 (Col Unidad CTM Culhuacán),Coyoacán,266
+IZO-1,IZO-1,Coordinación Territorial 1 Iztacalco (Col Santa Anita),Iztacalco,256
+25a,25A,Ministerio Público 25 (Col Barranca Seca),Magdalena Conteras,252
+8,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,247
+TP-1,TP-1,Coordinación Territorial 1 Tlalpan (Col Ampliación Miguel Hidalgo),Tlalpan,245
+IZA-1,IZA-1,Coordinación Territorial 1 Iztapalapa (Col Barrio de San Lucas),Iztapalapa,241
+15,15A,Ministerio Público 15 (Col Aragón La Villa),Gustavo A. Madero,238
+28a,28A,Ministerio Público 28 (Col Barrio la Asunción),Tláhuac,238
+16,16A,Ministerio Público 16 (Col San Juan de Aragón),Gustavo A. Madero,237
+HRL,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,234
+CH-1,CH-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,233
+10,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,232
+IZA-II,IZA-2,Coordinación Territorial 2 Iztapalapa (Col Barrio Santa Barbará),Iztapalapa,223
+BJ-1,BJ-1,Coordinación Territorial 1 Benito Juárez (Col Santa Cruz Atoyac),Benito Juárez,218
+Iztacalco,IZO,Iztacalco,Iztacalco,216
+2a deleg,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,203
+GAM-2,GAM-2,Coordinación Territorial 2 Gustavo A. Madero (Col Aragón La Villa),Gustavo A. Madero,201
+C-I,C-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,201
+CH-6,CH-6,Coordinación Territorial 6 Cuauhtémoc (Col Centro),Cuauhtémoc,193
+2,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,191
+21,21A,Ministerio Público 21 (Col Cuautepec Barrio Bajo),Gustavo A. Madero,191
+12,12A,Ministerio Público 12 (Col Portales),Benito Juárez,188
+GAM-I,GAM-1,Coordinación Territorial 1 Gustavo A. Madero (Col Cuautepec Barrio Bajo),Gustavo A. Madero,187
+MH-2,MH-2,Coordinación Territorial 2 Miguel Hidalgo (Col Pénsil),Miguel Hidalgo,186
+3,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,184
+AO-I,AO-1,Coordinación Territorial 1 Álvaro Obregón (Col Cristo Rey),Álvaro Obregón,183
+13a deleg,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,182
+6,6A,Ministerio Público 6 (Col Centro),Cuauhtémoc,178
+26,26A,Ministerio Público 26 (Col Cuajimalpa Centro),Cuajimalpa,169
+AZ-I,AZ-1,Coordinación Territorial 1 Azcapotzalco (Col El Rosario),Azcapotzalco,167
+CH-5,CH-5,Coordinación Territorial 5 Cuauhtémoc (Col Santa María La Ribera),Cuauhtémoc,167
+GAM-3,GAM-3,Coordinación Territorial 3 (Hosp. Mag Salinas) Gustavo A. Madero (Col Magdalena de las Salinas),Gustavo A. Madero,165
+BJ-H20N,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,156
+IZO-I,IZO-1,Coordinación Territorial 1 Iztacalco (Col Santa Anita),Iztacalco,153
+VC-I,VC-1,Coordinación Territorial 1 Venustiano Carranza (Col Merced),Venustiano Carranza,153
+Coyoacan,CO,Coyoacán,Coyoacán,153
+MH-I,MH-1,Coordinación Territorial 1 (Hosp. Rubén Leñero) Miguel Hidalgo (Col Tacuba),Miguel Hidalgo,143
+X-1,X-1,Coordinación Territorial 1 Xochimilco (Col San Mateo Jalpa),Xochimilco,143
+2a Deleg,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,143
+CH-V,CH-5,Coordinación Territorial 5 Cuauhtémoc (Col Santa María La Ribera),Cuauhtémoc,139
+4,4A,Ministerio Público 4 (Col Obrera),Cuauhtémoc,137
+BJ-3,BJ-3,Coordinación Territorial 3 Benito Juárez (Col Zacahuizco),Benito Juárez,135
+28,28A,Ministerio Público 28 (Col Barrio la Asunción),Tláhuac,134
+TP-I,TP-1,Coordinación Territorial 1 Tlalpan (Col Ampliación Miguel Hidalgo),Tlalpan,134
+BJ-2,BJ-2,Coordinación Territorial 2 Benito Juárez (Col Santa Cruz Atoyac),Benito Juárez,131
+CH-I,CH-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,126
+1a deleg,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,126
+H.T.V.,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,125
+29a,29A,Ministerio Público 29 (Col Villa Milpa Alta),Milpa Alta,123
+MH-II,MH-2,Coordinación Territorial 2 Miguel Hidalgo (Col Pénsil),Miguel Hidalgo,122
+13a Deleg,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,121
+13A,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,120
+CH-2,CH-2,Coordinación Territorial 2 Cuauhtémoc (Col Buenavista),Cuauhtémoc,116
+13a Del.,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,112
+GAM-III,GAM-3,Coordinación Territorial 3 (Hosp. Mag Salinas) Gustavo A. Madero (Col Magdalena de las Salinas),Gustavo A. Madero,106
+GAM-II,GAM-2,Coordinación Territorial 2 Gustavo A. Madero (Col Aragón La Villa),Gustavo A. Madero,106
+BJ-I,BJ-1,Coordinación Territorial 1 Benito Juárez (Col Santa Cruz Atoyac),Benito Juárez,106
+CH-VI,CH-6,Coordinación Territorial 6 Cuauhtémoc (Col Centro),Cuauhtémoc,105
+CU-1,CU-1,Coordinación Territorial 1 Cujimalpa (Col Cuajimalpa),Cuajimalpa,104
+CH-4,CH-4,Coordinación Territorial 4 Cuauhtémoc (Col Centro),Cuauhtémoc,103
+1A,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,101
+9a deleg,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,99
+2A,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,98
+CH-III,CH-3,Coordinación Territorial 3 Cuauhtémoc (Col Morelos),Cuauhtémoc,97
+2a Del.,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,95
+CO-1,CO-1,Coordinación Territorial 1 Coyoacán (Col Romero de Terreros),Coyoacán,93
+25,25A,Ministerio Público 25 (Col Barranca Seca),Magdalena Conteras,92
+IZA-I,IZA-1,Coordinación Territorial 1 Iztapalapa (Col Barrio de San Lucas),Iztapalapa,92
+1a Deleg,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,89
+BJ-II,BJ-2,Coordinación Territorial 2 Benito Juárez (Col Santa Cruz Atoyac),Benito Juárez,80
+X-I,X-1,Coordinación Territorial 1 Xochimilco (Col San Mateo Jalpa),Xochimilco,77
+CH-II,CH-2,Coordinación Territorial 2 Cuauhtémoc (Col Buenavista),Cuauhtémoc,76
+BJ-III,BJ-3,Coordinación Territorial 3 Benito Juárez (Col Zacahuizco),Benito Juárez,76
+Xochimilco,XO,Xochimilco,Xochimilco,76
+V.O.,VO,Villa Obregon,,75
+1a Del.,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,74
+14a deleg,14A,Ministerio Público 14 (Col del Maestro),Azcapotzalco,71
+VO,VO,Villa Obregon,,71
+29,29A,Ministerio Público 29 (Col Villa Milpa Alta),Milpa Alta,69
+CH-IV,CH-4,Coordinación Territorial 4 Cuauhtémoc (Col Centro),Cuauhtémoc,69
+6a deleg,6A,Ministerio Público 6 (Col Centro),Cuauhtémoc,67
+IZA,IZA,Iztapalapa,Iztapalapa,67
+C.R.,CR,Cruz Roja,,66
+Cruz Roja,CR,Cruz Roja,,63
+TC-1,TC-1,Coordinación Territorial 1 Tláhuac (Col Del Mar),Tláhuac,60
+14A,14A,Ministerio Público 14 (Col del Maestro),Azcapotzalco,59
+H. T. B.,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,58
+9a Deleg,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,58
+14a Deleg,14A,Ministerio Público 14 (Col del Maestro),Azcapotzalco,57
+7a deleg,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,54
+10a deleg,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,53
+Tlalpan,TP,Tlalpan,Tlalpan,52
+9A,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,50
+IZO,IZO,Iztacalco,Iztacalco,49
+14a Del.,14A,Ministerio Público 14 (Col del Maestro),Azcapotzalco,49
+11a deleg,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,47
+3a deleg,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,47
+5a deleg,5A,Ministerio Público 5 (Col Guerrero),Cuauhtémoc,44
+Ia deleg,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,44
+3A,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,44
+Cuajimalpa,CU,Cuajimalpa,Cuajimalpa,43
+CO-I,CO-1,Coordinación Territorial 1 Coyoacán (Col Romero de Terreros),Coyoacán,42
+9a Del.,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,41
+12a deleg,12A,Ministerio Público 12 (Col Portales),Benito Juárez,40
+H. T. V.,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,38
+6a Deleg,6A,Ministerio Público 6 (Col Centro),Cuauhtémoc,38
+3a Del.,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,37
+5a Deleg,5A,Ministerio Público 5 (Col Guerrero),Cuauhtémoc,35
+TC-I,TC-1,Coordinación Territorial 1 Tláhuac (Col Del Mar),Tláhuac,35
+8a deleg,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,34
+5A,5A,Ministerio Público 5 (Col Guerrero),Cuauhtémoc,33
+GAM-IV,GAM-4,Coordinación Territorial 4 Gustavo A. Madero (Col Aragón la Villa),Gustavo A. Madero,33
+4a deleg,4A,Ministerio Público 4 (Col Obrera),Cuauhtémoc,32
+11A,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,32
+3a Deleg,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,32
+5a Del.,5A,Ministerio Público 5 (Col Guerrero),Cuauhtémoc,32
+CV-I,CU-1,Coordinación Territorial 1 Cujimalpa (Col Cuajimalpa),Cuajimalpa,31
+11a Deleg,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,30
+V. O.,VO,Villa Obregon,,30
+10A,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,30
+MA-1,MA-1,Coordinación Territorial 1 Milpa Alta (Col Milpa Alta),Milpa Alta,29
+CH-3,CH-3,Coordinación Territorial 3 Cuauhtémoc (Col Morelos),Cuauhtémoc,29
+8A,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,29
+SC,SC,SC,,28
+8a Deleg,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,28
+11a Del.,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,28
+7a Deleg,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,26
+CO,CO,Coyoacán,Coyoacán,25
+7A,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,24
+6a Del.,6A,Ministerio Público 6 (Col Centro),Cuauhtémoc,24
+10a Del.,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,24
+BJ-CM-,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,23
+H. T. Balbuena,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,23
+4a Del.,4A,Ministerio Público 4 (Col Obrera),Cuauhtémoc,23
+10a Deleg,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,23
+12a Deleg,12A,Ministerio Público 12 (Col Portales),Benito Juárez,22
+12A,12A,Ministerio Público 12 (Col Portales),Benito Juárez,22
+6A,6A,Ministerio Público 6 (Col Centro),Cuauhtémoc,22
+4a Deleg,4A,Ministerio Público 4 (Col Obrera),Cuauhtémoc,21
+8a Del.,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,20
+20a deleg,20A,Ministerio Público 20 (UH Vicente Guerrero),Iztacalco,20
+15a deleg,15A,Ministerio Público 15 (Col Aragón La Villa),Gustavo A. Madero,20
+Contreras,MC,Magdalena Contreras,Magdalena Conteras,20
+MA-I,MA-1,Coordinación Territorial 1 Milpa Alta (Col Milpa Alta),Milpa Alta,19
+VC II,VC-2,Coordinación Territorial 2 Venustiano Carranza (Col Moctezuma 2ª Sección.),Venustiano Carranza,18
+GAM-4,GAM-4,Coordinación Territorial 4 Gustavo A. Madero (Col Aragón la Villa),Gustavo A. Madero,18
+XO,XO,Xochimilco,Xochimilco,17
+VC-HB-,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,16
+CU,CU,Cuajimalpa,Cuajimalpa,16
+4A,4A,Ministerio Público 4 (Col Obrera),Cuauhtémoc,15
+VC HB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,14
+7a Del.,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,13
+H.T.B,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,13
+MH CR,MH-CR,Cruz Roja (Col Polanco),Miguel Hidalgo,13
+HC,HC,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,13
+GAM-I-,GAM-1,Coordinación Territorial 1 Gustavo A. Madero (Col Cuautepec Barrio Bajo),Gustavo A. Madero,13
+TP,TP,Tlalpan,Tlalpan,13
+MH-HRL-,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,12
+IZA II,IZA-2,Coordinación Territorial 2 Iztapalapa (Col Barrio Santa Barbará),Iztapalapa,12
+7a Deleg.,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,11
+CH V,CH-5,Coordinación Territorial 5 Cuauhtémoc (Col Santa María La Ribera),Cuauhtémoc,11
+VC I,VC-1,Coordinación Territorial 1 Venustiano Carranza (Col Merced),Venustiano Carranza,11
+H. T. Xoco,HX,Hospital Xoco (Col General Anaya),Benito Juárez,11
+30a,30A,Ministerio Público 30,,10
+IZO-I-,IZO-1,Coordinación Territorial 1 Iztacalco (Col Santa Anita),Iztacalco,10
+VC-II-,VC-2,Coordinación Territorial 2 Venustiano Carranza (Col Moctezuma 2ª Sección.),Venustiano Carranza,10
+C-HX-,HX,Hospital Xoco (Col General Anaya),Benito Juárez,10
+13a Deleg.,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,10
+Tlahuac,TC,Tláhuac,Tláhuac,10
+GAM-HV-,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,9
+CH-V-,CH-5,Coordinación Territorial 5 Cuauhtémoc (Col Santa María La Ribera),Cuauhtémoc,9
+CMN,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,9
+C.M.N,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,9
+7a Delegacion,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,9
+CV-1,CU-1,Coordinación Territorial 1 Cujimalpa (Col Cuajimalpa),Cuajimalpa,8
+12a Del.,12A,Ministerio Público 12 (Col Portales),Benito Juárez,8
+BJ-I-,BJ-1,Coordinación Territorial 1 Benito Juárez (Col Santa Cruz Atoyac),Benito Juárez,8
+CU-I,CU-1,Coordinación Territorial 1 Cujimalpa (Col Cuajimalpa),Cuajimalpa,8
+7a deleg.,7A,Ministerio Público 7 (Col Centro),Cuauhtémoc,8
+MH-I-,MH-1,Coordinación Territorial 1 (Hosp. Rubén Leñero) Miguel Hidalgo (Col Tacuba),Miguel Hidalgo,8
+CH II,CH-2,Coordinación Territorial 2 Cuauhtémoc (Col Buenavista),Cuauhtémoc,8
+C.R,CR,Cruz Roja,,8
+Ia Deleg,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,8
+H.T.V,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,7
+IZA-II-,IZA-2,Coordinación Territorial 2 Iztapalapa (Col Barrio Santa Barbará),Iztapalapa,7
+13a delegacion,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,7
+BJ-CH,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,7
+12a Del,12A,Ministerio Público 12 (Col Portales),Benito Juárez,7
+AZ I,AZ-1,Coordinación Territorial 1 Azcapotzalco (Col El Rosario),Azcapotzalco,7
+Milpa Alta,MA,Milpa Alta,Milpa Alta,7
+GAM-III-,GAM-3,Coordinación Territorial 3 (Hosp. Mag Salinas) Gustavo A. Madero (Col Magdalena de las Salinas),Gustavo A. Madero,7
+CH-I-,CH-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,7
+CH III,CH-3,Coordinación Territorial 3 Cuauhtémoc (Col Morelos),Cuauhtémoc,7
+H.R.L.,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,7
+13a deleg.,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,7
+GAM I,GAM-1,Coordinación Territorial 1 Gustavo A. Madero (Col Cuautepec Barrio Bajo),Gustavo A. Madero,7
+BJ-H20,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,6
+30,30A,Ministerio Público 30,,6
+PGR,PGR,Procuraduría General de la República,,6
+IZA-I-,IZA-1,Coordinación Territorial 1 Iztapalapa (Col Barrio de San Lucas),Iztapalapa,6
+AZ-I-,AZ-1,Coordinación Territorial 1 Azcapotzalco (Col El Rosario),Azcapotzalco,6
+MH-CR-,MH-CR,Cruz Roja (Col Polanco),Miguel Hidalgo,6
+MH-II-,MH-2,Coordinación Territorial 2 Miguel Hidalgo (Col Pénsil),Miguel Hidalgo,6
+Balbuena,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,5
+BJ-III-,BJ-3,Coordinación Territorial 3 Benito Juárez (Col Zacahuizco),Benito Juárez,5
+Obregon,AO,Álvaro Obregón,Álvaro Obregón,5
+H.T.Villa,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,5
+13a. Del.,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,5
+Villa Obregon,VO,Villa Obregon,,5
+20A,20A,Ministerio Público 20 (UH Vicente Guerrero),Iztacalco,5
+VC-MB,VC,Venustiano Carranza,Venustiano Carranza,5
+VC-I-,VC-1,Coordinación Territorial 1 Venustiano Carranza (Col Merced),Venustiano Carranza,5
+3a Delegacion,3A,Ministerio Público 3 (Col Roma),Cuauhtémoc,4
+TC,TC,Tláhuac,Tláhuac,4
+C-I-,C-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,4
+TP I,TP-1,Coordinación Territorial 1 Tlalpan (Col Ampliación Miguel Hidalgo),Tlalpan,4
+50a,50A,,,4
+BJ-H20N-,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,4
+MH HRL,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,4
+CH-X,HX,Hospital Xoco (Col General Anaya),Benito Juárez,4
+AO I,AO-1,Coordinación Territorial 1 Álvaro Obregón (Col Cristo Rey),Álvaro Obregón,4
+MA,MA,Milpa Alta,Milpa Alta,4
+CHX,HX,Hospital Xoco (Col General Anaya),Benito Juárez,4
+8a Deleg.,8A,Ministerio Público 8 (Col Narvarte),Benito Juárez,4
+GAM III,GAM-3,Coordinación Territorial 3 (Hosp. Mag Salinas) Gustavo A. Madero (Col Magdalena de las Salinas),Gustavo A. Madero,4
+OTU,OTU,,,4
+H.T. Balbuena,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,4
+13 Deleg.,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,4
+Centro Medico,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,3
+MH-HRL-C,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,3
+C-VC-HB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,3
+BJ-H,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,3
+CH-II-,CH-2,Coordinación Territorial 2 Cuauhtémoc (Col Buenavista),Cuauhtémoc,3
+MH-CA,MH-CR,Cruz Roja (Col Polanco),Miguel Hidalgo,3
+MH I,MH-1,Coordinación Territorial 1 (Hosp. Rubén Leñero) Miguel Hidalgo (Col Tacuba),Miguel Hidalgo,3
+CH IV,CH-IV,,,3
+MC,MC,Magdalena Contreras,Magdalena Conteras,3
+CH I,CH-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,3
+IZO I,IZO-1,Coordinación Territorial 1 Iztacalco (Col Santa Anita),Iztacalco,3
+CO-I-,CO-1,Coordinación Territorial 1 Coyoacán (Col Romero de Terreros),Coyoacán,3
+H. T. La Villa,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,3
+C. Roja,CR,Cruz Roja,,3
+11a Deleg.,11A,Ministerio Público 11 (Col Tacubaya),Miguel Hidalgo,3
+10 deleg,10A,Ministerio Público 10 (Col Santa Cruz Atoyac),Benito Juárez,3
+VC-3,VC-3,Coordinación Territorial 3 Venustiano Carranza,Venustiano Carranza,3
+GAM IV,GAM-4,Coordinación Territorial 4 Gustavo A. Madero (Col Aragón la Villa),Gustavo A. Madero,3
+13a Delegacion,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,3
+9a Delegacion,9A,Ministerio Público 9 (Col Tacuba),Miguel Hidalgo,3
+GAM-HB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,3
+37A,37A,Ministerio Público 37 (Col Polanco),Miguel Hidalgo,3
+GAM HV,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,3
+V. Obregon,VO,Villa Obregon,,3
+AO,AO,Álvaro Obregón,Álvaro Obregón,3
+16a Del.,16A,Ministerio Público 16 (Col San Juan de Aragón),Gustavo A. Madero,3
+33A,33A,Ministerio Público 33 (Col Jardín Balbuena),Venustiano Carranza,3
+16A,16A,Ministerio Público 16 (Col San Juan de Aragón),Gustavo A. Madero,3
+V.O,VO,Villa Obregon,,3
+AZ,AZ,Azcapotzalco,Azcapotzalco,3
+18A,18A,Ministerio Público 18 (Col Ramos Millán),Iztacalco,3
+VAO,AO,Álvaro Obregón,Álvaro Obregón,3
+Alvaro Obregon,AO,Álvaro Obregón,Álvaro Obregón,3
+24A,24A,Ministerio Público 24 (Col Progreso Tizapán),Álvaro Obregón,3
+IZA-3,IZA-3,Coordinación Territorial 3 Iztapalapa,Iztapalapa,3
+MH-III,MH-3,Coordinación Territorial 3 Miguel Hidalgo,,3
+2a deelg,2A,Ministerio Público 2 (Col Merced Balbuena ),Cuauhtémoc,3
+23A,23A,Ministerio Público 23 (Col La Joya Tlalpan),Tlalpan,3
+39a,39A,Ministerio Público 39,,3
+C-MH-HRL,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,2
+Ixtapalapa,IZA,Iztapalapa,Iztapalapa,2
+Iztacala,Iztacala,,,2
+izatapalapa,IZA,Iztapalapa,Iztapalapa,2
+16a deleg,15A,Ministerio Público 15 (Col Aragón La Villa),Gustavo A. Madero,2
+C.M. Nal.,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,2
+VCHB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,2
+CJ-CM,CJ-CM,,,2
+IZO-2,IZO-2,Coordinación Territorial 2 Iztacalco (Col Santa Anita),Iztacalco,2
+HB IZO-1,IZO-1,Coordinación Territorial 1 Iztacalco (Col Santa Anita),Iztacalco,2
+Grupo 4o,Grupo 4o,,,2
+12a. Del.,12A,Ministerio Público 12 (Col Portales),Benito Juárez,2
+CH,CH,Cuauhtémoc,Cuauhtémoc,2
+TP-I-,TP-1,Coordinación Territorial 1 Tlalpan (Col Ampliación Miguel Hidalgo),Tlalpan,2
+tlalpan,TP,Tlalpan,Tlalpan,2
+28A,28A,Ministerio Público 28 (Col Barrio la Asunción),Tláhuac,2
+CH-IV-,CH-4,Coordinación Territorial 4 Cuauhtémoc (Col Centro),Cuauhtémoc,2
+CH-III-,CH-3,Coordinación Territorial 3 Cuauhtémoc (Col Morelos),Cuauhtémoc,2
+20aa,20A,Ministerio Público 20 (UH Vicente Guerrero),Iztacalco,2
+20a Deleg,20A,Ministerio Público 20 (UH Vicente Guerrero),Iztacalco,2
+2a Delegacion,,,,2
+31a,31A,Ministerio Público 31,,2
+1a deleg.,1A,Ministerio Público 1 (Col Centro),Cuauhtémoc,2
+TP.I-,TP-1,Coordinación Territorial 1 Tlalpan (Col Ampliación Miguel Hidalgo),Tlalpan,2
+H. T. Villa,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,2
+CH VI,CH-6,Coordinación Territorial 6 Cuauhtémoc (Col Centro),Cuauhtémoc,2
+Gpo 1,Gpo 1,,,2
+HCX,HX,Hospital Xoco (Col General Anaya),Benito Juárez,2
+VI-HB,HTB,Hospital Balbuena (Col Jardín Balbuena),Venustiano Carranza,2
+CI,C-1,Coordinación Territorial 1 Cuauhtémoc (Col San Simón Tolnahuac),Cuauhtémoc,2
+19A,19A,Ministerio Público 19 (Col Barrio de San Lucas),Iztapalapa,2
+15a Deleg,15A,Ministerio Público 15 (Col Aragón La Villa),Gustavo A. Madero,2
+4a Delegacion,,,,2
+8a delegacion,,,,2
+DGAP,DGAP,,,2
+GAM-II-,GAM-2,Coordinación Territorial 2 Gustavo A. Madero (Col Aragón La Villa),Gustavo A. Madero,2
+MHCR,MH-CR,Cruz Roja (Col Polanco),Miguel Hidalgo,2
+coyoacan,CO,Coyoacán,Coyoacán,2
+Milpa alta,MA,Milpa Alta,Milpa Alta,2
+C HX,HX,Hospital Xoco (Col General Anaya),Benito Juárez,2
+C Roja,CR,Cruz Roja,,2
+CU I,CU-1,Coordinación Territorial 1 Cujimalpa (Col Cuajimalpa),Cuajimalpa,2
+13a. Delegacion,13A,Ministerio Público 13 (Col Aragón La Villa),Gustavo A. Madero,2
+GAM,GAM,Gustavo A. Madero,Gustavo A. Madero,2
+H.T. Villa,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,2
+O,AO,,,2
+7a. Delegacion,,,,2
+C-C-HX,HX,Hospital Xoco (Col General Anaya),Benito Juárez,2
+H de la villa,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,2
+Azcapotzalco,AZ,Azcapotzalco,Azcapotzalco,2
+AO-I-,AO-1,Coordinación Territorial 1 Álvaro Obregón (Col Cristo Rey),Álvaro Obregón,2
+R.L.,HRL,Hospital Rubén Leñero (Col Santo Tomás),Miguel Hidalgo,2
+14a Delegacion,,,,2
+CV-II,CU-2,Coordinación Territorial 2 Cujimalpa,Cuajimalpa,2
+MH-RL,MH-CR,Cruz Roja (Col Polanco),Miguel Hidalgo,2
+BJ-II-,BJ-2,Coordinación Territorial 2 Benito Juárez (Col Santa Cruz Atoyac),Benito Juárez,2
+BJ CM,HCM,Hospital Centro Médico 20 de Noviembre (Col del Valle Sur),Benito Juárez,2
+IZA I,,,,2
+VI-II,VC-2,Coordinación Territorial 2 Venustiano Carranza (Col Moctezuma 2ª Sección.),Venustiano Carranza,2
+H.T. Xoco,HX,Hospital Xoco (Col General Anaya),Benito Juárez,2
+C-HV,HTV,Hospital la Villa (Col Granjas Modernas),Gustavo A. Madero,2
+T-23,T-23,,,2
+AH-VI,AH-VI,,,2
+HB-CH-4,,,,1
+HB-BJ-2,,,,1
+HRL-GAM-HV,,,,1
+HB-IZO-1,,,,1
+HX-C-1,,,,1
+HX-CO-1,,,,1
+HX-,,,,1
+HX-IZA-1,,,,1
+HX/12a,,,,1
+HB-VC-2,,,,1
+HB-AZ-1,,,,1
+HV-CH-2,,,,1
+HX BJ-2,,,,1
+IZA-2 y HX,,,,1
+HX-IZO-1,,,,1
+HRL-VC/HB,,,,1
+HT.B.,,,,1
+HRL-AZ-1,,,,1
+HB GAM-HV,,,,1
+HRL y CH-6,,,,1
+HRL AZ-1,,,,1
+HTL,,,,1
+HB MH-HRL,,,,1
+IZ0I,,,,1
+H.V.O.,,,,1
+HM-1,,,,1
+IXO-1,,,,1
+"HC,",,,,1
+HB VC-1,,,,1
+ISSTE,,,,1
+Hdz juarez 20a,,,,1
+HV.,,,,1
+03a,,,,1
+IZA-HB-II,,,,1
+UI-HB,,,,1
+VC-HB CH-III,,,,1
+VC-H,,,,1
+VC-CH-V,,,,1
+VC-CH,,,,1
+VC-2 GAM-2,,,,1
+VC+1,,,,1
+VB-HB,,,,1
+V.o.,,,,1
+V.Obregon,,,,1
+V.A.,,,,1
+V-C-HB,,,,1
+Tlalpan D. P.,,,,1
+IZA-I C-HX,,,,1
+TR-1,,,,1
+TPI,,,,1
+TP-HX,,,,1
+TP-C-HX,,,,1
+TEX,,,,1
+TC-I-,,,,1
+TC-2,,,,1
+TC-1-HX,,,,1
+TC I,,,,1
+T.P.I-,,,,1
+T-P-1 MH-CR,,,,1
+VC-HB-1,,,,1
+VC-HB-2,,,,1
+VC-HB-263 y CH-V-44,,,,1
+VC-HB-4,,,,1
+xochimilco,,,,1
+villa,,,,1
+novena delegacion 29946,,,,1
+iztapalapa,,,,1
+iztacalco,,,,1
+ia deleg,,,,1
+hx,,,,1
+cruz roja,,,,1
+XX,,,,1
+X-I-,,,,1
+X-1-VC-1,,,,1
+Vo,,,,1
+Villa A. Obregon,,,,1
+Villa,,,,1
+VO-1,,,,1
+VH-1,,,,1
+VCH-B,,,,1
+VC.2,,,,1
+VC.1,,,,1
+VC-M-B,,,,1
+VC-HB-MH-CR,,,,1
+VC-HB-IZA-2,,,,1
+VC-HB-CH-IV,,,,1
+T-1,,,,1
+T,,,,1
+SC-CH,,,,1
+MH-HRI,,,,1
+MH-HAL,,,,1
+MH-H,,,,1
+MH-CR-VC-1,,,,1
+MH-CR-CU-1,,,,1
+MH-CR VC-HB,,,,1
+MH-ARL,,,,1
+MH-3,,,,1
+MH-2-XH,,,,1
+MH-1-HRL,,,,1
+MH II,,,,1
+M.A.,,,,1
+Juarez 4a deleg,,,,1
+JB-CM,,,,1
+Iztapala,,,,1
+Iztacalco D.F,,,,1
+Ixtacalco,,,,1
+Ilegible,,,,1
+IZO-U,,,,1
+IZO-I-HX,,,,1
+IZO-HB-1,,,,1
+IZA-VC-HB-,,,,1
+IZA-III,,,,1
+IZA-II / MH-CR,,,,1
+MH-HR,,,,1
+MH-HRL-AZ-1,,,,1
+Ref. IZA-II,,,,1
+MH-HRL-BJ-CM,,,,1
+R. Lenero,,,,1
+PP,,,,1
+PGR M-XIII,,,,1
+OZA-2,,,,1
+NJ Edo Mex,,,,1
+NJ,,,,1
+NH-II,,,,1
+N.O.,,,,1
+MR-I,,,,1
+MR-HRL,,,,1
+MJ-CM,,,,1
+MJ-3,,,,1
+MHRC,,,,1
+MH.RL*,,,,1
+MH-VI,,,,1
+MH-VC-HB,,,,1
+MH-V,,,,1
+MH-RL.C,,,,1
+MH-RL-AZ-1,,,,1
+MH-LR,,,,1
+MH-III-,,,,1
+MH-HRZ,,,,1
+MH-HRL-CH-1,,,,1
+H.T. B.,,,,1
+C.M.Nal.,,,,1
+H.E.V.,,,,1
+H.Balb.,,,,1
+5a - 36a,,,,1
+52a,,,,1
+4a. Delegacion,,,,1
+4a deleg.,,,,1
+455,,,,1
+45 Coyoacan,,,,1
+40a,,,,1
+3a deleg.,,,,1
+3a deelg,,,,1
+38A,,,,1
+37a-14a,,,,1
+37a -18,,,,1
+37a - 18a,,,,1
+370,,,,1
+36A,,,,1
+364,,,,1
+36 H,,,,1
+35a-5a,,,,1
+35a-38a,,,,1
+35a RL,,,,1
+35a 22a,,,,1
+35A,,,,1
+34a 13a,,,,1
+34A,,,,1
+33a y 30a,,,,1
+33a /30a,,,,1
+33a - 38a,,,,1
+33a - 30a,,,,1
+3352,,,,1
+5a deleg.,,,,1
+5n,,,,1
+609,,,,1
+9a Deleg.,,,,1
+AZO-I,,,,1
+AZO-1,,,,1
+AZ-II,,,,1
+AZ-I - MH-HRL,,,,1
+AO.1,,,,1
+AO-1-MH-CR,,,,1
+AO-1-HX,,,,1
+AO II,,,,1
+AI-I,,,,1
+A2-I,,,,1
+9a delegaciin,,,,1
+9a deleg.,,,,1
+9a delef,,,,1
+9a 8a,,,,1
+69,,,,1
+90a,,,,1
+8a 34a,,,,1
+85,,,,1
+81a,,,,1
+79,,,,1
+78a,,,,1
+78,,,,1
+75,,,,1
+73a,,,,1
+6a y grupo 2,,,,1
+6a delegacion,,,,1
+6a Delegacion,,,,1
+6a Deleg.,,,,1
+334,,,,1
+332a,,,,1
+32a - 37a,,,,1
+13a Deleg Iztapalapa,,,,1
+15 Delg,,,,1
+14a deleg.,,,,1
+14a deelg,,,,1
+14a Deleg.,,,,1
+147,,,,1
+14 deleg,,,,1
+14 Delegacion,,,,1
+14 Deleg,,,,1
+13s,,,,1
+"13a, Delegacion",,,,1
+13a eleg,,,,1
+13a delg.,,,,1
+13a dele,,,,1
+13 deleg.,,,,1
+15a Deleg.,,,,1
+13 Delegacion,,,,1
+12a Delegacion,,,,1
+12A-II,,,,1
+121,,,,1
+120-I,,,,1
+11a delegacion,,,,1
+115a,,,,1
+1136,,,,1
+10a Deleg.,,,,1
+10a - 8a,,,,1
+10 a deleg,,,,1
+10 Del.,,,,1
+1 deleg,,,,1
+15a Deleg Xochimilco,,,,1
+15a Delegacion,,,,1
+31032,,,,1
+222,,,,1
+31,,,,1
+2a delegacion,,,,1
+2a Delg,,,,1
+2a Deleg},,,,1
+2a (A N 102),,,,1
+28a deleg,,,,1
+27A,,,,1
+26a deleg,,,,1
+261a,,,,1
+24a 282,,,,1
+23a y 34a,,,,1
+23a y 32a,,,,1
+224a,,,,1
+21a - 34a,,,,1
+1687,,,,1
+20 Delegacion,,,,1
+1a y/o 34a,,,,1
+1a dele,,,,1
+1a deelg,,,,1
+1a Delegacion,,,,1
+1a Deleg.,,,,1
+19a xoco,,,,1
+18a deleg,,,,1
+18a Deleg,,,,1
+17a deleg,,,,1
+17a Deleg,,,,1
+17a Del.,,,,1
+17a 33a,,,,1
+AZO.1,,,,1
+B-AZ-1,,,,1
+B. R.,,,,1
+CV-HB,,,,1
+GAM II,,,,1
+GA-II,,,,1
+G. xoco,,,,1
+EMGM,,,,1
+EAM-HV,,,,1
+E.C.R,,,,1
+E-HX,,,,1
+Disp.,,,,1
+Cuauhtemoc,,,,1
+Cuajimalpa D. F.,,,,1
+Coyoacan (Xoco),,,,1
+Ch-1,,,,1
+CV/1,,,,1
+CV-1 CR,,,,1
+GAM-1-HV,,,,1
+CU-I-,,,,1
+CU-4,,,,1
+CR Ia deleg,,,,1
+COyoacan,,,,1
+CM C-HX,,,,1
+CIHX,,,,1
+CI-HX,,,,1
+CHX-MH-1,,,,1
+CH-VII,,,,1
+CH-VC-HB,,,,1
+CH-HB-4,,,,1
+CH-HB,,,,1
+CH-CR,,,,1
+GAM- HV,,,,1
+GAM-1-MH-HRL,,,,1
+CH-1 MH-HRL,,,,1
+GH-1,,,,1
+H. xoco,,,,1
+H. T. B,,,,1
+H. T.,,,,1
+H. G. La Villa,,,,1
+H. Cruz Roja,,,,1
+H. Balbuena,,,,1
+H. B. T.,,,,1
+H-B-CH-4,,,,1
+H Villa,,,,1
+H Balbuena,,,,1
+H,,,,1
+Grupo 1o,,,,1
+Gpo. 4-,,,,1
+GAM1,,,,1
+GAM-2-HV,,,,1
+GAM-VI,,,,1
+GAM-V,,,,1
+GAM-IV-,,,,1
+GAM-II-HX,,,,1
+GAM-HV-I,,,,1
+GAM-HV-HX,,,,1
+GAM-HV-CM,,,,1
+GAM-HV-2,,,,1
+GAM-HV-1,,,,1
+GAM-HC,,,,1
+GAM-H-V-CH-2,,,,1
+GAM-6,,,,1
+GAM-5,,,,1
+CH-2 HV,,,,1
+CH - VI,,,,1
+BC-I,,,,1
+BJ-JM,,,,1
+C-1-HX,,,,1
+C-1 IZA-1,,,,1
+C-/C/HX,,,,1
+C+HX,,,,1
+C I,,,,1
+C -I,,,,1
+C -HX,,,,1
+C,,,,1
+Bab.,,,,1
+BT-CH,,,,1
+BLI,,,,1
+BL-I,,,,1
+BJH20N,,,,1
+BJ-CM-MH-HRL,,,,1
+C-A,,,,1
+BJ-CM-H92 CH-I,,,,1
+BJ-CM-GAM-1,,,,1
+BJ-CM-C,,,,1
+BJ-CM y MH-HRL,,,,1
+BJ-CM VC-HB,,,,1
+BJ-CHX,,,,1
+BJ-2 C-HX,,,,1
+BJ-1-3,,,,1
+BJ-1 MH-CR,,,,1
+BJ-1 C-CV,,,,1
+BJ- CM,,,,1
+BI-I,,,,1
+BI-CM,,,,1
+C-2,,,,1
+C-C-1,,,,1
+CA-VI,,,,1
+C-MH-I,,,,1
+CA-III,,,,1
+C/HX/Xoco,,,,1
+C/1,,,,1
+C.m.n.,,,,1
+C.M.N.,,,,1
+C.M,,,,1
+C.HX,,,,1
+C. R. N 2a Deleg,,,,1
+C. R. Cela,,,,1
+C. R.,,,,1
+C. M. Nal.,,,,1
+C-X-1,,,,1
+C-VC-HV,,,,1
+C-MH-2,,,,1
+C-CH,,,,1
+C-MH-1,,,,1
+C-I [HX],,,,1
+C-HX-MH-HRL-C,,,,1
+C-HX-1,,,,1
+C-HX Y AO-I,,,,1
+C-HI,,,,1
+C-HC,,,,1
+C-H-I,,,,1
+C-H-H,,,,1
+C-H-6,,,,1
+C-H-5,,,,1
+C-H,,,,1
+C-GAM-HV,,,,1
+xoco,,,,1

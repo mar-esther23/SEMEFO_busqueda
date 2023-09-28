@@ -131,16 +131,16 @@ def expand_datetime(series_date):
     return df_date
 
 
-def translate_datetime(df):
+def translate_datetime(s):
     replace_date = {
                     'January':'Enero', 'February':'Febrero', 'March':'Marzo', 'April':'Abril', 
                     'May':'Mayo', 'June':'Junio', 'July':'Julio', 'August':'Agosto', 
-                    'September':'Septiembre', 'Octuber':'Octubre', 'November':'Noviembre', 'December':'Diciembre', 
+                    'September':'Septiembre', 'October':'Octubre', 'November':'Noviembre', 'December':'Diciembre', 
                     'Monday':'Lunes', 'Tuesday':'Martes', 'Wednesday':'Miércoles', 'Thursday':'Jueves', 
                     'Friday':'Viernes', 'Saturday':'Sábado', 'Sunday':'Domingo', 
                    }
-    df = df.replace(replace_date)
-    return df
+    s = s.replace(replace_date)
+    return s
 
 
 ## Int
