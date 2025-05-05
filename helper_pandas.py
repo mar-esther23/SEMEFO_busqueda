@@ -267,7 +267,12 @@ def top_values_of_series_to_string(series, n_top=5, normalize=False, round_digit
     text = sep.join(text)
     return text
 
-
+def summary_top_series(s, n_values=5, sep=', ', **kwargs):
+    # check with one above
+    s = s.value_counts(**kwargs).head(n_values)
+    s = s.to_dict()
+    s = sep.join([f"{k} ({v})" for k,v in s.items()])
+    return s
 
 
 
