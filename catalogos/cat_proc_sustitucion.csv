@@ -308,10 +308,10 @@ Grupo 4o,CUH-8,Coord Territorial 8 Cuauhtemoc (Col Obrera),2,1,0,"BO_1973_01942,
 4a deleg.,CUH-8,Coord Territorial 8 Cuauhtemoc (Col Obrera),1,1,0,BO_1972_04471,Cuauhtemoc
 4a Deleg. ,CUH-8,Coord Territorial 8 Cuauhtemoc (Col Obrera),1,1,0,BO_1972_01413,Cuauhtemoc
 40a,CUH-8,Coord Territorial 8 Cuauhtemoc (Col Obrera),1,1,0,BO_1979_00483,Cuauhtemoc
-26a,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),387,1,0,"BO_1974_00109,BO_1974_00450,BO_1974_00459,BO_1974_00647,BO_1974_00655",Cuauhtemoc
-26,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),169,1,0,"BO_1980_00024,BO_1980_00091,BO_1980_00092,BO_1980_00162,BO_1980_00163",Cuauhtemoc
-Cuajimalpa,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),63,1,0,"BO_1968_00863,BO_1968_00878,BO_1968_00994,BO_1968_01017,BO_1968_01028",Cuauhtemoc
-26a deleg,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),1,1,0,BO_1973_03495,Cuauhtemoc
+26a,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),387,1,0,"BO_1974_00109,BO_1974_00450,BO_1974_00459,BO_1974_00647,BO_1974_00655",Cuajimalpa
+26,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),169,1,0,"BO_1980_00024,BO_1980_00091,BO_1980_00092,BO_1980_00162,BO_1980_00163",Cuajimalpa
+Cuajimalpa,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),63,1,0,"BO_1968_00863,BO_1968_00878,BO_1968_00994,BO_1968_01017,BO_1968_01028",Cuajimalpa
+26a deleg,CUJ-1,Coord Territorial 1 Cuajimalpa (Col Cuajimalpa Centro),1,1,0,BO_1973_03495,Cuajimalpa
 GAM-1,GAM-1,Coord Territorial 1 Gustavo A Madero (Col Cuautepec Barrio Bajo),412,1,0,"BO_1975_00004,BO_1975_00006,BO_1975_00021,BO_1975_00028,BO_1975_00063",Gustavo A Madero
 GAM-I,GAM-1,Coord Territorial 1 Gustavo A Madero (Col Cuautepec Barrio Bajo),187,1,0,"BO_1976_00018,BO_1976_00048,BO_1976_00060,BO_1976_00064,BO_1976_00069",Gustavo A Madero
 GAM-I-,GAM-1,Coord Territorial 1 Gustavo A Madero (Col Cuautepec Barrio Bajo),13,1,0,"BO_1977_05376,BO_1977_05400,BO_1977_05617,BO_1977_05621,BO_1977_06757",Gustavo A Madero
@@ -626,10 +626,10 @@ Hdz juarez 20a,IZP-5,Coord Territorial 5 Iztapalapa (Col V Guerrero),1,2,1,BO_19
 Xoco+20a,IZP-5,Coord Territorial 5 Iztapalapa (Col V Guerrero),1,1,0,BO_1982_03456,Iztapalapa
 SC+20a,IZP-5,Coord Territorial 5 Iztapalapa (Col V Guerrero),1,1,0,BO_1979_01283,Iztapalapa
 20 Delegacion,IZP-5,Coord Territorial 5 Iztapalapa (Col V Guerrero),1,1,0,BO_1973_05521,Iztapalapa
-Contreras,MC-1,Coord Territorial 1 Magdalena Contreras (Col Ampliacion Contreras),22,1,0,"BO_1968_00942,BO_1968_00972,BO_1968_01241,BO_1968_01992,BO_1969_01292",Magdalena Contreras
-MC,MC-1,Coord Territorial 1 Magdalena Contreras (Col Ampliacion Contreras),3,1,0,"BO_1970_00809,BO_1970_02085,BO_1970_04427",Magdalena Contreras
-25a,MC-2,Coord Territorial 2 Magdalena Contreras (Col Barranca Seca),252,1,0,"BO_1974_00041,BO_1974_00247,BO_1974_00274,BO_1974_00327,BO_1974_00640",Magdalena Contreras
-25,MC-2,Coord Territorial 2 Magdalena Contreras (Col Barranca Seca),92,1,0,"BO_1980_00109,BO_1980_00181,BO_1980_00516,BO_1980_00541,BO_1980_00890",Magdalena Contreras
+Contreras,MC-1,Coord Territorial 1 Magdalena Contreras (Col Ampliacion Contreras),22,1,0,"BO_1968_00942,BO_1968_00972,BO_1968_01241,BO_1968_01992,BO_1969_01292",La Magdalena Contreras
+MC,MC-1,Coord Territorial 1 Magdalena Contreras (Col Ampliacion Contreras),3,1,0,"BO_1970_00809,BO_1970_02085,BO_1970_04427",La Magdalena Contreras
+25a,MC-2,Coord Territorial 2 Magdalena Contreras (Col Barranca Seca),252,1,0,"BO_1974_00041,BO_1974_00247,BO_1974_00274,BO_1974_00327,BO_1974_00640",La Magdalena Contreras
+25,MC-2,Coord Territorial 2 Magdalena Contreras (Col Barranca Seca),92,1,0,"BO_1980_00109,BO_1980_00181,BO_1980_00516,BO_1980_00541,BO_1980_00890",La Magdalena Contreras
 9a,MH-1,Coord Territorial 1 Miguel Hidalgo – Hospital Ruben Leñero (Col Tacuba),1040,1,0,"BO_1969_01018,BO_1974_00046,BO_1974_00101,BO_1974_00140,BO_1974_00194",Miguel Hidalgo
 9,MH-1,Coord Territorial 1 Miguel Hidalgo – Hospital Ruben Leñero (Col Tacuba),525,1,0,"BO_1980_00041,BO_1980_00062,BO_1980_00079,BO_1980_00085,BO_1980_00131",Miguel Hidalgo
 MH-1,MH-1,Coord Territorial 1 Miguel Hidalgo – Hospital Ruben Leñero (Col Tacuba),268,1,0,"BO_1975_00103,BO_1975_00150,BO_1975_00264,BO_1975_00323,BO_1975_00487",Miguel Hidalgo
