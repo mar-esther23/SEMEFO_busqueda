@@ -278,6 +278,47 @@ def summary_top_series(s, n_values=5, sep=', ', **kwargs):
 
 
 
+def categorical_to_freq_and_percentage(
+    s: pd.Series,
+    sort_index: bool = True,
+    as_str: bool = True,
+    top_n: int = None,
+    percen_round: int = 3,
+    dropna: bool = True
+):
+    """
+    Summarizes a categorical Series with frequency and percentage per unique value.
+
+    Parameters:
+    - s (pd.Series): Input categorical data.
+    - sort_index (bool): If True, sort output by index; if False, preserve order or sort by frequency.
+    - as_str (bool): If True, return formatted strings like "count (percentage%)".
+    - top_n (int): If provided, limit to top N categories by frequency.
+    - percen_round (int): Decimal places for percentage rounding.
+    - dropna (bool): Whether to exclude NaN values in the input series (default: True).
+
+    Returns:
+    - pd.Series or pd.DataFrame: Summary of categories.
+    """
+    # Calculate frequency and percentage
+    freq = s.value_counts().astype(int)
+    perc = (freq / len(s) * 100)
+    # Round frequency
+    if percen_round is not None:
+        perc = perc.round(percen_round)
+    # Create dataframe
+    data = pd.concat([freq, perc], axis=1)
+    data.columns = ['Frequency', 'Percentage']
+    # Get top_n results
+    if top_n is not None:
+        data = data.sort_values('Frequency', ascending=False).head(top_n)
+    # Sort index, uses categorical index if it exists
+    if sort_index:
+        data = data.sort_index()
+    # Format to string
+    if as_str:
+        data = data.apply(lambda row: f"{int(row['Frequency'])} ({row['Percentage']}%)", axis=1)
+    return data
 
 
 
