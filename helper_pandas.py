@@ -285,7 +285,7 @@ def categorical_to_freq_and_percentage(
     top_n: int = None,
     percen_round: int = 3,
     dropna: bool = True
-):
+    ):
     """
     Summarizes a categorical Series with frequency and percentage per unique value.
 
@@ -322,3 +322,161 @@ def categorical_to_freq_and_percentage(
 
 
 
+def categorical_summary(
+    series_category:str,
+    series_group:str,
+    sort_index: bool = True,
+    as_str: bool = True,
+    top_n: int = None,
+    percen_round: int = None,
+    dropna: bool = True
+    ):
+    """
+    Summarizes a categorical Series with frequency and percentage per unique value.
+
+    Parameters:
+    - 
+
+    Returns:
+    - pd.Series or pd.DataFrame: Summary of categories.
+    """
+    
+    # Calculate frequency and percentage
+    total = series_category.shape[0]
+    data = dict()
+    for k,g in series_category.groupby(series_group, dropna=dropna):
+        freq = g.value_counts(dropna=dropna)
+        perc = (freq/total)*100
+        res = pd.concat([freq,perc],axis=1)
+        res.columns = ['Frequency','Percentage']
+        data[k] = res
+
+    # Calculate total
+    freq_tot = [data[k]['Frequency'] for k in data.keys()]
+    freq_tot = pd.concat(freq_tot,axis=1).sum(axis=1)
+    perc_tot = [data[k]['Percentage'] for k in data.keys()]
+    perc_tot = pd.concat(perc_tot, axis=1).sum(axis=1)
+    res = pd.concat([freq_tot,perc_tot],axis=1)
+    res.columns = ['Frequency','Percentage']
+    data['Total'] = res
+
+    # Create dataframe
+    data = pd.concat(data, axis=1).fillna(0)
+
+    # Get top_n results
+    if top_n is not None:
+        data = data.sort_values(by=('Total','Frequency'), ascending=False).head(top_n)
+
+    # Sort index, uses categorical index if it exists
+    if sort_index:
+        data = data.sort_index()
+    
+    # Round frequency decimals
+    columns = data.columns.get_level_values(0).unique()
+    if percen_round is not None:
+        for col in columns:
+            data[(col,'Percentage')] = data[(col,'Percentage')].round(percen_round) 
+    
+    # Format to string
+    if as_str:
+        res = dict()
+        for col in columns:
+            res[col] = data.apply(lambda row: f"{int(row[(col,'Frequency')])} ({row[(col,'Percentage')]}%)", axis=1)
+        data = pd.concat(res, axis=1)
+
+    return data
+
+def string_summary(
+    series_string: pd.Series,
+    series_group: pd.Series,
+    as_str: bool = True,
+    top_n: int = 5,
+    percen_round: int = None,
+    dropna: bool = True, 
+    other_str:str='other',
+    nan_str:str='nan',
+    pretty_display:bool=False,
+    ):
+    """
+    Summarizes a string Series with frequency and percentage per unique value. Selects top N from each group.
+
+    Parameters:
+    - 
+
+    Returns:
+    - pd.DataFrame: Summary of strings.
+    """
+    
+    # Calculate frequency and percentage
+    total = series_string.shape[0]
+    data = dict()
+    for k,g in series_string.groupby(series_group, dropna=dropna):
+        freq = g.value_counts(dropna=dropna).head(top_n)
+        other = pd.Series([g.shape[0]-freq.sum()], index=[other_str])
+        freq = freq.append(other)
+        perc = (freq/total)*100
+        res = pd.concat([freq,perc],axis=1).reset_index()
+        res.columns = ['Text','Frequency','Percentage']
+        res['Text'] = res['Text'].fillna(nan_str)
+        data[k] = res
+    
+    # Create dataframe
+    data = pd.concat(data, axis=1).fillna(0)
+    
+    # Round frequency decimals
+    columns = data.columns.get_level_values(0).unique()
+    if percen_round is not None:
+        for col in columns:
+            data[(col,'Percentage')] = data[(col,'Percentage')].round(percen_round) 
+    
+    # Format to string
+    if as_str:            
+        res = dict()
+        for col in columns:
+            res[col] = data.apply(lambda row: f"{row[(col,'Text')]}\n{row[(col,'Frequency')]} ({row[(col,'Percentage')]}%)", axis=1)
+        data = pd.concat(res, axis=1)
+    
+    # Pretty printing
+    if pretty_display:
+        from IPython.display import display
+        display(data.style.set_properties(**{
+                        'white-space': 'pre-wrap',
+                        'text-align': 'left',
+                }))
+    
+    return data
+
+
+def numeric_summary(
+    series_category:str,
+    series_group:str,
+    percen_round: int = None,
+    dropna: bool = True,
+    str_all:str = 'All',
+    ):
+    """
+    Summarizes a categorical Series with frequency and percentage per unique value.
+
+    Parameters:
+    - 
+
+    Returns:
+    - pd.Series or pd.DataFrame: Summary of categories.
+    """
+    
+    # Calculate frequency and percentage
+    total = series_category.shape[0]
+    data = dict()
+    data = {k:g.describe() for k,g in series_category.groupby(series_group, dropna=dropna)}
+    # Create dataframe
+    data = pd.concat(data, axis=1).fillna(0)
+
+    # Calculate total
+    data[str_all] = series_category.describe()
+
+    # Round frequency decimals
+    if percen_round is not None:
+        data = data.round(percen_round) 
+    data = data.applymap('{:g}'.format)
+
+    return data
