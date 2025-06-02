@@ -1,0 +1,680 @@
+Sep,Freq,Miss
+S-D,55901,False
+TM,8020,False
+TCE,6945,False
+BN,5328,False
+CH,1535,False
+CVG,1509,False
+Quem,1437,False
+TCT,1272,False
+LOC,1121,False
+HPAF,1045,False
+HPAFC,960,False
+AOVA,936,False
+Dispensa,929,False
+PN,779,False
+AXA,697,False
+AQXT,686,False
+HPAFPT,601,False
+ANEN,574,False
+ASB,561,False
+HC,561,False
+EXPSM,560,False
+TTA,515,False
+TMi,461,False
+TA,409,False
+TT,395,False
+TB,377,False
+HIPC,358,False
+N,352,False
+HPAFA,332,False
+Septi,318,False
+TAC,314,False
+HIPCT,301,False
+TCer,281,False
+TCCer,253,False
+AN,251,False
+HPAFTA,248,False
+TCCerM,242,False
+Electroc,214,False
+TP,190,False
+ENT,184,False
+PER,172,False
+TAP,172,False
+TCTA,169,False
+EP,154,False
+HPAFT,144,False
+AE,143,False
+TCP,131,False
+TCF,123,False
+Gang,118,False
+ASF,117,False
+BBNT,106,False
+Intox,104,False
+HIPCTA,96,False
+Indet,94,False
+EC,89,False
+VE,89,False
+AQ,87,False
+Pancrea,87,False
+TCET,78,False
+TTP,66,False
+HIPCPA,58,False
+InfMio,58,False
+Aborto,51,False
+TMiS,49,False
+InfPul,48,False
+TTAP,48,False
+NoCopia,44,False
+Trau,43,False
+TMiI,40,False
+CA,37,False
+Desnut,37,False
+TACP,36,False
+HIPCA,35,False
+TCEA,35,False
+TCCerT,34,False
+CL,33,False
+Hemo,33,False
+SH,32,False
+Meningitis,31,False
+AT,30,False
+HPAFCu,30,False
+Gastroent,29,False
+FCPN,28,False
+Mening,28,False
+HIPCC,25,False
+MI,25,False
+Anoxia,24,False
+Cereb,23,False
+Pul,23,False
+PostParto,22,False
+Abs,21,False
+Intes,21,False
+TPMi,21,False
+Necro,20,False
+Hepat,18,False
+TCTP,18,False
+Utero,18,False
+Alcohol,17,False
+HIPCCu,17,False
+HPAFCT,17,False
+Inf,17,False
+PTE,17,True
+Placenta,16,False
+Gastr,15,False
+HPAFTV,15,False
+IntoxMed,15,False
+Ret,15,False
+TCRM,15,False
+Trombo,15,False
+CO2,14,False
+Perf,14,False
+Rup,14,False
+Ulcera,14,False
+noT,14,False
+HPAFV,13,False
+Infec,13,False
+Insuf,13,False
+Tum,13,False
+Cisticercosis,12,False
+HPAFRaquis,12,False
+TRM,12,False
+Vascu,12,False
+A,11,True
+AAxHE,11,False
+CQ,11,True
+Diabetes,11,False
+T,11,True
+TCEMi,11,False
+AQXTMi,10,False
+Broncoaspiracion,10,False
+HIPCV,10,False
+HPAFCTA,10,False
+PartoDis,10,False
+Raticida,10,False
+TCu,10,False
+ENTCO,9,False
+Encef,9,False
+Oclusion,9,False
+TCerM,9,False
+Anencefalia,8,False
+Aneurisma,8,False
+Hepatitis,8,False
+InfCer,8,False
+TCTAP,8,False
+Gastritis,7,False
+Hidrocefalia,7,False
+IP,7,True
+Osteomielitis,7,False
+SHHV,7,False
+TQT,7,True
+CS,6,True
+HCNT,6,False
+Hernia,6,False
+PNNT,6,False
+Renal,6,False
+TCETA,6,False
+CUY,5,True
+Fetal,5,False
+IA,5,True
+MP,5,True
+TCerT,5,False
+TMed,5,False
+_Cer,5,False
+Apendicitis,4,False
+CG,4,True
+ECEP,4,True
+Embarazo,4,False
+Endo,4,False
+HIPCMi,4,False
+HPIPCPA,4,True
+Leg,4,False
+M,4,True
+Osteo,4,False
+Raqui,4,False
+Rectal,4,False
+TCCerMT,4,False
+TN,4,True
+TRaq,4,False
+Tetanos,4,False
+Vag,4,False
+Xoco,4,True
+_AP,4,False
+ABA,3,True
+AQx Infeccion,3,True
+ASE,3,True
+Avionetazo,3,False
+BNxTMI,3,True
+Br,3,True
+CRG,3,True
+CUG,3,True
+Cianuro,3,False
+EH,3,True
+Encefalitis,3,True
+Encefalomalacia,3,False
+Fdesarrollo,3,False
+Femoral,3,False
+HPPAF,3,True
+I,3,True
+IAA,3,True
+IM,3,True
+IV,3,True
+IVG,3,True
+Inanicion,3,True
+Infarto Cerebral,3,True
+Isquemia,3,True
+ME,3,True
+MT,3,True
+Neumonia,3,True
+P,3,True
+Pericarditis,3,True
+TCCE,3,True
+TCR,3,False
+TCerMT,3,False
+TEE,3,True
+TF,3,True
+TOE,3,True
+_P,3,False
+_PA,3,False
+AC,2,True
+AIU,2,True
+ANxVE,2,True
+AOVR,2,True
+AQxTrat,2,False
+ASA,2,True
+ATMI,2,True
+Arterioesclerosis,2,True
+B N,2,True
+BNB,2,True
+BNEC,2,True
+C Quemaduras,2,True
+CE,2,True
+CM,2,True
+CO,2,True
+CPA,2,True
+CPT,2,True
+CPTA,2,True
+CPTP,2,True
+CT,2,True
+Deposito,2,True
+E,2,True
+EC EP,2,True
+FD,2,True
+GH,2,True
+HC TyCH,2,True
+HCAM,2,True
+HIPCCT,2,False
+HIPOP,2,True
+HPAFMi,2,False
+HSB,2,True
+Hemoptisis,2,True
+IPA,2,True
+IPM,2,True
+Ilegible,2,True
+InAxGases,2,True
+LOC Inf,2,True
+OVAS,2,True
+PA,2,True
+PNT,2,True
+PTE.,2,True
+Parto,2,False
+Pelviperitonitis,2,True
+PernoT,2,True
+Pielonefritis,2,True
+QVY,2,True
+RT,2,True
+TAM,2,False
+TCCerA,2,True
+TCETP,2,True
+TCFCM,2,True
+TCFT,2,True
+TCMi,2,False
+TMIBN,2,True
+TR,2,True
+TRMed,2,True
+_CerM,2,False
+_V,2,False
+4C,1,True
+A xA,1,True
+"A.Q.X. Tratamiento por Q 2deg,3deg",1,True
+AAHIBR,1,True
+AAPE,1,True
+AAPHIE,1,True
+AAo,1,True
+AAxCH,1,True
+AAxVE,1,True
+ACGVAS,1,True
+ACN,1,True
+ADNA,1,True
+ADVA,1,True
+AEX,1,True
+AG OVA,1,True
+AIPCPT,1,True
+AM,1,True
+AMN,1,True
+AN VE,1,True
+ANA,1,True
+ANAHVA,1,True
+AND,1,True
+ANG,1,True
+ANHIPPT,1,True
+ANNxT,1,True
+ANNxTCE,1,True
+ANRU,1,True
+ANxTM,1,True
+AOA,1,True
+AOMsIs,1,True
+AOT,1,True
+AOxHPAF,1,True
+AQxElectrocucion,1,True
+AQxOs,1,True
+AQxS,1,True
+AS-TT,1,True
+ASB CVG,1,True
+ASFIXIA POR ESP,1,True
+ASM,1,True
+ASP,1,True
+ASR,1,True
+ATMS,1,True
+AVA,1,True
+AVEN,1,True
+Ab,1,True
+Ag Cat.,1,True
+AnAxHIE,1,True
+AnXA,1,True
+Anoxie,1,True
+AsA,1,True
+AsHs,1,True
+AsfNN,1,True
+Atelectasia,1,True
+Atrepsia,1,True
+Atrofia Muscular,1,True
+AxxA,1,True
+BABxTP,1,True
+BBTxQ,1,True
+BC,1,True
+BCQ,1,True
+BM,1,True
+BNAH,1,True
+BNAsHs,1,True
+BNCVGAE,1,True
+BNTB,1,True
+BNTCE,1,True
+BNTMS,1,True
+BNxAborto,1,True
+BNxT,1,False
+BNxTCE,1,True
+BNxTTP,1,True
+BP,1,True
+BT,1,True
+BTM,1,True
+Balbuena,1,True
+BnTb,1,True
+Bronc,1,True
+Bronconeumonia,1,True
+C H,1,True
+C d Q,1,True
+CC,1,True
+CHBN,1,True
+CHI,1,True
+CHV,1,True
+CKSxIPP,1,True
+CNT,1,True
+COC,1,True
+CPN,1,True
+CPP,1,True
+CPTAP,1,True
+CRANEO Hiper,1,True
+CSGXPI,1,True
+CSGxCQ,1,True
+CSXT,1,True
+CVA,1,True
+CVB,1,True
+CVC,1,True
+CVE,1,True
+CVFxCQ,1,True
+CVGEC,1,True
+CVGxCH,1,True
+CVGyLOC,1,True
+CVH,1,True
+CVS,1,True
+Carbonizacion,1,True
+Cardiopatia,1,True
+Celulitis M.,1,True
+Cer,1,True
+Chuem,1,True
+Cisticer,1,True
+CoL,1,True
+Coagulacion Intravos.,1,True
+Coagulos,1,True
+Coagulos Fibri,1,True
+Complicacion de...,1,True
+Conj de Q,1,True
+D,1,True
+DMTCM,1,True
+DPSM,1,True
+Decapitacion,1,True
+Derar AxT,1,True
+Desecho Obstetrico,1,True
+Deshidratacion,1,True
+DesorQxT,1,True
+Discracia,1,True
+Discracia Se,1,True
+Dsipensa,1,True
+EA,1,True
+EAP,1,True
+ECBN,1,True
+ECE,1,True
+ECEPCVG,1,True
+ECEPVCES,1,True
+ECIP,1,True
+ECP,1,True
+ECPT,1,True
+EExHI,1,True
+EGMat,1,True
+EM,1,True
+EOI,1,True
+EOM,1,True
+EP Quemaduras,1,True
+EPA,1,True
+EPCH,1,True
+EPHIxGE,1,True
+EPLOC,1,True
+ESB,1,True
+ESG,1,True
+EV,1,True
+Edampsia,1,True
+Edema,1,True
+Edema Glotis,1,True
+Embolia,1,True
+Embolia P,1,True
+Enfermedad M,1,True
+Enp P,1,True
+EnsP,1,True
+Enteriits,1,True
+Entoritis,1,True
+Estudios Anatomicos,1,True
+FA,1,True
+FAM,1,True
+FAO,1,True
+FC.P.NaT.,1,True
+FDF,1,True
+FMI,1,True
+FP,1,True
+FPCER,1,True
+FPT,1,True
+Falta atencion. / mide,1,True
+Falta cuidado,1,True
+Feto,1,True
+Flegmon,1,True
+Flegmon.,1,True
+Frag. Intestinales,1,True
+GA,1,True
+Gang MI,1,True
+H,1,True
+H Intra Cer,1,True
+HEMOPERICARDIO,1,True
+HH,1,True
+HI Pc PT,1,True
+HIB,1,True
+HIPCCuT,1,False
+HIPCTV,1,False
+HIPPCPT,1,True
+HIPPsTA,1,True
+HIsCPT,1,True
+HIsPST,1,True
+HPAFCTV,1,False
+HPAFCuT,1,False
+HPCPTA,1,True
+HPFrag,1,True
+HTBTP,1,True
+Hematoma,1,True
+Hematoma Subderd,1,True
+HemoperC,1,True
+Hepatomegalia,1,True
+Hepot,1,True
+Hernias,1,True
+HiPin,1,True
+Hidrotorax,1,True
+Hiper,1,True
+Hipoglucemia,1,True
+Hipoxia,1,True
+Hom,1,True
+Homopericardio compxI Miocardio,1,True
+Hs IPC,1,True
+Hs PA F Ps,1,True
+Hs PAF,1,True
+Hs.P.-,1,True
+Hs.PAF,1,True
+HsPAFPCora,1,True
+HsPsAFPsTyA,1,True
+HxCentPT,1,True
+HxIPC,1,True
+I sobs,1,True
+IAC,1,True
+IAP,1,True
+ICE,1,True
+ICGTM,1,True
+ICO2,1,True
+ICPN,1,True
+IHCH,1,True
+IHMP,1,True
+IMC,1,True
+INFARTO,1,True
+INSEP,1,True
+INTER ED CEB,1,True
+INTOXTAP,1,True
+IPB,1,True
+IPCPC,1,True
+Ictericia Hemolitica,1,True
+Ind,1,True
+Infarto miocardio LOC,1,True
+Infartos,1,True
+Inmadurez,1,True
+Inmadurez fetal,1,True
+Ins,1,True
+Insuficiencia Redac. Aguda,1,True
+Intox CVG,1,True
+IntoxAn,1,True
+Intoxicion,1,True
+IrisH,1,True
+L,1,True
+LDC,1,True
+LOC CH,1,True
+LVC,1,True
+Lesiones Neur,1,True
+Listicareosis Pare,1,True
+MBBNT,1,True
+MBHPBF,1,True
+MIS,1,True
+MTP,1,True
+Machaca de OPA,1,True
+Malf Congenitas,1,True
+MalfCongenita,1,True
+Maniobras Obstr,1,True
+Miembros,1,True
+Momificacion,1,True
+Mordeduras roedores,1,True
+NAHOP,1,True
+NB,1,True
+NCH,1,True
+NEOC,1,True
+NLxTMPD,1,True
+Neumopatia,1,True
+Neumopulmonia,1,True
+OL,1,True
+OQ,1,True
+Ortoria,1,True
+PAN H,1,True
+PBN,1,True
+PC,1,True
+PD,1,True
+PEGM,1,True
+PEM,1,True
+PERID,1,True
+PG,1,True
+PH,1,True
+PHNT,1,True
+PN TCE,1,True
+PS,1,True
+PanH,1,True
+Paro,1,True
+Paro cario respiratorio,1,True
+Perforaci,1,True
+Perforacion esofagica NoT,1,True
+Pertusion,1,True
+Pioartrosis,1,True
+Pionefrosis,1,True
+PlaPrevia,1,False
+Poncoes,1,True
+Por,1,True
+Probr Enf Gral,1,True
+Puerperio,1,True
+PxPERF,1,True
+QH,1,True
+QOVQ,1,True
+QQx quem,1,True
+Quemado,1,True
+Quemadruas,1,True
+Quemduras,1,True
+RAA,1,True
+RC,1,True
+RCE,1,True
+RM,1,True
+ROVR,1,True
+Reblandeciones,1,True
+SALICILI,1,True
+SHS,1,True
+SHTde la,1,True
+SHxAQMI,1,True
+SN,1,True
+SP,1,True
+Sarcoma,1,True
+Se ignora,1,True
+Shock Penisilinico,1,True
+Sup. PS,1,True
+T.Cor.Med,1,True
+TAA,1,True
+TAS,1,True
+TASH,1,True
+TAT,1,True
+TAyMIIzq,1,True
+TBC,1,True
+TCABN,1,True
+TCAT,1,True
+TCB,1,True
+TCCTEP,1,True
+TCCerMed A,1,True
+TCCervA,1,True
+TCCyMI,1,True
+TCETCF,1,True
+TCETHI,1,True
+TCETyP,1,True
+TCFYCM,1,True
+TCFaCerMed,1,True
+TCFyCM,1,True
+TCFyCT,1,True
+TCFyCer,1,True
+TCFyMB,1,True
+TCFyT,1,True
+TCMT,1,False
+TCO,1,True
+TCTMed,1,True
+TCV,1,True
+TCorv,1,True
+TCorvMed,1,True
+TFE,1,True
+TFyMsInfs,1,True
+TGA,1,True
+TGERM,1,True
+TH,1,True
+THAFPT,1,True
+THP,1,True
+THPAFPC,1,True
+TIT,1,True
+TITMP,1,True
+TLT,1,True
+TM4,1,True
+TMIxBN,1,True
+TMN,1,True
+TMSH,1,True
+TMT,1,True
+TMTPN,1,True
+TOTA,1,True
+TPP,1,True
+TPS,1,True
+TQ,1,True
+TQE,1,True
+TQIPT,1,True
+TQxHpp,1,True
+TRA,1,True
+TRME,1,True
+TRaF,1,True
+TTMi,1,False
+TVP,1,True
+TVag,1,False
+To M,1,True
+Trat Roir,1,True
+Tratamiento a infeccion,1,True
+Tromb Pol,1,True
+Tromboembolismo,1,True
+TsTM5Hs,1,True
+U,1,True
+VCG,1,True
+VCQ,1,True
+VG,1,True
+Vesic,1,False
+Vicera,1,True
+[Dec],1,True
+_C,1,False
+_CA,1,False
+_CP,1,False
+_Med,1,False
+_TA,1,False
+cornada toro,1,True
+intox. al,1,True
+micosis,1,True
+quemaduras,1,True
+sd,1,True
+shock,1,True
