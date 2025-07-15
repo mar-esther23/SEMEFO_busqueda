@@ -1,0 +1,1408 @@
+Siglas,Extendido,Clasificacion,Freq
+S-D,sin datos,,55901.0
+TM,traumatismo multiple,Trauma,8020.0
+TCE,traumatismo craneo encefalico,Trauma,6945.0
+BN,bronconeumonia,Enfermedades del sistema respiratorio,5329.0
+CH,cirrosis hepatica,Enfermedades del sistema digestivo,1536.0
+CVG,congestion visceral generalizada,,1509.0
+Quem,quemaduras,Causas externas de morbilidad y de mortalidad,1438.0
+TCT,traumatismo craneo torax,Trauma,1272.0
+LOC,enfermedad organica del corazon,Enfermedades del sistema circulatorio,1122.0
+HPAF,herida arma fuego,Herida por arma de fuego,1045.0
+HPAFC,herida arma fuego craneo,Herida por arma de fuego,960.0
+AOVA,asfixia por obstruccion de vias aereas,Causas externas de morbilidad y de mortalidad,936.0
+Dispensa,dispensa,,929.0
+PN,pleuro pneumonia,Enfermedades del sistema respiratorio,779.0
+AXA,asfixia por ahorcamiento,Causas externas de morbilidad y de mortalidad,697.0
+AQXT,amputacion quirurgica por traumatismo,Amputación,686.0
+HPAFPT,herida arma fuego pelvis torax,Herida por arma de fuego,601.0
+ANEN,asfixia neo natorum,"Embarazo, parto y puerperio",574.0
+HC,hemorragia cerebral o herida cortante,Causas externas de morbilidad y de mortalidad,561.0
+ASB,asfixia por sumersion,Causas externas de morbilidad y de mortalidad,561.0
+EXPSM,expulsion prematura del seno materno,"Embarazo, parto y puerperio",560.0
+TTA,traumatismo torax abdomen,Trauma,515.0
+TMi,traumatismo miembro,Trauma,461.0
+TA,traumatismo abdomen,Trauma,408.0
+TT,traumatismo torax,Trauma,395.0
+TB,tuberculosis,Ciertas enfermedades infecciosas y parasitarias,377.0
+HIPC,herida punzo cortante,Herida punzo cortante,358.0
+N,neumonia,Enfermedades del sistema respiratorio,352.0
+HPAFA,herida arma fuego abdomen,Herida por arma de fuego,332.0
+Septi,septicemia,Ciertas enfermedades infecciosas y parasitarias,320.0
+TAC,traumatismo abdomen craneo,Trauma,314.0
+HIPCT,herida punzo cortante torax,Herida punzo cortante,301.0
+TCer,traumatismo cervico,Trauma,281.0
+TCCer,traumatismo craneo cervico,Trauma,253.0
+AN,anemia,,251.0
+HPAFTA,herida arma fuego torax abdomen,Herida por arma de fuego,248.0
+TCCerM,traumatismo craneo cervico medular,Trauma,240.0
+Electroc,electrocucion,Causas externas de morbilidad y de mortalidad,214.0
+TP,traumatismo pelvis,Trauma,190.0
+ENT,enteritis,Enfermedades del sistema digestivo,184.0
+TAP,traumatismo abdomen pelvis,Trauma,172.0
+PER,peritonitis o perforacion,Enfermedades del sistema digestivo,172.0
+TCTA,traumatismo craneo torax abdomen,Trauma,169.0
+EP,edema pulmonar,Enfermedades del sistema respiratorio,154.0
+HPAFT,herida arma fuego torax,Herida por arma de fuego,144.0
+AE,asfixia por estrangulacion,Causas externas de morbilidad y de mortalidad,143.0
+TCP,traumatismo craneo pelvis,Trauma,131.0
+TCF,traumatismo craneo facial,Trauma,118.0
+Gang,gangrena,Enfermedades de la piel y del tejido subcutáneo,118.0
+ASF,asfixia,Causas externas de morbilidad y de mortalidad,117.0
+BBNT,bronconeumonia no traumatica,Enfermedades del sistema respiratorio,106.0
+Intox,intoxicacion,Causas externas de morbilidad y de mortalidad,104.0
+HIPCTA,herida punzo cortante torax abdomen,Herida punzo cortante,96.0
+Indet,indeterminado,,94.0
+EC,edema cerebral,Enfermedades del sistema nervioso,89.0
+VE,varices esofagicas,Enfermedades del sistema digestivo,89.0
+AQ,amputacion quirurgica,Amputación,88.0
+Pancrea,pancreatitis,Enfermedades del sistema digestivo,87.0
+TCET,traumatismo craneo encefalico torax,Trauma,78.0
+TTP,traumatismo torax pelvis,Trauma,66.0
+P,,,59.0
+InfMio,infarto miocardio,Enfermedades del sistema circulatorio,58.0
+HIPCPA,herida punzo cortante abdomen pelvis,Herida punzo cortante,58.0
+Aborto,aborto,"Embarazo, parto y puerperio",51.0
+TMiS,traumatismo miembro superior,Trauma,49.0
+InfPul,infarto pulmon,Enfermedades del sistema respiratorio,48.0
+TTAP,traumatismo torax abdomen pelvis,Trauma,48.0
+NoCopia,no copias,,44.0
+Trau,traumatismo,Trauma,43.0
+TMiI,traumatismo miembro inferior,Trauma,40.0
+CA,cancer,Tumores (neoplasias),37.0
+Desnut,desnutricion,"Enfermedades endocrinas, nutricionales y metabólicas",37.0
+TACP,traumatismo abdomen craneo pelvis,Trauma,36.0
+E,,,36.0
+HIPCA,herida punzo cortante abdomen,Herida punzo cortante,35.0
+TCEA,traumatismo craneo encefalico abdomen,Trauma,35.0
+TCCerT,traumatismo craneo cervico torax,Trauma,34.0
+CL,conjunto lesiones,Trauma,33.0
+CS,,,33.0
+Hemo,hemorragia,,33.0
+CQ,,,32.0
+SH,shock,,32.0
+Meningitis,meningitis,Enfermedades del sistema nervioso,31.0
+AT,amputacion traumatica,Amputación,30.0
+HPAFCu,herida arma fuego cuello,Herida por arma de fuego,30.0
+Gastroent,gastroenteritis,Enfermedades del sistema digestivo,29.0
+Mening,meningo,,28.0
+FCPN,falta cuidado post natales,"Embarazo, parto y puerperio",28.0
+A,,,26.0
+HIPCC,herida punzo cortante craneo,Herida punzo cortante,25.0
+MI,miembro,,25.0
+Anoxia,anoxia,Causas externas de morbilidad y de mortalidad,24.0
+Cereb,cerebro,,23.0
+Pul,pulmon,,23.0
+PostParto,postparto,"Embarazo, parto y puerperio",22.0
+TPMi,traumatismo pelvis miembro,Trauma,21.0
+Abs,absceso,Enfermedades de la piel y del tejido subcutáneo,21.0
+Intes,intestino,,21.0
+Necro,necrosis,Enfermedades de la piel y del tejido subcutáneo,20.0
+L,,,20.0
+PTE,,,19.0
+Hepat,higado,,18.0
+T,,,18.0
+TCTP,traumatismo craneo torax pelvis,Trauma,18.0
+Utero,utero,,18.0
+Inf,infarto o infeccion,Ciertas enfermedades infecciosas y parasitarias,17.0
+Alcohol,alcohol,Causas externas de morbilidad y de mortalidad,17.0
+HPAFCT,herida arma fuego craneo torax,Herida por arma de fuego,17.0
+HIPCCu,herida punzo cortante cuello,Herida punzo cortante,17.0
+Placenta,placenta,,16.0
+HPAFTV,herida arma fuego torax vientre,Herida por arma de fuego,15.0
+TCRM,traumatismo craneo raqui medular,Trauma,15.0
+IntoxMed,intoxicacion por medicamentos,Causas externas de morbilidad y de mortalidad,15.0
+Gastr,gastro,,15.0
+Ret,retencion,"Embarazo, parto y puerperio",15.0
+Trombo,trombosis,Enfermedades del sistema circulatorio,15.0
+IP,,,14.0
+Perf,perforacion,Causas externas de morbilidad y de mortalidad,14.0
+noT,no traumatica,,14.0
+Ulcera,ulcera,Enfermedades del sistema digestivo,14.0
+M,,,14.0
+H,,,14.0
+Rup,ruptura,Causas externas de morbilidad y de mortalidad,14.0
+CO2,CO2,Causas externas de morbilidad y de mortalidad,14.0
+Tum,tumor,Tumores (neoplasias),13.0
+HPAFV,herida arma fuego vientre,Herida por arma de fuego,13.0
+Insuf,insuficiencia,,13.0
+Infec,infeccion,Ciertas enfermedades infecciosas y parasitarias,13.0
+_,,,13.0
+TRM,traumatismo raqui medular torax,Trauma,12.0
+Vascu,vascular,,12.0
+HPAFRaquis,herida arma fuego raquis,Herida por arma de fuego,12.0
+Cisticercosis,cisticercosis,Ciertas enfermedades infecciosas y parasitarias,12.0
+I,,,12.0
+EH,,,11.0
+TCEMi,traumatismo craneo encefalico miembro,Trauma,11.0
+Diabetes,diabetes,"Enfermedades endocrinas, nutricionales y metabólicas",11.0
+AAxHE,anemia por hemorragia,Causas externas de morbilidad y de mortalidad,11.0
+HPAFCTA,herida arma fuego abdomen craneo torax,Herida por arma de fuego,10.0
+PartoDis,parto distosico,"Embarazo, parto y puerperio",10.0
+IA,,,10.0
+Raticida,raticida,Causas externas de morbilidad y de mortalidad,10.0
+AQXTMi,amputacion quirurgica por traumatismo miembro,Amputación,10.0
+Broncoaspiracion,broncoaspiracion,Causas externas de morbilidad y de mortalidad,10.0
+MP,,,10.0
+HIPCV,herida punzo cortante vientre,Herida punzo cortante,10.0
+Encef,encefalo,,9.0
+ENTCO,enterocolitis,Enfermedades del sistema digestivo,9.0
+CSG,,,9.0
+TCu,traumatismo cuello,Trauma,9.0
+Oclusion,oclusion,Enfermedades del sistema circulatorio,9.0
+BA,,,9.0
+TCerM,traumatismo cervico medular,Trauma,9.0
+Hepatitis,hepatitis,Enfermedades del sistema digestivo,8.0
+TCTAP,traumatismo craneo torax abdomen pelvis,Trauma,8.0
+InfCer,infarto cerebral,Enfermedades del sistema nervioso,8.0
+Aneurisma,aneurisma,Enfermedades del sistema circulatorio,8.0
+Anencefalia,anencefalia,"Malformaciones  congénitas, deformidades y anomalías cromosómicas",8.0
+SHHV,shock hipovolemico,,7.0
+Gastritis,gastritis,Enfermedades del sistema digestivo,7.0
+Hidrocefalia,hidrocefalia,Enfermedades del sistema nervioso,7.0
+Raquis,,,7.0
+TQT,,,7.0
+Osteomielitis,osteomielitis,Enfermedades del sistema osteomuscular y del tejido conjuntivo,7.0
+HIE,,,7.0
+CUY,,,7.0
+HCNT,hemorragia cerebral no traumatica,Enfermedades del sistema nervioso,6.0
+ECEP,,,6.0
+CG,,,6.0
+Hernia,hernia,Enfermedades del sistema digestivo,6.0
+Renal,renal,,6.0
+TCETA,traumatismo craneo encefalico torax abdomen,Trauma,6.0
+TR,,,6.0
+PNNT,pleuro pneumonia no traumatica,Enfermedades del sistema respiratorio,6.0
+Lesiones,,,5.0
+TMed,traumatismo medular,Trauma,5.0
+_H,,,5.0
+CE,,,5.0
+_I,,,5.0
+TMP,,,5.0
+Fetal,fetal,"Embarazo, parto y puerperio",5.0
+TF,,,5.0
+CT,,,5.0
+_F,,,5.0
+BM,,,5.0
+PB,,,5.0
+TCerT,traumatismo cervico torax,Trauma,5.0
+_E,,,5.0
+_Cer,cervico,,5.0
+V,,,5.0
+Coma,,,5.0
+quem,,,4.0
+CPT,,,4.0
+ABA,,,4.0
+Tetanos,tetanos,Trauma,4.0
+TRaq,traumatismo raqui,Trauma,4.0
+_CPC,,,4.0
+PSM,,,4.0
+Xoco,,,4.0
+Raqui,raqui,,4.0
+Endo,endometrio,,4.0
+Vag,vagina,,4.0
+Encefalitis,,,4.0
+_AP,abdomen pelvis,,4.0
+isquemia,,,4.0
+Pielonefritis,,,4.0
+UE,,,4.0
+PANH,,,4.0
+CUG,,,4.0
+Osteo,osteo,,4.0
+Embarazo,embarazo,"Embarazo, parto y puerperio",4.0
+OVASPA,,,4.0
+HIPCCAP,,,4.0
+Leg,legrado,"Embarazo, parto y puerperio",4.0
+IM,,,4.0
+Isquemia,,,4.0
+ME,,,4.0
+HIPCMi,herida punzo cortante miembros,Herida punzo cortante,4.0
+CC,,,4.0
+TCCerMT,traumatismo craneo cervico medular torax,Trauma,4.0
+TCCerA,,,4.0
+TCFT,,,4.0
+Restos,,,4.0
+GH,,,4.0
+Br,,,4.0
+_PT,,,4.0
+Rep,,,4.0
+TN,,,4.0
+IVG,,,4.0
+Apendicitis,apendicitis,Enfermedades del sistema digestivo,4.0
+Rectal,rectal,,4.0
+_MA,,,4.0
+_Is,,,4.0
+TCFCM,,,4.0
+TCFCer,,,4.0
+TCCE,,,4.0
+Inmadurez,,,4.0
+EM,,,3.0
+PI,,,3.0
+HPPAF+_+_+_+_,,,3.0
+PNT,,,3.0
+Ulceras,,,3.0
+PPAF,,,3.0
+PS,,,3.0
+Hemoptisis,,,3.0
+TCerMT,traumatismo cervico medular torax,Trauma,3.0
+IAA,,,3.0
+TCETP,,,3.0
+Pericarditis,,,3.0
+Hipoxia,,,3.0
+D,,,3.0
+TCR,traumatismo craneo raqui,Trauma,3.0
+TEE,,,3.0
+Falta,,,3.0
+Fdesarrollo,falta desarrollo,"Embarazo, parto y puerperio",3.0
+Ms,,,3.0
+Femoral,femoral,,3.0
+TOE,,,3.0
+Neumonia,,,3.0
+Q,,,3.0
+OVAS,,,3.0
+Es,,,3.0
+Maniobras,,,3.0
+Encefalomalacia,encefalomalacia,Enfermedades del sistema nervioso,3.0
+PA,,,3.0
+MED,,,3.0
+Embolia,,,3.0
+SM,,,3.0
+Sec,,,3.0
+Int,,,3.0
+Ins,,,3.0
+Infarto Cerebral,,,3.0
+Inanicion,,,3.0
+IV,,,3.0
+IPM,,,3.0
+PernoT,,,3.0
+MT,,,3.0
+Cianuro,cianuro,Causas externas de morbilidad y de mortalidad,3.0
+CO,,,3.0
+Abortivas,,,3.0
+_Corv,,,3.0
+ASE,,,3.0
+Arteria,,,3.0
+ATMI,,,3.0
+_PCuello,,,3.0
+_o,,,3.0
+BNB,,,3.0
+Aguda,,,3.0
+Avionetazo,avionetazo,Causas externas de morbilidad y de mortalidad,3.0
+_P,pelvis,,3.0
+_PTA,,,3.0
+_Pelvis,,,3.0
+BNxTMI,,,3.0
+CRG,,,3.0
+AQx Infeccion,,,3.0
+ANA,,,3.0
+CER,,,3.0
+Peptica,,,3.0
+_PA,pelvis abdomen,,3.0
+CHVE,,,3.0
+Re,,,2.0
+RT,,,2.0
+HSB,,,2.0
+infec,,,2.0
+_MC,,,2.0
+Hematoma,,,2.0
+FPT,,,2.0
+FD,,,2.0
+BNTB,,,2.0
+FC,,,2.0
+FP,,,2.0
+_Facial,,,2.0
+_SA,,,2.0
+TCerMA,,,2.0
+CR,,,2.0
+CPTP,,,2.0
+Enf,,,2.0
+Intestinal,,,2.0
+Ente,,,2.0
+Entero,,,2.0
+BNEC,,,2.0
+_R,,,2.0
+Quim,,,2.0
+Stress,,,2.0
+CPA,,,2.0
+Estrangulacion,,,2.0
+COC,,,2.0
+ANxVE,,,2.0
+TRaquiMed,,,2.0
+Shock,,,2.0
+REB,,,2.0
+CPTA,,,2.0
+AP,,,2.0
+HH,,,2.0
+TMPI,,,2.0
+_MsIs,,,2.0
+Broncoasp,,,2.0
+MO,,,2.0
+Lesion,,,2.0
+HIPCCT,herida punzo cortante craneo torax,Herida punzo cortante,2.0
+MEP,,,2.0
+_PCer,,,2.0
+Med,,,2.0
+AQxTrat,amputacion quirurgica por tratamiento,Amputación,2.0
+_PC,,,2.0
+electroc,,,2.0
+ASA,,,2.0
+SHS,,,2.0
+HIPOP,,,2.0
+HIPP,,,2.0
+elec,,,2.0
+SHT,,,2.0
+TMIBN,,,2.0
+ectopico,,,2.0
+CHAN,,,2.0
+Resp,,,2.0
+gang,,,2.0
+NoT,,,2.0
+GE,,,2.0
+AOMI,,,2.0
+SS,,,2.0
+_MS,,,2.0
+LOC Inf,,,2.0
+Rinon,,,2.0
+LVC,,,2.0
+_MsInEs,,,2.0
+AOVR,,,2.0
+Gral,,,2.0
+C Quemaduras,,,2.0
+HA,,,2.0
+HPAFMi,herida arma fuego miembros,Herida por arma de fuego,2.0
+HCAM,,,2.0
+Machac,,,2.0
+HCTyCH,,,2.0
+HEM,,,2.0
+Malf,,,2.0
+Violacion,,,2.0
+TAMi,,,2.0
+Viceras,,,2.0
+Discracia,,,2.0
+IC,,,2.0
+Vicera,,,2.0
+_CPOA,,,2.0
+IAC,,,2.0
+AB,,,2.0
+EA,,,2.0
+_CerM,cervico medular,,2.0
+TAM,traumatismo abdomen miembro,Trauma,2.0
+EC EP,,,2.0
+Acido muriatico,,,2.0
+Pionefrosis,,,2.0
+Atelectacia,,,2.0
+Accidente,,,2.0
+_V,vientre,,2.0
+PC,,,2.0
+QVY,,,2.0
+Placenta previa,,,2.0
+AC,,,2.0
+EAP,,,2.0
+TBC,,,2.0
+Coagulos,,,2.0
+Penicilina,,,2.0
+Pelviperitonitis,,,2.0
+_B,,,2.0
+Pe,,,2.0
+TCAT,,,2.0
+oseometria,,,2.0
+Parto,parto,"Embarazo, parto y puerperio",2.0
+Paro,,,2.0
+TCB,,,2.0
+Deshidratacion,,,2.0
+Perforacion,,,2.0
+IPA,,,2.0
+TAT,,,2.0
+Ilegible,,,2.0
+_noT,,,2.0
+Arterioesclerosis,,,2.0
+Incompleto,,,2.0
+Deposito,,,2.0
+_i,,,2.0
+AnA,,,2.0
+Desgarro,,,2.0
+Apendice,,,2.0
+_Ss,,,2.0
+Homopericardio,,,2.0
+CVF,,,2.0
+UT,,,2.0
+Sustancia,,,2.0
+CVE,,,2.0
+Post,,,2.0
+Inhalacion gases,,,2.0
+B N,,,2.0
+TCMi,traumatismo craneo miembro,Trauma,2.0
+EV,,,2.0
+cerebral,,,2.0
+EPA,,,2.0
+Hiper,,,2.0
+_Cor,,,2.0
+Edema,,,2.0
+AIU,,,2.0
+AL,,,2.0
+Tratamiento,,,2.0
+Puncion,,,2.0
+PostT,,,2.0
+_Cerv,,,2.0
+BBT,,,2.0
+Posta,,,2.0
+broncoaspiracion,,,2.0
+cornada toro,,,1.0
+Substancia,,,1.0
+ahuem,,,1.0
+SMV,,,1.0
+TAS,,,1.0
+TASH,,,1.0
+cardiorespiratorio,,,1.0
+Substancias Medicamentosas,,,1.0
+aguda,,,1.0
+Sufrimiento,,,1.0
+SHxAQMI,,,1.0
+Surimiento,,,1.0
+abseso,,,1.0
+comp,,,1.0
+con viota de Exp,,,1.0
+Sup,,,1.0
+alcohol,,,1.0
+cuidado,,,1.0
+c/sec,,,1.0
+cronica,,,1.0
+desa,,,1.0
+Se ignora,,,1.0
+Se,,,1.0
+Sarcoma,,,1.0
+Sang Tubo digestivo SH HIPOVOL,,,1.0
+TAA,,,1.0
+Seco,,,1.0
+carbonizacion,,,1.0
+cardioangioesclerosis,,,1.0
+corosiva,,,1.0
+STD,,,1.0
+Septica,,,1.0
+TAE,,,1.0
+e sec F,,,1.0
+Sigmoides,,,1.0
+SP,,,1.0
+atencion,,,1.0
+Suspension,,,1.0
+Sosa,,,1.0
+ano Imperforado,,,1.0
+cardiopatia,,,1.0
+SN,,,1.0
+Subderd,,,1.0
+T.Cor.Med,,,1.0
+Piloro,,,1.0
+Pin,,,1.0
+Pioartrosis,,,1.0
+Piq,,,1.0
+Pla,,,1.0
+PlaPrevia,placenta previa,"Embarazo, parto y puerperio",1.0
+AAxVE,,,1.0
+AAxCH,,,1.0
+AAxAE,,,1.0
+AAo,,,1.0
+AAPHIE,,,1.0
+Pol,,,1.0
+_umbilical,,,1.0
+Poncoes,,,1.0
+AAPE,,,1.0
+Por,,,1.0
+PostAborto,,,1.0
+PostLegra,,,1.0
+PostN,,,1.0
+AAHIBR,,,1.0
+AAH,,,1.0
+Prem,,,1.0
+Premenstrual,,,1.0
+Probr,,,1.0
+ProlonFritis,,,1.0
+AAPHE,,,1.0
+PerA,,,1.0
+PerAI,,,1.0
+Perb,,,1.0
+obs,,,1.0
+Perforaci,,,1.0
+nova,,,1.0
+Pericardio,,,1.0
+nal,,,1.0
+mide,,,1.0
+Perif,,,1.0
+micosis,,,1.0
+metilo,,,1.0
+4G,,,1.0
+Periferica,,,1.0
+me,,,1.0
+lesion,,,1.0
+Perit,,,1.0
+la,,,1.0
+intox,,,1.0
+peptica,,,1.0
+Pertusion,,,1.0
+Pest,,,1.0
+Piel,,,1.0
+Pielona,,,1.0
+Pielonef,,,1.0
+mesenterico,,,1.0
+hemPer,,,1.0
+had,,,1.0
+Reb,,,1.0
+Reb cerebral,,,1.0
+RebCer,,,1.0
+Reblandeciones,,,1.0
+glandula mamaria,,,1.0
+Redac,,,1.0
+gas,,,1.0
+Rest,,,1.0
+gangrena gaseosa,,,1.0
+frac,,,1.0
+Pseudoartrosis,,,1.0
+fetal,,,1.0
+Roir,,,1.0
+RupParedVent,,,1.0
+estomago,,,1.0
+SALICILI,,,1.0
+SB,,,1.0
+SEPSIS,,,1.0
+esofagica,,,1.0
+SF,,,1.0
+er,,,1.0
+ept,,,1.0
+SHOCK,,,1.0
+Rev,,,1.0
+Puerperio,,,1.0
+Putref,,,1.0
+A xA,,,1.0
+QH,,,1.0
+9,,,1.0
+QOVQ,,,1.0
+QQ,,,1.0
+ingeri,,,1.0
+Quema,,,1.0
+Quemado,,,1.0
+Quemadruas,,,1.0
+infeccion,,,1.0
+inanicion,,,1.0
+Quen,,,1.0
+QxT,,,1.0
+R,,,1.0
+RAA,,,1.0
+RB,,,1.0
+RC,,,1.0
+RCE,,,1.0
+REAQ,,,1.0
+RF,,,1.0
+RH,,,1.0
+RM,,,1.0
+ROVR,,,1.0
+inf,,,1.0
+Quemduras,,,1.0
+Tmi,,,1.0
+TnT,,,1.0
+_HI,,,1.0
+To,,,1.0
+Tom,,,1.0
+_FxIcorto,,,1.0
+Toracica,,,1.0
+Torax,,,1.0
+_FHG,,,1.0
+Toxica,,,1.0
+Trat,,,1.0
+_FC,,,1.0
+_SPCGaeo,,,1.0
+Tromb,,,1.0
+_Exhumacion,,,1.0
+_Est,,,1.0
+Tromboembolismo,,,1.0
+TsTM5Hs,,,1.0
+Tubo digestiv,,,1.0
+_EA,,,1.0
+Tvag,,,1.0
+Ty A,,,1.0
+U,,,1.0
+ULCERAS,,,1.0
+UMI,,,1.0
+UTo,,,1.0
+Trom,,,1.0
+TPS,,,1.0
+TQ,,,1.0
+TQE,,,1.0
+TQIPT,,,1.0
+_Ing,,,1.0
+TQxHpp,,,1.0
+_Infs,,,1.0
+TRA,,,1.0
+TRI,,,1.0
+_In/s,,,1.0
+TROM CORONARIA,,,1.0
+_IA,,,1.0
+Tipo,,,1.0
+TRS,,,1.0
+TRaF,,,1.0
+TS,,,1.0
+_Hudca,,,1.0
+TTMi,traumatismo torax miembro,Trauma,1.0
+_Heo,,,1.0
+TVP,,,1.0
+TVag,traumatismo vaginal,Trauma,1.0
+_HeD,,,1.0
+TVer,,,1.0
+Tcer,,,1.0
+Tcu,,,1.0
+Thiner,,,1.0
+TROMBOSIS,,,1.0
+XAH,,,1.0
+XAO,,,1.0
+XBA,,,1.0
+XE,,,1.0
+XEST,,,1.0
+XVACG,,,1.0
+Xe,,,1.0
+_CB,,,1.0
+Y,,,1.0
+YS,,,1.0
+_CA,craneo abdomen,,1.0
+Yugular,,,1.0
+_Dorsal,,,1.0
+_AE,,,1.0
+_AEP,,,1.0
+_AF,,,1.0
+_AFPC,,,1.0
+_AI,,,1.0
+_AMI,,,1.0
+_AMP,,,1.0
+_Bockdebe,,,1.0
+_AMPD,,,1.0
+_AMs,,,1.0
+_APM,,,1.0
+_AYP,,,1.0
+_AsH,,,1.0
+_C,craneo,,1.0
+Ulcera Per,,,1.0
+_Cu,,,1.0
+Uleras=A,,,1.0
+_CrM,,,1.0
+_CorT,,,1.0
+_CervRev,,,1.0
+VA,,,1.0
+VCG,,,1.0
+VCQ,,,1.0
+VESHHr,,,1.0
+VG,,,1.0
+VP,,,1.0
+_Cara Cuello,,,1.0
+W,,,1.0
+_CYPAF,,,1.0
+Vasos,,,1.0
+_CPT,,,1.0
+Vasos Brazos,,,1.0
+Vena,,,1.0
+_CPR,,,1.0
+Ventriculo,,,1.0
+Vesic,vesicula,,1.0
+Vibora,,,1.0
+_CP,craneo pelvis,,1.0
+_CER,,,1.0
+Visceras,,,1.0
+Vulvo,,,1.0
+Vasc,,,1.0
+_TA,torax abdomen,,1.0
+_SseIs,,,1.0
+_SPPA,,,1.0
+TCTMed,,,1.0
+_SI,,,1.0
+TCV,,,1.0
+TCerA,,,1.0
+_SCE,,,1.0
+_S,,,1.0
+_RUP,,,1.0
+TCorv,,,1.0
+TCorvMed,,,1.0
+TPP,,,1.0
+TCuA,,,1.0
+_Quir,,,1.0
+TCyR,,,1.0
+_PsV,,,1.0
+TETANOS,,,1.0
+_PerfVis,,,1.0
+TFE,,,1.0
+TGA,,,1.0
+TGERM,,,1.0
+TH,,,1.0
+THAFPT,,,1.0
+THP,,,1.0
+THPAFPC,,,1.0
+_RNTA,,,1.0
+TCABN,,,1.0
+_ucoCerv,,,1.0
+_sTA,,,1.0
+TCCTEP,,,1.0
+_sPs,,,1.0
+_onT,,,1.0
+TCCerMA,,,1.0
+TCCerMi,,,1.0
+_in,,,1.0
+_ileon,,,1.0
+TCER,,,1.0
+_corMed,,,1.0
+_color,,,1.0
+_Ts,,,1.0
+TCETMi,,,1.0
+_arcasis,,,1.0
+_Vis,,,1.0
+_Vertebral,,,1.0
+_VPCB,,,1.0
+TCFCT,,,1.0
+_TyA,,,1.0
+TCFMB,,,1.0
+TCFTA,,,1.0
+TCFyCM,,,1.0
+TCM o HPAFPCU,,,1.0
+TCMT,traumatismo craneo medular torax,Trauma,1.0
+TCO,,,1.0
+TCETCF,,,1.0
+TMPD,,,1.0
+TMSH,,,1.0
+TMT,,,1.0
+TMTPN,,,1.0
+TMZ,,,1.0
+_MsIns,,,1.0
+_MsInfs,,,1.0
+TMax I,,,1.0
+_Mod,,,1.0
+_Mes,,,1.0
+_Med,medular,,1.0
+_Md,,,1.0
+_Per,,,1.0
+TMinf,,,1.0
+_MH,,,1.0
+TMsINS,,,1.0
+TMsIP,,,1.0
+TMsInfs,,,1.0
+_ME,,,1.0
+TO,,,1.0
+TOTA,,,1.0
+_MD,,,1.0
+TPECPT,,,1.0
+_ItS,,,1.0
+_IntraCer,,,1.0
+_Ins,,,1.0
+_MP,,,1.0
+TI,,,1.0
+TIA,,,1.0
+_PMT,,,1.0
+_PMS,,,1.0
+_PMID,,,1.0
+TIT,,,1.0
+TITMP,,,1.0
+TLT,,,1.0
+_PMI,,,1.0
+_PERF,,,1.0
+TM4,,,1.0
+_PCueT,,,1.0
+_PCPT,,,1.0
+_MsTs,,,1.0
+TMC,,,1.0
+TMID,,,1.0
+TMII,,,1.0
+TMIPI,,,1.0
+_PCA,,,1.0
+TMIder,,,1.0
+_PBA,,,1.0
+_PAP,,,1.0
+TMIxBN,,,1.0
+TMN,,,1.0
+_NOT,,,1.0
+_N,,,1.0
+_Mx,,,1.0
+_PCC,,,1.0
+Chuem,,,1.0
+Choque,,,1.0
+Chem,,,1.0
+Chancro Blanco,,,1.0
+Cervico,,,1.0
+Cer,,,1.0
+Cemento,,,1.0
+MPA,,,1.0
+Cejas Stress,,,1.0
+Cat,,,1.0
+Cardiopatia,,,1.0
+Cardiop,,,1.0
+Carbonizacion,,,1.0
+CVTC,,,1.0
+CVS,,,1.0
+CVH,,,1.0
+CelulitisM,,,1.0
+Congenita,,,1.0
+Cong,,,1.0
+Compresivo,,,1.0
+Compresion,,,1.0
+Compre,,,1.0
+Complicacion,,,1.0
+Com,,,1.0
+Circulatoria,,,1.0
+Colitis,,,1.0
+Colecistitis,,,1.0
+Colapso,,,1.0
+Coagulacion,,,1.0
+CoL,,,1.0
+Cisticer,,,1.0
+Cisticecosis,,,1.0
+Cirrosis,,,1.0
+ColumnaVertebral,,,1.0
+CN,,,1.0
+CM,,,1.0
+CKS,,,1.0
+CHV,,,1.0
+CHPC,,,1.0
+CHOE,,,1.0
+CHN,,,1.0
+CVGyLOC,,,1.0
+CHI,,,1.0
+CHBN,,,1.0
+CH CVG,,,1.0
+CGH,,,1.0
+CEB,,,1.0
+CDQ,,,1.0
+CD,,,1.0
+CCG,,,1.0
+CHL,,,1.0
+CVGxCH,,,1.0
+CVGEC,,,1.0
+CVC,,,1.0
+CVB,,,1.0
+CVAS,,,1.0
+CVA,,,1.0
+CTCE,,,1.0
+CNT,,,1.0
+CSJ,,,1.0
+CReuma,,,1.0
+CREP,,,1.0
+CPTAP,,,1.0
+CPP,,,1.0
+CPN,,,1.0
+COST,,,1.0
+COLON,,,1.0
+CSep,,,1.0
+ESB,,,1.0
+EPc,,,1.0
+EPLOC,,,1.0
+EPHI,,,1.0
+EPCVG,,,1.0
+EPCH,,,1.0
+EPB,,,1.0
+Congenitas,,,1.0
+EORenal,,,1.0
+EOM,,,1.0
+EOI,,,1.0
+EOG,,,1.0
+EO,,,1.0
+ENTCOLITIS,,,1.0
+ENTA,,,1.0
+EN ES,,,1.0
+EP Quemaduras,,,1.0
+Enteriits,,,1.0
+EnsP,,,1.0
+Enp,,,1.0
+Enfermedad,,,1.0
+EnTi,,,1.0
+Emt,,,1.0
+EmbTub,,,1.0
+ESG,,,1.0
+Electr,,,1.0
+Elec,,,1.0
+El[a],,,1.0
+Ehoc,,,1.0
+Edema cerebral,,,1.0
+Edampsia,,,1.0
+EURO,,,1.0
+ESP,,,1.0
+Emb,,,1.0
+Dia,,,1.0
+Desro,,,1.0
+Desor,,,1.0
+Desecho,,,1.0
+Derar,,,1.0
+Decapitacion,,,1.0
+Dec,,,1.0
+EI,,,1.0
+DT,,,1.0
+DPSM,,,1.0
+DPA,,,1.0
+DNT,,,1.0
+DMTCM,,,1.0
+DDT,,,1.0
+Craneo,,,1.0
+Conj,,,1.0
+De,,,1.0
+EHP,,,1.0
+EGMat,,,1.0
+EExHI,,,1.0
+EE,,,1.0
+ED,,,1.0
+ECPT,,,1.0
+ECP,,,1.0
+Dial,,,1.0
+ECEPVCES,,,1.0
+ECEPCVG,,,1.0
+ECE,,,1.0
+ECBN,,,1.0
+E Glot,,,1.0
+E Aoison,,,1.0
+Dsipensa,,,1.0
+Drogadicto,,,1.0
+ECIP,,,1.0
+AS-TT,,,1.0
+ARep,,,1.0
+AQxS,,,1.0
+AQxElectrocucion,,,1.0
+APENDICITIS,,,1.0
+AOxHPAF,,,1.0
+AOT,,,1.0
+CB,,,1.0
+AOM,,,1.0
+AOA,,,1.0
+ANxTM,,,1.0
+ANxT,,,1.0
+ANxA,,,1.0
+ANVE,,,1.0
+ANRU,,,1.0
+ANNxTCE,,,1.0
+AOMsIs,,,1.0
+Ag,,,1.0
+Absesos,,,1.0
+Abseso,,,1.0
+AbsP,,,1.0
+AbsHe,,,1.0
+Abdominal,,,1.0
+AXAS,,,1.0
+ASB CVG,,,1.0
+AVC,,,1.0
+AVA,,,1.0
+ATTA,,,1.0
+ATMS,,,1.0
+ASR,,,1.0
+ASP,,,1.0
+ASM,,,1.0
+ASFIXIA,,,1.0
+AVEN,,,1.0
+perCorn,,,1.0
+trau,,,1.0
+trastorno,,,1.0
+shock,,,1.0
+septico,,,1.0
+sd,,,1.0
+sangre,,,1.0
+ANHIPPT,,,1.0
+quemaduras,,,1.0
+piedra,,,1.0
+pericardio,,,1.0
+pericard,,,1.0
+peric,,,1.0
+perf,,,1.0
+xS,,,1.0
+ingesta,,,1.0
+resec,,,1.0
+ANG,,,1.0
+ANE,,,1.0
+AND,,,1.0
+AN VE,,,1.0
+AMN,,,1.0
+AM,,,1.0
+AIPCPT,,,1.0
+ABORTIVAS,,,1.0
+AG,,,1.0
+AEX,,,1.0
+AEP,,,1.0
+ADVA,,,1.0
+ADNA,,,1.0
+ACN,,,1.0
+ACGVAS,,,1.0
+ABSCES,,,1.0
+AHTP,,,1.0
+BRONCOASPIRACION,,,1.0
+BRONCOASPIRA,,,1.0
+BRONCO,,,1.0
+BRON,,,1.0
+BR,,,1.0
+BP,,,1.0
+BNxTTP,,,1.0
+Agenos,,,1.0
+BNxT,bronconeumonia traumatica,Trauma,1.0
+BNxAborto,,,1.0
+BNTMS,,,1.0
+BNTCE,,,1.0
+BNEP,,,1.0
+BNCVGAE,,,1.0
+BNBN,,,1.0
+BNAsHs,,,1.0
+BNxTCE,,,1.0
+CANS,,,1.0
+CACV,,,1.0
+C H,,,1.0
+Bu,,,1.0
+Bronoaspiracion,,,1.0
+Bronconeumonia,,,1.0
+BroncoAspiracion,,,1.0
+BT,,,1.0
+BnTb,,,1.0
+Bla,,,1.0
+Bio,,,1.0
+Bc Asp,,,1.0
+Barbi,,,1.0
+Balbuena,,,1.0
+Ba,,,1.0
+BTM,,,1.0
+Bronc,,,1.0
+Asf,,,1.0
+Ascaris Lumbri,,,1.0
+AsHs,,,1.0
+AsA,,,1.0
+Arteroesclerosis coronaria,,,1.0
+ArtFem,,,1.0
+Art Coronaria,,,1.0
+BNAH,,,1.0
+Ar,,,1.0
+Aqx,,,1.0
+Apendic,,,1.0
+Aortico,,,1.0
+Aorta,,,1.0
+Anoxie,,,1.0
+Anomia,,,1.0
+Anatomicos,,,1.0
+Arsenico,,,1.0
+BN Gang,,,1.0
+BH,,,1.0
+BCQ,,,1.0
+BC,,,1.0
+BBN,,,1.0
+BAPFP,,,1.0
+BAEP,,,1.0
+AsfNN,,,1.0
+BAB,,,1.0
+AxxA,,,1.0
+AxT,,,1.0
+Atrofia,,,1.0
+Atrepsia,,,1.0
+Atelectasia,,,1.0
+Asp,,,1.0
+Asfixia,,,1.0
+BABxTP,,,1.0
+Masiva,,,1.0
+Marihuana Coment,,,1.0
+Man,,,1.0
+Malformacion congenita,,,1.0
+Mal,,,1.0
+Machaca,,,1.0
+Mac,,,1.0
+Entertis,,,1.0
+MS,,,1.0
+4C,,,1.0
+MIB,,,1.0
+MC,,,1.0
+MBHPBF,,,1.0
+MBBNT,,,1.0
+MANIOBRAS,,,1.0
+Listicareosis,,,1.0
+MTP,,,1.0
+NB,,,1.0
+NAHOP,,,1.0
+Muscular,,,1.0
+MstS,,,1.0
+MsIns,,,1.0
+MsI,,,1.0
+Mordeduras roedores,,,1.0
+Materno,,,1.0
+MordCan,,,1.0
+Momificacion,,,1.0
+Mixto,,,1.0
+Misent,,,1.0
+Miocardio,,,1.0
+Minf,,,1.0
+Miembros,,,1.0
+Meningoencef,,,1.0
+Mordeduras Roedor,,,1.0
+IntoxAn,,,1.0
+Intox CVG,,,1.0
+Intox C,,,1.0
+Into,,,1.0
+Intest,,,1.0
+Int Mit,,,1.0
+Insuficiencia,,,1.0
+Leucemia,,,1.0
+Inhalador,,,1.0
+Inhalacion,,,1.0
+Inflamacion,,,1.0
+Infartos,,,1.0
+Infarto miocardio LOC,,,1.0
+Infarto C,,,1.0
+Infart,,,1.0
+InfMiocario,,,1.0
+Inhalantes,,,1.0
+Lesion U,,,1.0
+LdC,,,1.0
+LOQ,,,1.0
+LOO,,,1.0
+LOC CH,,,1.0
+LOA,,,1.0
+LO,,,1.0
+Intoxicion,,,1.0
+LDC,,,1.0
+LC,,,1.0
+Izquemia,,,1.0
+Is,,,1.0
+IrisH,,,1.0
+Intravos,,,1.0
+Intrav,,,1.0
+Intra,,,1.0
+LDE,,,1.0
+PEM,,,1.0
+PELVIS,,,1.0
+PEGM,,,1.0
+PE,,,1.0
+PD,,,1.0
+PCVG,,,1.0
+PCM,,,1.0
+NCH,,,1.0
+PBN,,,1.0
+Osteom,,,1.0
+Ortoria,,,1.0
+Obstr,,,1.0
+Obstetrico,,,1.0
+Obs,,,1.0
+OVAx,,,1.0
+OVASPPA,,,1.0
+PBU,,,1.0
+PcSM,,,1.0
+Paso,,,1.0
+Pare,,,1.0
+Pardis,,,1.0
+Pap,,,1.0
+Pan,,,1.0
+PV,,,1.0
+PERF,,,1.0
+PPA,,,1.0
+PN TCE,,,1.0
+PHNT,,,1.0
+PH,,,1.0
+PG,,,1.0
+PERID,,,1.0
+PERICARDIO,,,1.0
+PERFORACION,,,1.0
+PTA,,,1.0
+Neumo,,,1.0
+Neu,,,1.0
+Neomopatia,,,1.0
+Nariz,,,1.0
+NaT,,,1.0
+NVNT,,,1.0
+NTc,,,1.0
+OVAR,,,1.0
+NTCE,,,1.0
+NTC,,,1.0
+NT,,,1.0
+NP,,,1.0
+NL,,,1.0
+NEOC,,,1.0
+NE,,,1.0
+ND,,,1.0
+NTE,,,1.0
+OVAPPA,,,1.0
+OVAPA,,,1.0
+OVA,,,1.0
+OS,,,1.0
+OQ,,,1.0
+OPA,,,1.0
+OP,,,1.0
+Neumopatia,,,1.0
+OH,,,1.0
+OCE,,,1.0
+OC,,,1.0
+OBASPA,,,1.0
+O,,,1.0
+No,,,1.0
+Neur,,,1.0
+Neumopulmonia,,,1.0
+OL,,,1.0
+HICPT,,,1.0
+HIB,,,1.0
+HI Pc PT,,,1.0
+HEMOPER,,,1.0
+HEMO,,,1.0
+HEMINTCRA,,,1.0
+Glotis,,,1.0
+InfMioc,,,1.0
+Gas domestico,,,1.0
+Gangrena Septicemia,,,1.0
+Gang Mi,,,1.0
+Ga,,,1.0
+GA,,,1.0
+FxS,,,1.0
+Frag Intestinales,,,1.0
+Frac,,,1.0
+Glomerulo,,,1.0
+HPcP,,,1.0
+HPFrag,,,1.0
+HPCPTA,,,1.0
+HPAFPAR,,,1.0
+HPAFP Cara,,,1.0
+HPAFCuT,herida arma fuego cuello torax,Herida por arma de fuego,1.0
+HPAFCora,,,1.0
+HII,,,1.0
+HO,,,1.0
+HN,,,1.0
+HIPs,,,1.0
+HIPST,,,1.0
+HIPEMI,,,1.0
+HIPCTV,herida punzo cortante torax vientre,Herida punzo cortante,1.0
+HIPCMiembro,,,1.0
+HIPCCuT,herida punzo cortante cuello torax,Herida punzo cortante,1.0
+HPAFCTV,herida arma fuego abdomen craneo vientre,Herida por arma de fuego,1.0
+FAO,,,1.0
+FAM,,,1.0
+FA,,,1.0
+F,,,1.0
+Extox,,,1.0
+Explos,,,1.0
+Eup,,,1.0
+Focos Sep,,,1.0
+Estrang,,,1.0
+Estonosis eso,,,1.0
+Esteatosas,,,1.0
+EstMitral,,,1.0
+Esfacela,,,1.0
+Epilepsia,,,1.0
+Eoteritis,,,1.0
+Entoritis,,,1.0
+Estudios,,,1.0
+FlobT,,,1.0
+Flegmon.,,,1.0
+Flegmon,,,1.0
+Fibri,,,1.0
+Feto,,,1.0
+FdeF,,,1.0
+Fam,,,1.0
+FDF,,,1.0
+FTFD,,,1.0
+FRACMIS,,,1.0
+FPTA,,,1.0
+FMI,,,1.0
+FLVO,,,1.0
+FI,,,1.0
+FH,,,1.0
+FF,,,1.0
+FXOVSPa,,,1.0
+INFART,,,1.0
+IMC,,,1.0
+IIA,,,1.0
+IHMP,,,1.0
+IHCH,,,1.0
+ICPN,,,1.0
+ICO2,,,1.0
+HS,,,1.0
+ICE,,,1.0
+IAP,,,1.0
+I sobs,,,1.0
+HxIPC,,,1.0
+HxCentPT,,,1.0
+Huesos,,,1.0
+Hu,,,1.0
+HsPsAFPsTyA,,,1.0
+ICGTM,,,1.0
+InfCerv,,,1.0
+Ind,,,1.0
+InT,,,1.0
+Imod,,,1.0
+Ictericia Hemolitica,,,1.0
+IResp,,,1.0
+IPs,,,1.0
+INFARTO,,,1.0
+IPN,,,1.0
+IPCPC,,,1.0
+IPB,,,1.0
+INTOXTAP,,,1.0
+INTER,,,1.0
+INT,,,1.0
+INSEP,,,1.0
+INS,,,1.0
+IPP,,,1.0
+Hidro,,,1.0
+HiAFi,,,1.0
+Hi,,,1.0
+Hernias,,,1.0
+Hernia Es,,,1.0
+Hepot,,,1.0
+Hepatomegalia,,,1.0
+HsPC,,,1.0
+Hemoperic,,,1.0
+HemoperC,,,1.0
+Hemoper,,,1.0
+Hemep,,,1.0
+Hema,,,1.0
+HVA,,,1.0
+HTC,,,1.0
+HTBTP,,,1.0
+Hemorragia,,,1.0
+HsIAnC,,,1.0
+Hs.PAF,,,1.0
+Hs.P.-,,,1.0
+Hs PAF,,,1.0
+Hs PA F Ps,,,1.0
+Hs IPC,,,1.0
+Hs,,,1.0
+Hom,,,1.0
+Hidroc,,,1.0
+Hipoxin,,,1.0
+Hipoglucemia,,,1.0
+Hipofisiari,,,1.0
+Hipertension,,,1.0
+Hip.Por,,,1.0
+Hip,,,1.0
+Higroma,,,1.0
+Hidrotorax,,,1.0
+Hn,,,1.0
+Cu,cuello,,
+Ed,edema,,
+HIPCCCu,herida punzo cortante craneo cuello,Herida punzo cortante,
+HIPCCer,herida punzo cortante craneo cervico,Herida punzo cortante,
+HPAFCCu,herida arma fuego craneo cuello,Herida por arma de fuego,
+HPAFCRaquis,herida arma fuego craneo raquis,Herida por arma de fuego,
+HPAFCaCu,herida arma fuego cara cuello,Herida por arma de fuego,
+HPAFTRaquis,herida arma fuego torax raquis,Herida por arma de fuego,
+PosTa,posttrauma,Causas externas de morbilidad y de mortalidad,
+TACu,traumatismo abdomen cuello,Trauma,
+_A,abdomen,,
+_AMi,abdomen miembros,,
+_CAP,craneo abdomen pelvis,,
+_CCer,craneo cervico,,
+_CCerM,craneo cervico medular,,
+_CCerT,craneo cervico torax,,
+_CCu,craneo cuello,,
+_CE,craneo encefalico,,
+_CEA,craneo encefalico abdomen,,
+_CEMi,craneo encefalico miembro,,
+_CET,craneo encefalico torax,,
+_CETA,craneo encefalico torax abdomen,,
+_CF,craneo facial,,
+_CMi,craneo miembro,,
+_CRaq,craneo raqui,,
+_CRaqM,craneo raqui medular,,
+_CT,craneo torax,,
+_CTA,craneo torax abdomen,,
+_CTAP,craneo torax abdomen pelvis,,
+_CTP,craneo torax pelvis,,
+_CTV,craneo torax vientre,,
+_CaCu,cara cuello,,
+_CerT,cervico torax,,
+_CuA,cuello abdomen,,
+_CuT,cuello torax,,
+_MiI,miembro inferior,,
+_MiS,miembro superior,,
+_Mio,miocardio,,
+_PMi,pelvis miembro,,
+_RaqM,raqui medular,,
+_T,torax,,
+_TAP,torax abdomen pelvis,,
+_TMi,torax miembro,,
+_TP,torax pelvis,,
+_TRaq,torax raqui,,
+_TV,torax vientre,,
