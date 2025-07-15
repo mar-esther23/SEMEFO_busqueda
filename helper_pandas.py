@@ -413,7 +413,7 @@ def string_summary(
     for k,g in series_string.groupby(series_group, dropna=dropna):
         freq = g.value_counts(dropna=dropna).head(top_n)
         other = pd.Series([g.shape[0]-freq.sum()], index=[other_str])
-        freq = freq.append(other)
+        freq = pd.concat([freq,other])
         perc = (freq/total)*100
         res = pd.concat([freq,perc],axis=1).reset_index()
         res.columns = ['Text','Frequency','Percentage']
