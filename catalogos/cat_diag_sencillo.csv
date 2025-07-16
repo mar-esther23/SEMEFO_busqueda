@@ -1,245 +1,199 @@
-Siglas,Extendido,Clasificacion
-AQ,amputacion quirurgica,Amputación
-AQXT,amputacion quirurgica por traumatismo,Amputación
-AT,amputacion traumatica,Amputación
-AQXTMi,amputacion quirurgica por traumatismo miembro,Amputación
-AQxTrat,amputacion quirurgica por tratamiento,Amputación
-Electroc,electrocucion,Causas externas de morbilidad y de mortalidad
-ASF,asfixia,Causas externas de morbilidad y de mortalidad
-AXA,asfixia por ahorcamiento,Causas externas de morbilidad y de mortalidad
-Quem,quemaduras,Causas externas de morbilidad y de mortalidad
-Avionetazo,avionetazo,Causas externas de morbilidad y de mortalidad
-Cianuro,cianuro,Causas externas de morbilidad y de mortalidad
-CO2,CO2,Causas externas de morbilidad y de mortalidad
-HC,hemorragia cerebral o herida cortante,Causas externas de morbilidad y de mortalidad
-PosTa,posttrauma,Causas externas de morbilidad y de mortalidad
-Raticida,raticida,Causas externas de morbilidad y de mortalidad
-Rup,ruptura,Causas externas de morbilidad y de mortalidad
-Alcohol,alcohol,Causas externas de morbilidad y de mortalidad
-Intox,intoxicacion,Causas externas de morbilidad y de mortalidad
-IntoxMed,intoxicacion por medicamentos,Causas externas de morbilidad y de mortalidad
-AE,asfixia por estrangulacion,Causas externas de morbilidad y de mortalidad
-Anoxia,anoxia,Causas externas de morbilidad y de mortalidad
-AOVA,asfixia por obstruccion de vias aereas,Causas externas de morbilidad y de mortalidad
-ASB,asfixia por sumersion,Causas externas de morbilidad y de mortalidad
-Broncoaspiracion,broncoaspiracion,Causas externas de morbilidad y de mortalidad
-AAxHE,anemia por hemorragia,Causas externas de morbilidad y de mortalidad
-Perf,perforacion,Causas externas de morbilidad y de mortalidad
-Cisticercosis,cisticercosis,Ciertas enfermedades infecciosas y parasitarias
-Septi,septicemia,Ciertas enfermedades infecciosas y parasitarias
-TB,tuberculosis,Ciertas enfermedades infecciosas y parasitarias
-Inf,infarto o infeccion,Ciertas enfermedades infecciosas y parasitarias
-Infec,infeccion,Ciertas enfermedades infecciosas y parasitarias
-Aborto,aborto,"Embarazo, parto y puerperio"
-ANEN,asfixia neo natorum,"Embarazo, parto y puerperio"
-EXPSM,expulsion prematura del seno materno,"Embarazo, parto y puerperio"
-FCPN,falta cuidado post natales,"Embarazo, parto y puerperio"
-Fdesarrollo,falta desarrollo,"Embarazo, parto y puerperio"
-PlaPrevia,placenta previa,"Embarazo, parto y puerperio"
-Embarazo,embarazo,"Embarazo, parto y puerperio"
-Fetal,fetal,"Embarazo, parto y puerperio"
-Leg,legrado,"Embarazo, parto y puerperio"
-Parto,parto,"Embarazo, parto y puerperio"
-PostParto,postparto,"Embarazo, parto y puerperio"
-Ret,retencion,"Embarazo, parto y puerperio"
-PartoDis,parto distosico,"Embarazo, parto y puerperio"
-Gang,gangrena,Enfermedades de la piel y del tejido subcutáneo
-Abs,absceso,Enfermedades de la piel y del tejido subcutáneo
-Necro,necrosis,Enfermedades de la piel y del tejido subcutáneo
-AN,anemia,
-LOC,enfermedad organica del corazon,Enfermedades del sistema circulatorio
-Trombo,trombosis,Enfermedades del sistema circulatorio
-Aneurisma,aneurisma,Enfermedades del sistema circulatorio
-InfMio,infarto miocardio,Enfermedades del sistema circulatorio
-Oclusion,oclusion,Enfermedades del sistema circulatorio
-Apendicitis,apendicitis,Enfermedades del sistema digestivo
-ENT,enteritis,Enfermedades del sistema digestivo
-Gastritis,gastritis,Enfermedades del sistema digestivo
-Gastroent,gastroenteritis,Enfermedades del sistema digestivo
-Pancrea,pancreatitis,Enfermedades del sistema digestivo
-PER,peritonitis o perforacion,Enfermedades del sistema digestivo
-VE,varices esofagicas,Enfermedades del sistema digestivo
-ENTCO,enterocolitis,Enfermedades del sistema digestivo
-Hepatitis,hepatitis,Enfermedades del sistema digestivo
-Hernia,hernia,Enfermedades del sistema digestivo
-CH,cirrosis hepatica,Enfermedades del sistema digestivo
-Ulcera,ulcera,Enfermedades del sistema digestivo
-InfCer,infarto cerebral,Enfermedades del sistema nervioso
-EC,edema cerebral,Enfermedades del sistema nervioso
-Hidrocefalia,hidrocefalia,Enfermedades del sistema nervioso
-Meningitis,meningitis,Enfermedades del sistema nervioso
-Encefalomalacia,encefalomalacia,Enfermedades del sistema nervioso
-HCNT,hemorragia cerebral no traumatica,Enfermedades del sistema nervioso
-Osteomielitis,osteomielitis,Enfermedades del sistema osteomuscular y del tejido conjuntivo
-EP,edema pulmonar,Enfermedades del sistema respiratorio
-BBNT,bronconeumonia no traumatica,Enfermedades del sistema respiratorio
-BN,bronconeumonia,Enfermedades del sistema respiratorio
-N,neumonia,Enfermedades del sistema respiratorio
-PN,pleuro pneumonia,Enfermedades del sistema respiratorio
-PNNT,pleuro pneumonia no traumatica,Enfermedades del sistema respiratorio
-InfPul,infarto pulmon,Enfermedades del sistema respiratorio
-Diabetes,diabetes,"Enfermedades endocrinas, nutricionales y metabólicas"
-Desnut,desnutricion,"Enfermedades endocrinas, nutricionales y metabólicas"
-HPAF,herida arma fuego,Herida por arma de fuego
-HPAFA,herida arma fuego abdomen,Herida por arma de fuego
-HPAFC,herida arma fuego craneo,Herida por arma de fuego
-HPAFCaCu,herida arma fuego cara cuello,Herida por arma de fuego
-HPAFCCu,herida arma fuego craneo cuello,Herida por arma de fuego
-HPAFCRaquis,herida arma fuego craneo raquis,Herida por arma de fuego
-HPAFCT,herida arma fuego craneo torax,Herida por arma de fuego
-HPAFCTA,herida arma fuego abdomen craneo torax,Herida por arma de fuego
-HPAFCTV,herida arma fuego abdomen craneo vientre,Herida por arma de fuego
-HPAFCu,herida arma fuego cuello,Herida por arma de fuego
-HPAFCuT,herida arma fuego cuello torax,Herida por arma de fuego
-HPAFMi,herida arma fuego miembros,Herida por arma de fuego
-HPAFPT,herida arma fuego pelvis torax,Herida por arma de fuego
-HPAFRaquis,herida arma fuego raquis,Herida por arma de fuego
-HPAFT,herida arma fuego torax,Herida por arma de fuego
-HPAFTA,herida arma fuego torax abdomen,Herida por arma de fuego
-HPAFTRaquis,herida arma fuego torax raquis,Herida por arma de fuego
-HPAFTV,herida arma fuego torax vientre,Herida por arma de fuego
-HPAFV,herida arma fuego vientre,Herida por arma de fuego
-HIPC,herida punzo cortante,Herida punzo cortante
-HIPCA,herida punzo cortante abdomen,Herida punzo cortante
-HIPCC,herida punzo cortante craneo,Herida punzo cortante
-HIPCCCu,herida punzo cortante craneo cuello,Herida punzo cortante
-HIPCCer,herida punzo cortante craneo cervico,Herida punzo cortante
-HIPCCT,herida punzo cortante craneo torax,Herida punzo cortante
-HIPCCu,herida punzo cortante cuello,Herida punzo cortante
-HIPCCuT,herida punzo cortante cuello torax,Herida punzo cortante
-HIPCMi,herida punzo cortante miembros,Herida punzo cortante
-HIPCPA,herida punzo cortante abdomen pelvis,Herida punzo cortante
-HIPCT,herida punzo cortante torax,Herida punzo cortante
-HIPCTA,herida punzo cortante torax abdomen,Herida punzo cortante
-HIPCTV,herida punzo cortante torax vientre,Herida punzo cortante
-HIPCV,herida punzo cortante vientre,Herida punzo cortante
-Anencefalia,anencefalia,"Malformaciones  congénitas, deformidades y anomalías cromosómicas"
-Ed,edema,
-Hemo,hemorragia,
-Insuf,insuficiencia,
-SH,shock,
-CVG,congestion visceral generalizada,
-SHHV,shock hipovolemico,
-CL,conjunto lesiones,Trauma
-TA,traumatismo abdomen,Trauma
-TAC,traumatismo abdomen craneo,Trauma
-TACP,traumatismo abdomen craneo pelvis,Trauma
-TACu,traumatismo abdomen cuello,Trauma
-TAM,traumatismo abdomen miembro,Trauma
-TAP,traumatismo abdomen pelvis,Trauma
-TCCer,traumatismo craneo cervico,Trauma
-TCCerM,traumatismo craneo cervico medular,Trauma
-TCCerMT,traumatismo craneo cervico medular torax,Trauma
-TCCerT,traumatismo craneo cervico torax,Trauma
-TCE,traumatismo craneo encefalico,Trauma
-TCEA,traumatismo craneo encefalico abdomen,Trauma
-TCEMi,traumatismo craneo encefalico miembro,Trauma
-TCer,traumatismo cervico,Trauma
-TCerM,traumatismo cervico medular,Trauma
-TCerMT,traumatismo cervico medular torax,Trauma
-TCerT,traumatismo cervico torax,Trauma
-TCET,traumatismo craneo encefalico torax,Trauma
-TCETA,traumatismo craneo encefalico torax abdomen,Trauma
-TCF,traumatismo craneo facial,Trauma
-TCMi,traumatismo craneo miembro,Trauma
-TCMT,traumatismo craneo medular torax,Trauma
-TCP,traumatismo craneo pelvis,Trauma
-TCR,traumatismo craneo raqui,Trauma
-TCRM,traumatismo craneo raqui medular,Trauma
-TCT,traumatismo craneo torax,Trauma
-TCTA,traumatismo craneo torax abdomen,Trauma
-TCTAP,traumatismo craneo torax abdomen pelvis,Trauma
-TCTP,traumatismo craneo torax pelvis,Trauma
-TCu,traumatismo cuello,Trauma
-Tetanos,tetanos,Trauma
-TM,traumatismo multiple,Trauma
-TMed,traumatismo medular,Trauma
-TMi,traumatismo miembro,Trauma
-TMiI,traumatismo miembro inferior,Trauma
-TMiS,traumatismo miembro superior,Trauma
-TP,traumatismo pelvis,Trauma
-TPMi,traumatismo pelvis miembro,Trauma
-TRaq,traumatismo raqui,Trauma
-Trau,traumatismo,Trauma
-TRM,traumatismo raqui medular torax,Trauma
-TT,traumatismo torax,Trauma
-TTA,traumatismo torax abdomen,Trauma
-TTAP,traumatismo torax abdomen pelvis,Trauma
-TTMi,traumatismo torax miembro,Trauma
-TTP,traumatismo torax pelvis,Trauma
-TVag,traumatismo vaginal,Trauma
-BNxT,bronconeumonia traumatica,Trauma
-CA,cancer,Tumores (neoplasias)
-Tum,tumor,Tumores (neoplasias)
-_A,abdomen,
-_AMi,abdomen miembros,
-_AP,abdomen pelvis,
-_C,craneo,
-_CA,craneo abdomen,
-_CaCu,cara cuello,
-_CAP,craneo abdomen pelvis,
-_CCer,craneo cervico,
-_CCerM,craneo cervico medular,
-_CCerT,craneo cervico torax,
-_CCu,craneo cuello,
-_CE,craneo encefalico,
-_CEA,craneo encefalico abdomen,
-_CEMi,craneo encefalico miembro,
-_Cer,cervico,
-_CerM,cervico medular,
-_CerT,cervico torax,
-_CET,craneo encefalico torax,
-_CETA,craneo encefalico torax abdomen,
-_CF,craneo facial,
-_CMi,craneo miembro,
-_CP,craneo pelvis,
-_CRaq,craneo raqui,
-_CRaqM,craneo raqui medular,
-_CT,craneo torax,
-_CTA,craneo torax abdomen,
-_CTAP,craneo torax abdomen pelvis,
-_CTP,craneo torax pelvis,
-_CTV,craneo torax vientre,
-_CuA,cuello abdomen,
-_CuT,cuello torax,
-_Med,medular,
-_MiI,miembro inferior,
-_Mio,miocardio,
-_MiS,miembro superior,
-_P,pelvis,
-_PA,pelvis abdomen,
-_PMi,pelvis miembro,
-_RaqM,raqui medular,
-_T,torax,
-_TA,torax abdomen,
-_TAP,torax abdomen pelvis,
-_TMi,torax miembro,
-_TP,torax pelvis,
-_TRaq,torax raqui,
-_TV,torax vientre,
-_V,vientre,
-Cereb,cerebro,
-Cu,cuello,
-Encef,encefalo,
-Endo,endometrio,
-Femoral,femoral,
-Gastr,gastro,
-Hepat,higado,
-Intes,intestino,
-Mening,meningo,
-MI,miembro,
-Osteo,osteo,
-Placenta,placenta,
-Pul,pulmon,
-Raqui,raqui,
-Rectal,rectal,
-Renal,renal,
-Utero,utero,
-Vag,vagina,
-Vascu,vascular,
-Vesic,vesicula,
-Dispensa,dispensa,
-Indet,indeterminado,
-NoCopia,no copias,
-S-D,sin datos,
-noT,no traumatica,
+Siglas,Extendido,Clasificacion,Freq
+S-D,sin datos,,55901
+TM,traumatismo multiple,Trauma,8020
+TCE,traumatismo craneo encefalico,Trauma,6945
+BN,bronconeumonia,Enfermedades del sistema respiratorio,5329
+CH,cirrosis hepatica,Enfermedades del sistema digestivo,1536
+CVG,congestion visceral generalizada,,1509
+Quem,quemaduras,Causas externas de morbilidad y de mortalidad,1438
+TCT,traumatismo craneo torax,Trauma,1272
+LOC,enfermedad organica del corazon,Enfermedades del sistema circulatorio,1122
+HPAF,herida arma fuego,Herida por arma de fuego,1045
+HPAFC,herida arma fuego craneo,Herida por arma de fuego,960
+AOVA,asfixia por obstruccion de vias aereas,Causas externas de morbilidad y de mortalidad,936
+Dispensa,dispensa,,929
+PN,pleuro pneumonia,Enfermedades del sistema respiratorio,779
+AXA,asfixia por ahorcamiento,Causas externas de morbilidad y de mortalidad,697
+AQXT,amputacion quirurgica por traumatismo,Amputación,686
+HPAFPT,herida arma fuego pelvis torax,Herida por arma de fuego,601
+ANEN,asfixia neo natorum,"Embarazo, parto y puerperio",574
+ASB,asfixia por sumersion,Causas externas de morbilidad y de mortalidad,561
+HC,hemorragia cerebral o herida cortante,Causas externas de morbilidad y de mortalidad,561
+EXPSM,expulsion prematura del seno materno,"Embarazo, parto y puerperio",560
+TTA,traumatismo torax abdomen,Trauma,515
+TMi,traumatismo miembro,Trauma,461
+TA,traumatismo abdomen,Trauma,408
+TT,traumatismo torax,Trauma,395
+TB,tuberculosis,Ciertas enfermedades infecciosas y parasitarias,377
+HIPC,herida punzo cortante,Herida punzo cortante,358
+N,neumonia,Enfermedades del sistema respiratorio,352
+HPAFA,herida arma fuego abdomen,Herida por arma de fuego,332
+Septi,septicemia,Ciertas enfermedades infecciosas y parasitarias,320
+TAC,traumatismo abdomen craneo,Trauma,314
+HIPCT,herida punzo cortante torax,Herida punzo cortante,301
+TCer,traumatismo cervico,Trauma,281
+TCCer,traumatismo craneo cervico,Trauma,253
+AN,anemia,,251
+HPAFTA,herida arma fuego torax abdomen,Herida por arma de fuego,248
+TCCerM,traumatismo craneo cervico medular,Trauma,240
+Electroc,electrocucion,Causas externas de morbilidad y de mortalidad,214
+TP,traumatismo pelvis,Trauma,190
+ENT,enteritis,Enfermedades del sistema digestivo,184
+PER,peritonitis o perforacion,Enfermedades del sistema digestivo,172
+TAP,traumatismo abdomen pelvis,Trauma,172
+TCTA,traumatismo craneo torax abdomen,Trauma,169
+EP,edema pulmonar,Enfermedades del sistema respiratorio,154
+HPAFT,herida arma fuego torax,Herida por arma de fuego,144
+AE,asfixia por estrangulacion,Causas externas de morbilidad y de mortalidad,143
+TCP,traumatismo craneo pelvis,Trauma,131
+Gang,gangrena,Enfermedades de la piel y del tejido subcutáneo,118
+TCF,traumatismo craneo facial,Trauma,118
+ASF,asfixia,Causas externas de morbilidad y de mortalidad,117
+BBNT,bronconeumonia no traumatica,Enfermedades del sistema respiratorio,106
+Intox,intoxicacion,Causas externas de morbilidad y de mortalidad,104
+HIPCTA,herida punzo cortante torax abdomen,Herida punzo cortante,96
+Indet,indeterminado,,94
+EC,edema cerebral,Enfermedades del sistema nervioso,89
+VE,varices esofagicas,Enfermedades del sistema digestivo,89
+AQ,amputacion quirurgica,Amputación,88
+Pancrea,pancreatitis,Enfermedades del sistema digestivo,87
+TCET,traumatismo craneo encefalico torax,Trauma,78
+TTP,traumatismo torax pelvis,Trauma,66
+HIPCPA,herida punzo cortante abdomen pelvis,Herida punzo cortante,58
+InfMio,infarto miocardio,Enfermedades del sistema circulatorio,58
+Aborto,aborto,"Embarazo, parto y puerperio",51
+TMiS,traumatismo miembro superior,Trauma,49
+InfPul,infarto pulmon,Enfermedades del sistema respiratorio,48
+TTAP,traumatismo torax abdomen pelvis,Trauma,48
+NoCopia,no copias,,44
+Trau,traumatismo,Trauma,43
+TMiI,traumatismo miembro inferior,Trauma,40
+CA,cancer,Tumores (neoplasias),37
+Desnut,desnutricion,"Enfermedades endocrinas, nutricionales y metabólicas",37
+TACP,traumatismo abdomen craneo pelvis,Trauma,36
+HIPCA,herida punzo cortante abdomen,Herida punzo cortante,35
+TCEA,traumatismo craneo encefalico abdomen,Trauma,35
+TCCerT,traumatismo craneo cervico torax,Trauma,34
+CL,conjunto lesiones,Trauma,33
+Hemo,hemorragia,,33
+SH,shock,,32
+Meningitis,meningitis,Enfermedades del sistema nervioso,31
+AT,amputacion traumatica,Amputación,30
+HPAFCu,herida arma fuego cuello,Herida por arma de fuego,30
+Gastroent,gastroenteritis,Enfermedades del sistema digestivo,29
+FCPN,falta cuidado post natales,"Embarazo, parto y puerperio",28
+Mening,meningo,,28
+HIPCC,herida punzo cortante craneo,Herida punzo cortante,25
+MI,miembro,,25
+Anoxia,anoxia,Causas externas de morbilidad y de mortalidad,24
+Cereb,cerebro,,23
+Pul,pulmon,,23
+PostParto,postparto,"Embarazo, parto y puerperio",22
+Abs,absceso,Enfermedades de la piel y del tejido subcutáneo,21
+Intes,intestino,,21
+TPMi,traumatismo pelvis miembro,Trauma,21
+Necro,necrosis,Enfermedades de la piel y del tejido subcutáneo,20
+Hepat,higado,,18
+TCTP,traumatismo craneo torax pelvis,Trauma,18
+Utero,utero,,18
+Alcohol,alcohol,Causas externas de morbilidad y de mortalidad,17
+HPAFCT,herida arma fuego craneo torax,Herida por arma de fuego,17
+HIPCCu,herida punzo cortante cuello,Herida punzo cortante,17
+Inf,infarto o infeccion,Ciertas enfermedades infecciosas y parasitarias,17
+Placenta,placenta,,16
+Gastr,gastro,,15
+HPAFTV,herida arma fuego torax vientre,Herida por arma de fuego,15
+IntoxMed,intoxicacion por medicamentos,Causas externas de morbilidad y de mortalidad,15
+Ret,retencion,"Embarazo, parto y puerperio",15
+TCRM,traumatismo craneo raqui medular,Trauma,15
+Trombo,trombosis,Enfermedades del sistema circulatorio,15
+CO2,CO2,Causas externas de morbilidad y de mortalidad,14
+noT,no traumatica,,14
+Perf,perforacion,Causas externas de morbilidad y de mortalidad,14
+Rup,ruptura,Causas externas de morbilidad y de mortalidad,14
+Ulcera,ulcera,Enfermedades del sistema digestivo,14
+HPAFV,herida arma fuego vientre,Herida por arma de fuego,13
+Infec,infeccion,Ciertas enfermedades infecciosas y parasitarias,13
+Insuf,insuficiencia,,13
+Tum,tumor,Tumores (neoplasias),13
+Cisticercosis,cisticercosis,Ciertas enfermedades infecciosas y parasitarias,12
+HPAFRaquis,herida arma fuego raquis,Herida por arma de fuego,12
+TRM,traumatismo raqui medular torax,Trauma,12
+Vascu,vascular,,12
+AAxHE,anemia por hemorragia,Causas externas de morbilidad y de mortalidad,11
+Diabetes,diabetes,"Enfermedades endocrinas, nutricionales y metabólicas",11
+TCEMi,traumatismo craneo encefalico miembro,Trauma,11
+AQXTMi,amputacion quirurgica por traumatismo miembro,Amputación,10
+Broncoaspiracion,broncoaspiracion,Causas externas de morbilidad y de mortalidad,10
+HPAFCTA,herida arma fuego abdomen craneo torax,Herida por arma de fuego,10
+HIPCV,herida punzo cortante vientre,Herida punzo cortante,10
+PartoDis,parto distosico,"Embarazo, parto y puerperio",10
+Raticida,raticida,Causas externas de morbilidad y de mortalidad,10
+Encef,encefalo,,9
+ENTCO,enterocolitis,Enfermedades del sistema digestivo,9
+Oclusion,oclusion,Enfermedades del sistema circulatorio,9
+TCerM,traumatismo cervico medular,Trauma,9
+TCu,traumatismo cuello,Trauma,9
+Anencefalia,anencefalia,"Malformaciones  congénitas, deformidades y anomalías cromosómicas",8
+Aneurisma,aneurisma,Enfermedades del sistema circulatorio,8
+Hepatitis,hepatitis,Enfermedades del sistema digestivo,8
+InfCer,infarto cerebral,Enfermedades del sistema nervioso,8
+TCTAP,traumatismo craneo torax abdomen pelvis,Trauma,8
+Gastritis,gastritis,Enfermedades del sistema digestivo,7
+Hidrocefalia,hidrocefalia,Enfermedades del sistema nervioso,7
+Osteomielitis,osteomielitis,Enfermedades del sistema osteomuscular y del tejido conjuntivo,7
+SHHV,shock hipovolemico,,7
+HCNT,hemorragia cerebral no traumatica,Enfermedades del sistema nervioso,6
+Hernia,hernia,Enfermedades del sistema digestivo,6
+PNNT,pleuro pneumonia no traumatica,Enfermedades del sistema respiratorio,6
+Renal,renal,,6
+TCETA,traumatismo craneo encefalico torax abdomen,Trauma,6
+_Cer,cervico,,5
+Fetal,fetal,"Embarazo, parto y puerperio",5
+TCerT,traumatismo cervico torax,Trauma,5
+TMed,traumatismo medular,Trauma,5
+_AP,abdomen pelvis,,4
+Apendicitis,apendicitis,Enfermedades del sistema digestivo,4
+Embarazo,embarazo,"Embarazo, parto y puerperio",4
+Endo,endometrio,,4
+HIPCMi,herida punzo cortante miembros,Herida punzo cortante,4
+Leg,legrado,"Embarazo, parto y puerperio",4
+Osteo,osteo,,4
+Raqui,raqui,,4
+Rectal,rectal,,4
+Tetanos,tetanos,Trauma,4
+TCCerMT,traumatismo craneo cervico medular torax,Trauma,4
+TRaq,traumatismo raqui,Trauma,4
+Vag,vagina,,4
+Avionetazo,avionetazo,Causas externas de morbilidad y de mortalidad,3
+Cianuro,cianuro,Causas externas de morbilidad y de mortalidad,3
+Encefalomalacia,encefalomalacia,Enfermedades del sistema nervioso,3
+Fdesarrollo,falta desarrollo,"Embarazo, parto y puerperio",3
+Femoral,femoral,,3
+_P,pelvis,,3
+_PA,pelvis abdomen,,3
+TCerMT,traumatismo cervico medular torax,Trauma,3
+TCR,traumatismo craneo raqui,Trauma,3
+AQxTrat,amputacion quirurgica por tratamiento,Amputación,2
+_CerM,cervico medular,,2
+HPAFMi,herida arma fuego miembros,Herida por arma de fuego,2
+HIPCCT,herida punzo cortante craneo torax,Herida punzo cortante,2
+Parto,parto,"Embarazo, parto y puerperio",2
+TAM,traumatismo abdomen miembro,Trauma,2
+TCMi,traumatismo craneo miembro,Trauma,2
+_V,vientre,,2
+BNxT,bronconeumonia traumatica,Trauma,1
+_C,craneo,,1
+_CA,craneo abdomen,,1
+_CP,craneo pelvis,,1
+HPAFCTV,herida arma fuego abdomen craneo vientre,Herida por arma de fuego,1
+HPAFCuT,herida arma fuego cuello torax,Herida por arma de fuego,1
+HIPCCuT,herida punzo cortante cuello torax,Herida punzo cortante,1
+HIPCTV,herida punzo cortante torax vientre,Herida punzo cortante,1
+_Med,medular,,1
+PlaPrevia,placenta previa,"Embarazo, parto y puerperio",1
+_TA,torax abdomen,,1
+TCMT,traumatismo craneo medular torax,Trauma,1
+TTMi,traumatismo torax miembro,Trauma,1
+TVag,traumatismo vaginal,Trauma,1
+Vesic,vesicula,,1
