@@ -1,4 +1,4 @@
-Siglas,Extendido,Clasificacion,Freq
+siglas,extendido,clasificacion,freq
 S-D,sin datos,,55901
 TM,traumatismo multiple,Trauma,8020
 TCE,traumatismo craneo encefalico,Trauma,6945
@@ -59,6 +59,7 @@ AQ,amputacion quirurgica,Amputación,88
 Pancrea,pancreatitis,Enfermedades del sistema digestivo,87
 TCET,traumatismo craneo encefalico torax,Trauma,78
 TTP,traumatismo torax pelvis,Trauma,66
+P,,,59
 HIPCPA,herida punzo cortante abdomen pelvis,Herida punzo cortante,58
 InfMio,infarto miocardio,Enfermedades del sistema circulatorio,58
 Aborto,aborto,"Embarazo, parto y puerperio",51
@@ -71,12 +72,15 @@ TMiI,traumatismo miembro inferior,Trauma,40
 CA,cancer,Tumores (neoplasias),37
 Desnut,desnutricion,"Enfermedades endocrinas, nutricionales y metabólicas",37
 TACP,traumatismo abdomen craneo pelvis,Trauma,36
+E,,,36
 HIPCA,herida punzo cortante abdomen,Herida punzo cortante,35
 TCEA,traumatismo craneo encefalico abdomen,Trauma,35
 TCCerT,traumatismo craneo cervico torax,Trauma,34
 CL,conjunto lesiones,Trauma,33
 Hemo,hemorragia,,33
+CS,,,33
 SH,shock,,32
+CQ,,,32
 Meningitis,meningitis,Enfermedades del sistema nervioso,31
 AT,amputacion traumatica,Amputación,30
 HPAFCu,herida arma fuego cuello,Herida por arma de fuego,30
@@ -85,6 +89,7 @@ FCPN,falta cuidado post natales,"Embarazo, parto y puerperio",28
 Mening,meningo,,28
 HIPCC,herida punzo cortante craneo,Herida punzo cortante,25
 MI,miembro,,25
+A,,,25
 Anoxia,anoxia,Causas externas de morbilidad y de mortalidad,24
 Cereb,cerebro,,23
 Pul,pulmon,,23
@@ -93,9 +98,12 @@ Abs,absceso,Enfermedades de la piel y del tejido subcutáneo,21
 Intes,intestino,,21
 TPMi,traumatismo pelvis miembro,Trauma,21
 Necro,necrosis,Enfermedades de la piel y del tejido subcutáneo,20
+L,,,20
+PTE,,,19
 Hepat,higado,,18
 TCTP,traumatismo craneo torax pelvis,Trauma,18
 Utero,utero,,18
+T,,,18
 Alcohol,alcohol,Causas externas de morbilidad y de mortalidad,17
 HPAFCT,herida arma fuego craneo torax,Herida por arma de fuego,17
 HIPCCu,herida punzo cortante cuello,Herida punzo cortante,17
@@ -112,6 +120,9 @@ noT,no traumatica,,14
 Perf,perforacion,Causas externas de morbilidad y de mortalidad,14
 Rup,ruptura,Causas externas de morbilidad y de mortalidad,14
 Ulcera,ulcera,Enfermedades del sistema digestivo,14
+H,,,14
+M,,,14
+IP,,,14
 HPAFV,herida arma fuego vientre,Herida por arma de fuego,13
 Infec,infeccion,Ciertas enfermedades infecciosas y parasitarias,13
 Insuf,insuficiencia,,13
@@ -120,15 +131,19 @@ Cisticercosis,cisticercosis,Ciertas enfermedades infecciosas y parasitarias,12
 HPAFRaquis,herida arma fuego raquis,Herida por arma de fuego,12
 TRM,traumatismo raqui medular torax,Trauma,12
 Vascu,vascular,,12
+I,,,12
 AAxHE,anemia por hemorragia,Causas externas de morbilidad y de mortalidad,11
 Diabetes,diabetes,"Enfermedades endocrinas, nutricionales y metabólicas",11
 TCEMi,traumatismo craneo encefalico miembro,Trauma,11
+EH,,,11
 AQXTMi,amputacion quirurgica por traumatismo miembro,Amputación,10
 Broncoaspiracion,broncoaspiracion,Causas externas de morbilidad y de mortalidad,10
 HPAFCTA,herida arma fuego abdomen craneo torax,Herida por arma de fuego,10
 HIPCV,herida punzo cortante vientre,Herida punzo cortante,10
 PartoDis,parto distosico,"Embarazo, parto y puerperio",10
 Raticida,raticida,Causas externas de morbilidad y de mortalidad,10
+IA,,,10
+MP,,,10
 Encef,encefalo,,9
 ENTCO,enterocolitis,Enfermedades del sistema digestivo,9
 Oclusion,oclusion,Enfermedades del sistema circulatorio,9

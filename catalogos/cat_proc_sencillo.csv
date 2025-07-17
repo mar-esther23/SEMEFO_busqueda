@@ -1,4 +1,4 @@
-Siglas,Extendido,Alcaldia,Clasificacion,Freq
+siglas,extendido,alcaldia,clasificacion,freq
 S-D,Sin datos,,,25780
 HB,Hospital Balbuena (Col Jardin Balbuena),Venustiano Carranza,Hospital,5467
 CR,Cruz Roja (Col Polanco),Miguel Hidalgo,Hospital,4890
@@ -57,5 +57,5 @@ MH-4,Coord Territorial 4 Miguel Hidalgo (Col Ampliacion Daniel Garza),Miguel Hid
 TLH-1,Coord Territorial 1 Tlahuac (Col Del Mar),Tlahuac,Judicial,15
 PGR,Procuraduria General de la Republica,,Judicial,7
 MH-3,Coord Territorial 3 Miguel Hidalgo – Hospital Cruz Roja (Col Lomas de Chapultepec),Miguel Hidalgo,Hospital,5
-GAM-5,Coord Territorial 5 Gustavo A Madero (Col San Juan de Aragon),Gustavo A Madero,Judicial,4
 IZP-3,Coord Territorial 3 Iztapalapa (Central de Abastos),Iztapalapa,Judicial,4
+GAM-5,Coord Territorial 5 Gustavo A Madero (Col San Juan de Aragon),Gustavo A Madero,Judicial,4
