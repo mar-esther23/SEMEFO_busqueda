@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="weight_log10" attr.type="double" />
+  <key id="d5" for="edge" attr.name="occurrence" attr.type="long" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d3" for="node" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="weight_log10" attr.type="double" />
+  <key id="d1" for="node" attr.name="occurrence" attr.type="long" />
+  <key id="d0" for="node" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="BN">
+      <data key="d0">3106</data>
+      <data key="d1">26</data>
+      <data key="d2">3.49220145139254</data>
+      <data key="d3">BN</data>
+    </node>
+    <node id="CH">
+      <data key="d0">1239</data>
+      <data key="d1">11</data>
+      <data key="d2">3.0930713063760633</data>
+      <data key="d3">CH</data>
+    </node>
+    <node id="TCE">
+      <data key="d0">774</data>
+      <data key="d1">5</data>
+      <data key="d2">2.8887409606828927</data>
+      <data key="d3">TCE</data>
+    </node>
+    <node id="Quem">
+      <data key="d0">542</data>
+      <data key="d1">7</data>
+      <data key="d2">2.733999286538387</data>
+      <data key="d3">Quem</data>
+    </node>
+    <node id="TM">
+      <data key="d0">413</data>
+      <data key="d1">4</data>
+      <data key="d2">2.615950051656401</data>
+      <data key="d3">TM</data>
+    </node>
+    <node id="TMi">
+      <data key="d0">274</data>
+      <data key="d1">4</data>
+      <data key="d2">2.437750562820388</data>
+      <data key="d3">TMi</data>
+    </node>
+    <node id="PN">
+      <data key="d0">437</data>
+      <data key="d1">8</data>
+      <data key="d2">2.640481436970422</data>
+      <data key="d3">PN</data>
+    </node>
+    <node id="ENT">
+      <data key="d0">150</data>
+      <data key="d1">2</data>
+      <data key="d2">2.1760912590556813</data>
+      <data key="d3">ENT</data>
+    </node>
+    <node id="LOC">
+      <data key="d0">323</data>
+      <data key="d1">8</data>
+      <data key="d2">2.509202522331103</data>
+      <data key="d3">LOC</data>
+    </node>
+    <node id="TCT">
+      <data key="d0">58</data>
+      <data key="d1">1</data>
+      <data key="d2">1.7634279935629373</data>
+      <data key="d3">TCT</data>
+    </node>
+    <node id="TB">
+      <data key="d0">122</data>
+      <data key="d1">3</data>
+      <data key="d2">2.0863598306747484</data>
+      <data key="d3">TB</data>
+    </node>
+    <node id="N">
+      <data key="d0">157</data>
+      <data key="d1">7</data>
+      <data key="d2">2.1958996524092336</data>
+      <data key="d3">N</data>
+    </node>
+    <node id="CVG">
+      <data key="d0">108</data>
+      <data key="d1">5</data>
+      <data key="d2">2.03342375548695</data>
+      <data key="d3">CVG</data>
+    </node>
+    <node id="InfMio">
+      <data key="d0">42</data>
+      <data key="d1">1</data>
+      <data key="d2">1.6232492903979006</data>
+      <data key="d3">InfMio</data>
+    </node>
+    <node id="Septi">
+      <data key="d0">157</data>
+      <data key="d1">7</data>
+      <data key="d2">2.1958996524092336</data>
+      <data key="d3">Septi</data>
+    </node>
+    <node id="TT">
+      <data key="d0">54</data>
+      <data key="d1">2</data>
+      <data key="d2">1.7323937598229686</data>
+      <data key="d3">TT</data>
+    </node>
+    <node id="TCer">
+      <data key="d0">37</data>
+      <data key="d1">1</data>
+      <data key="d2">1.568201724066995</data>
+      <data key="d3">TCer</data>
+    </node>
+    <node id="HC">
+      <data key="d0">72</data>
+      <data key="d1">3</data>
+      <data key="d2">1.8573324964312685</data>
+      <data key="d3">HC</data>
+    </node>
+    <node id="TP">
+      <data key="d0">35</data>
+      <data key="d1">1</data>
+      <data key="d2">1.5440680443502757</data>
+      <data key="d3">TP</data>
+    </node>
+    <node id="AN">
+      <data key="d0">93</data>
+      <data key="d1">5</data>
+      <data key="d2">1.968482948553935</data>
+      <data key="d3">AN</data>
+    </node>
+    <node id="VE">
+      <data key="d0">58</data>
+      <data key="d1">3</data>
+      <data key="d2">1.7634279935629373</data>
+      <data key="d3">VE</data>
+    </node>
+    <node id="TA">
+      <data key="d0">91</data>
+      <data key="d1">3</data>
+      <data key="d2">1.9590413923210936</data>
+      <data key="d3">TA</data>
+    </node>
+    <node id="AQXT">
+      <data key="d0">42</data>
+      <data key="d1">2</data>
+      <data key="d2">1.6232492903979006</data>
+      <data key="d3">AQXT</data>
+    </node>
+    <node id="Gang">
+      <data key="d0">43</data>
+      <data key="d1">2</data>
+      <data key="d2">1.6334684555795866</data>
+      <data key="d3">Gang</data>
+    </node>
+    <node id="BBNT">
+      <data key="d0">30</data>
+      <data key="d1">1</data>
+      <data key="d2">1.4771212547196624</data>
+      <data key="d3">BBNT</data>
+    </node>
+    <node id="TCCerM">
+      <data key="d0">28</data>
+      <data key="d1">1</data>
+      <data key="d2">1.4471580313422192</data>
+      <data key="d3">TCCerM</data>
+    </node>
+    <node id="PER">
+      <data key="d0">39</data>
+      <data key="d1">2</data>
+      <data key="d2">1.591064607026499</data>
+      <data key="d3">PER</data>
+    </node>
+    <node id="EP">
+      <data key="d0">51</data>
+      <data key="d1">3</data>
+      <data key="d2">1.7075701760979363</data>
+      <data key="d3">EP</data>
+    </node>
+    <node id="Desnut">
+      <data key="d0">23</data>
+      <data key="d1">1</data>
+      <data key="d2">1.3617278360175928</data>
+      <data key="d3">Desnut</data>
+    </node>
+    <node id="Aborto">
+      <data key="d0">22</data>
+      <data key="d1">1</data>
+      <data key="d2">1.3424226808222062</data>
+      <data key="d3">Aborto</data>
+    </node>
+    <node id="AQ">
+      <data key="d0">30</data>
+      <data key="d1">2</data>
+      <data key="d2">1.4771212547196624</data>
+      <data key="d3">AQ</data>
+    </node>
+    <node id="HPAFA">
+      <data key="d0">18</data>
+      <data key="d1">1</data>
+      <data key="d2">1.255272505103306</data>
+      <data key="d3">HPAFA</data>
+    </node>
+    <node id="AOVA">
+      <data key="d0">18</data>
+      <data key="d1">1</data>
+      <data key="d2">1.255272505103306</data>
+      <data key="d3">AOVA</data>
+    </node>
+    <node id="CQ">
+      <data key="d0">17</data>
+      <data key="d1">1</data>
+      <data key="d2">1.2304489213782739</data>
+      <data key="d3">CQ</data>
+    </node>
+    <node id="PostParto">
+      <data key="d0">17</data>
+      <data key="d1">1</data>
+      <data key="d2">1.2304489213782739</data>
+      <data key="d3">PostParto</data>
+    </node>
+    <node id="HIPC">
+      <data key="d0">16</data>
+      <data key="d1">1</data>
+      <data key="d2">1.2041199826559248</data>
+      <data key="d3">HIPC</data>
+    </node>
+    <node id="TMiS">
+      <data key="d0">16</data>
+      <data key="d1">1</data>
+      <data key="d2">1.2041199826559248</data>
+      <data key="d3">TMiS</data>
+    </node>
+    <node id="TCCer">
+      <data key="d0">15</data>
+      <data key="d1">1</data>
+      <data key="d2">1.1760912590556813</data>
+      <data key="d3">TCCer</data>
+    </node>
+    <node id="TMiI">
+      <data key="d0">13</data>
+      <data key="d1">1</data>
+      <data key="d2">1.1139433523068367</data>
+      <data key="d3">TMiI</data>
+    </node>
+    <node id="TAC">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+      <data key="d2">1.0791812460476249</data>
+      <data key="d3">TAC</data>
+    </node>
+    <node id="TAP">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+      <data key="d2">1.0791812460476249</data>
+      <data key="d3">TAP</data>
+    </node>
+    <node id="HPAFT">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+      <data key="d2">1.0791812460476249</data>
+      <data key="d3">HPAFT</data>
+    </node>
+    <node id="TTA">
+      <data key="d0">11</data>
+      <data key="d1">1</data>
+      <data key="d2">1.041392685158225</data>
+      <data key="d3">TTA</data>
+    </node>
+    <node id="Necro">
+      <data key="d0">11</data>
+      <data key="d1">1</data>
+      <data key="d2">1.041392685158225</data>
+      <data key="d3">Necro</data>
+    </node>
+    <edge source="BN" target="CH">
+      <data key="d4">800</data>
+      <data key="d5">1</data>
+      <data key="d6">2.9030899869919438</data>
+    </edge>
+    <edge source="BN" target="TCE">
+      <data key="d4">635</data>
+      <data key="d5">1</data>
+      <data key="d6">2.8027737252919755</data>
+    </edge>
+    <edge source="BN" target="Quem">
+      <data key="d4">414</data>
+      <data key="d5">1</data>
+      <data key="d6">2.617000341120899</data>
+    </edge>
+    <edge source="BN" target="TM">
+      <data key="d4">297</data>
+      <data key="d5">1</data>
+      <data key="d6">2.4727564493172123</data>
+    </edge>
+    <edge source="BN" target="TMi">
+      <data key="d4">214</data>
+      <data key="d5">1</data>
+      <data key="d6">2.330413773349191</data>
+    </edge>
+    <edge source="BN" target="ENT">
+      <data key="d4">140</data>
+      <data key="d5">1</data>
+      <data key="d6">2.146128035678238</data>
+    </edge>
+    <edge source="BN" target="LOC">
+      <data key="d4">117</data>
+      <data key="d5">1</data>
+      <data key="d6">2.0681858617461617</data>
+    </edge>
+    <edge source="BN" target="TCT">
+      <data key="d4">58</data>
+      <data key="d5">1</data>
+      <data key="d6">1.7634279935629373</data>
+    </edge>
+    <edge source="BN" target="TB">
+      <data key="d4">53</data>
+      <data key="d5">1</data>
+      <data key="d6">1.7242758696007892</data>
+    </edge>
+    <edge source="BN" target="TT">
+      <data key="d4">41</data>
+      <data key="d5">1</data>
+      <data key="d6">1.6127838567197355</data>
+    </edge>
+    <edge source="BN" target="TCer">
+      <data key="d4">37</data>
+      <data key="d5">1</data>
+      <data key="d6">1.568201724066995</data>
+    </edge>
+    <edge source="BN" target="HC">
+      <data key="d4">36</data>
+      <data key="d5">1</data>
+      <data key="d6">1.5563025007672873</data>
+    </edge>
+    <edge source="BN" target="TP">
+      <data key="d4">35</data>
+      <data key="d5">1</data>
+      <data key="d6">1.5440680443502757</data>
+    </edge>
+    <edge source="BN" target="TA">
+      <data key="d4">32</data>
+      <data key="d5">1</data>
+      <data key="d6">1.505149978319906</data>
+    </edge>
+    <edge source="BN" target="TCCerM">
+      <data key="d4">28</data>
+      <data key="d5">1</data>
+      <data key="d6">1.4471580313422192</data>
+    </edge>
+    <edge source="BN" target="Desnut">
+      <data key="d4">23</data>
+      <data key="d5">1</data>
+      <data key="d6">1.3617278360175928</data>
+    </edge>
+    <edge source="BN" target="CVG">
+      <data key="d4">21</data>
+      <data key="d5">1</data>
+      <data key="d6">1.3222192947339193</data>
+    </edge>
+    <edge source="BN" target="AOVA">
+      <data key="d4">18</data>
+      <data key="d5">1</data>
+      <data key="d6">1.255272505103306</data>
+    </edge>
+    <edge source="BN" target="CQ">
+      <data key="d4">17</data>
+      <data key="d5">1</data>
+      <data key="d6">1.2304489213782739</data>
+    </edge>
+    <edge source="BN" target="TMiS">
+      <data key="d4">16</data>
+      <data key="d5">1</data>
+      <data key="d6">1.2041199826559248</data>
+    </edge>
+    <edge source="BN" target="TCCer">
+      <data key="d4">15</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1760912590556813</data>
+    </edge>
+    <edge source="BN" target="TMiI">
+      <data key="d4">13</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1139433523068367</data>
+    </edge>
+    <edge source="BN" target="TAC">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="BN" target="TAP">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="BN" target="PER">
+      <data key="d4">11</data>
+      <data key="d5">1</data>
+      <data key="d6">1.041392685158225</data>
+    </edge>
+    <edge source="BN" target="TTA">
+      <data key="d4">11</data>
+      <data key="d5">1</data>
+      <data key="d6">1.041392685158225</data>
+    </edge>
+    <edge source="CH" target="PN">
+      <data key="d4">186</data>
+      <data key="d5">1</data>
+      <data key="d6">2.2695129442179165</data>
+    </edge>
+    <edge source="CH" target="TB">
+      <data key="d4">56</data>
+      <data key="d5">1</data>
+      <data key="d6">1.7481880270062005</data>
+    </edge>
+    <edge source="CH" target="N">
+      <data key="d4">55</data>
+      <data key="d5">1</data>
+      <data key="d6">1.7403626894942439</data>
+    </edge>
+    <edge source="CH" target="LOC">
+      <data key="d4">50</data>
+      <data key="d5">1</data>
+      <data key="d6">1.6989700043360187</data>
+    </edge>
+    <edge source="CH" target="BBNT">
+      <data key="d4">30</data>
+      <data key="d5">1</data>
+      <data key="d6">1.4771212547196624</data>
+    </edge>
+    <edge source="CH" target="CVG">
+      <data key="d4">15</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1760912590556813</data>
+    </edge>
+    <edge source="CH" target="AN">
+      <data key="d4">14</data>
+      <data key="d5">1</data>
+      <data key="d6">1.146128035678238</data>
+    </edge>
+    <edge source="CH" target="VE">
+      <data key="d4">24</data>
+      <data key="d5">2</data>
+      <data key="d6">1.380211241711606</data>
+    </edge>
+    <edge source="CH" target="TCE">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="CH" target="HC">
+      <data key="d4">11</data>
+      <data key="d5">1</data>
+      <data key="d6">1.041392685158225</data>
+    </edge>
+    <edge source="TCE" target="PN">
+      <data key="d4">88</data>
+      <data key="d5">1</data>
+      <data key="d6">1.9444826721501687</data>
+    </edge>
+    <edge source="TCE" target="N">
+      <data key="d4">29</data>
+      <data key="d5">1</data>
+      <data key="d6">1.462397997898956</data>
+    </edge>
+    <edge source="TCE" target="Septi">
+      <data key="d4">10</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0</data>
+    </edge>
+    <edge source="Quem" target="PN">
+      <data key="d4">34</data>
+      <data key="d5">1</data>
+      <data key="d6">1.5314789170422551</data>
+    </edge>
+    <edge source="Quem" target="EP">
+      <data key="d4">27</data>
+      <data key="d5">1</data>
+      <data key="d6">1.4313637641589874</data>
+    </edge>
+    <edge source="Quem" target="N">
+      <data key="d4">23</data>
+      <data key="d5">1</data>
+      <data key="d6">1.3617278360175928</data>
+    </edge>
+    <edge source="Quem" target="AQ">
+      <data key="d4">18</data>
+      <data key="d5">1</data>
+      <data key="d6">1.255272505103306</data>
+    </edge>
+    <edge source="Quem" target="Septi">
+      <data key="d4">14</data>
+      <data key="d5">1</data>
+      <data key="d6">1.146128035678238</data>
+    </edge>
+    <edge source="Quem" target="CVG">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="TM" target="PN">
+      <data key="d4">60</data>
+      <data key="d5">1</data>
+      <data key="d6">1.7781512503836436</data>
+    </edge>
+    <edge source="TM" target="Septi">
+      <data key="d4">41</data>
+      <data key="d5">1</data>
+      <data key="d6">1.6127838567197355</data>
+    </edge>
+    <edge source="TM" target="N">
+      <data key="d4">15</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1760912590556813</data>
+    </edge>
+    <edge source="TMi" target="PN">
+      <data key="d4">24</data>
+      <data key="d5">1</data>
+      <data key="d6">1.380211241711606</data>
+    </edge>
+    <edge source="TMi" target="Septi">
+      <data key="d4">21</data>
+      <data key="d5">1</data>
+      <data key="d6">1.3222192947339193</data>
+    </edge>
+    <edge source="TMi" target="N">
+      <data key="d4">15</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1760912590556813</data>
+    </edge>
+    <edge source="PN" target="LOC">
+      <data key="d4">19</data>
+      <data key="d5">1</data>
+      <data key="d6">1.2787536009528289</data>
+    </edge>
+    <edge source="PN" target="TB">
+      <data key="d4">13</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1139433523068367</data>
+    </edge>
+    <edge source="PN" target="TT">
+      <data key="d4">13</data>
+      <data key="d5">1</data>
+      <data key="d6">1.1139433523068367</data>
+    </edge>
+    <edge source="ENT" target="N">
+      <data key="d4">10</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0</data>
+    </edge>
+    <edge source="LOC" target="CVG">
+      <data key="d4">48</data>
+      <data key="d5">1</data>
+      <data key="d6">1.6812412373755872</data>
+    </edge>
+    <edge source="LOC" target="InfMio">
+      <data key="d4">42</data>
+      <data key="d5">1</data>
+      <data key="d6">1.6232492903979006</data>
+    </edge>
+    <edge source="LOC" target="HC">
+      <data key="d4">25</data>
+      <data key="d5">1</data>
+      <data key="d6">1.3979400086720377</data>
+    </edge>
+    <edge source="LOC" target="EP">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="LOC" target="N">
+      <data key="d4">10</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0</data>
+    </edge>
+    <edge source="CVG" target="EP">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="Septi" target="TA">
+      <data key="d4">31</data>
+      <data key="d5">1</data>
+      <data key="d6">1.4913616938342726</data>
+    </edge>
+    <edge source="Septi" target="Aborto">
+      <data key="d4">22</data>
+      <data key="d5">1</data>
+      <data key="d6">1.3424226808222062</data>
+    </edge>
+    <edge source="Septi" target="HPAFA">
+      <data key="d4">18</data>
+      <data key="d5">1</data>
+      <data key="d6">1.255272505103306</data>
+    </edge>
+    <edge source="AN" target="VE">
+      <data key="d4">48</data>
+      <data key="d5">2</data>
+      <data key="d6">1.6812412373755872</data>
+    </edge>
+    <edge source="AN" target="PostParto">
+      <data key="d4">17</data>
+      <data key="d5">1</data>
+      <data key="d6">1.2304489213782739</data>
+    </edge>
+    <edge source="AN" target="HIPC">
+      <data key="d4">16</data>
+      <data key="d5">1</data>
+      <data key="d6">1.2041199826559248</data>
+    </edge>
+    <edge source="AN" target="HPAFT">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+    <edge source="TA" target="PER">
+      <data key="d4">28</data>
+      <data key="d5">1</data>
+      <data key="d6">1.4471580313422192</data>
+    </edge>
+    <edge source="AQXT" target="Gang">
+      <data key="d4">31</data>
+      <data key="d5">1</data>
+      <data key="d6">1.4913616938342726</data>
+    </edge>
+    <edge source="AQXT" target="Necro">
+      <data key="d4">11</data>
+      <data key="d5">1</data>
+      <data key="d6">1.041392685158225</data>
+    </edge>
+    <edge source="Gang" target="AQ">
+      <data key="d4">12</data>
+      <data key="d5">1</data>
+      <data key="d6">1.0791812460476249</data>
+    </edge>
+  </graph>
+</graphml>

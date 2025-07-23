@@ -259,13 +259,14 @@ def profile_by_categorical_column(df, file_out, target_col, min_rows=10, title=N
         title_ = '{}/n{}: {}'.format(title, target_col, k)
         profile_minimal(df_, file_out_, title_, force, **kwargs)
 
-def top_values_of_series_to_string(series, n_top=5, normalize=False, round_digits=4, sep=', '):
+def top_values_of_series_to_string(series, n_top=5, normalize=False, round_digits=4, thr_min=1, sep=', '):
     top_values = series.value_counts(normalize=normalize, dropna=False).head(n_top)
     if normalize: top_values = top_values.round(round_digits)
     top_values = top_values.to_dict()
-    text = ['{} ({})'.format(k,v) for k,v in top_values.items()]
+    text = ['{} ({})'.format(k,v) for k,v in top_values.items() if v>=thr_min]
     text = sep.join(text)
-    return text
+    if len(text)>0:    return text
+    else: return nan
 
 def summary_top_series(s, n_values=5, sep=', ', **kwargs):
     # check with one above
