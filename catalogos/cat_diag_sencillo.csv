@@ -8,14 +8,14 @@ CVG,congestion visceral generalizada,"Sintomas, signos y hallazgos anormales",15
 Quem,quemaduras,Causas externas,1438
 TCT,traumatismo craneo torax,Traumatismos,1272
 LOC,enfermedad organica del corazon,Circulatorio,1122
-HPAF,herida arma fuego,Arma de fuego,1045
-HPAFC,herida arma fuego craneo,Herida por arma de fuego,960
+HPAF,herida arma fuego,Herida arma de fuego,1045
+HPAFC,herida arma fuego craneo,Herida arma de fuego,960
 AOVA,asfixia por obstruccion de vias aereas,Causas externas,936
 Dispensa,dispensa,Sin datos,929
 PN,pleuro pneumonia,Respiratorio,779
 AXA,asfixia por ahorcamiento,Causas externas,697
 AQXT,amputacion quirurgica por traumatismo,Amputación,686
-HPAFPT,herida arma fuego pelvis torax,Herida por arma de fuego,601
+HPAFPT,herida arma fuego pelvis torax,Herida arma de fuego,601
 ANEN,asfixia neo natorum,Afecciones periodo perinatal,574
 ASB,asfixia por sumersion,Causas externas,561
 HC,hemorragia cerebral o herida cortante,Causas externas,561
@@ -27,14 +27,14 @@ TT,traumatismo torax,Traumatismos,395
 TB,tuberculosis,Infecciosas y parasitarias,377
 HIPC,herida punzo cortante,Herida punzo cortante,358
 N,neumonia,Respiratorio,352
-HPAFA,herida arma fuego abdomen,Herida por arma de fuego,332
+HPAFA,herida arma fuego abdomen,Herida arma de fuego,332
 Septi,septicemia,Infecciosas y parasitarias,320
 TAC,traumatismo abdomen craneo,Traumatismos,314
 HIPCT,herida punzo cortante torax,Herida punzo cortante,301
 TCer,traumatismo cervico,Traumatismos,281
 TCCer,traumatismo craneo cervico,Traumatismos,253
 AN,anemia,"Sintomas, signos y hallazgos anormales",251
-HPAFTA,herida arma fuego torax abdomen,Herida por arma de fuego,248
+HPAFTA,herida arma fuego torax abdomen,Herida arma de fuego,248
 TCCerM,traumatismo craneo cervico medular,Traumatismos,240
 Electroc,electrocucion,Causas externas,214
 TP,traumatismo pelvis,Traumatismos,190
@@ -43,7 +43,7 @@ PER,peritonitis o perforacion,Digestivo,172
 TAP,traumatismo abdomen pelvis,Traumatismos,172
 TCTA,traumatismo craneo torax abdomen,Traumatismos,169
 EP,edema pulmonar,Respiratorio,154
-HPAFT,herida arma fuego torax,Herida por arma de fuego,144
+HPAFT,herida arma fuego torax,Herida arma de fuego,144
 AE,asfixia por estrangulacion,Causas externas,143
 TCP,traumatismo craneo pelvis,Traumatismos,131
 Gang,gangrena,Piel y del tejido subcutáneo,118
@@ -83,7 +83,7 @@ SH,shock,"Sintomas, signos y hallazgos anormales",32
 CQ,,,32
 Meningitis,meningitis,Nervioso,31
 AT,amputacion traumatica,Amputación,30
-HPAFCu,herida arma fuego cuello,Herida por arma de fuego,30
+HPAFCu,herida arma fuego cuello,Herida arma de fuego,30
 Gastroent,gastroenteritis,Infecciosas y parasitarias,29
 FCPN,falta cuidado post natales,Afecciones periodo perinatal,28
 Mening,meningo,,28
@@ -105,14 +105,14 @@ Hepat,higado,,18
 Utero,utero,,18
 T,,,18
 Alcohol,alcohol,Envenenamientos,17
-HPAFCT,herida arma fuego craneo torax,Herida por arma de fuego,17
+HPAFCT,herida arma fuego craneo torax,Herida arma de fuego,17
 HIPCCu,herida punzo cortante cuello,Herida punzo cortante,17
 Inf,infarto o infeccion,Infecciosas y parasitarias,17
 Placenta,placenta,,16
 IntoxMed,intoxicacion por medicamentos,Causas externas,15
 Trombo,trombosis,Circulatorio,15
 Ret,retencion,"Embarazo, parto y puerperio",15
-HPAFTV,herida arma fuego torax vientre,Herida por arma de fuego,15
+HPAFTV,herida arma fuego torax vientre,Herida arma de fuego,15
 TCRM,traumatismo craneo raqui medular,Traumatismos,15
 Gastr,gastro,,15
 Perf,perforacion,Causas externas,14
@@ -123,11 +123,11 @@ noT,no traumatica,,14
 H,,,14
 M,,,14
 IP,,,14
-HPAFV,herida arma fuego vientre,Herida por arma de fuego,13
+HPAFV,herida arma fuego vientre,Herida arma de fuego,13
 Infec,infeccion,Infecciosas y parasitarias,13
 Insuf,insuficiencia,Respiratorio,13
 Tum,tumor,Tumores (neoplasias),13
-HPAFRaquis,herida arma fuego raquis,Herida por arma de fuego,12
+HPAFRaquis,herida arma fuego raquis,Herida arma de fuego,12
 Cisticercosis,cisticercosis,Infecciosas y parasitarias,12
 TRM,traumatismo raqui medular torax,Traumatismos,12
 Vascu,vascular,,12
@@ -140,7 +140,7 @@ AQXTMi,amputacion quirurgica por traumatismo miembro,Amputación,10
 Broncoaspiracion,broncoaspiracion,Causas externas,10
 PartoDis,parto distosico,"Embarazo, parto y puerperio",10
 Raticida,raticida,Envenenamientos,10
-HPAFCTA,herida arma fuego abdomen craneo torax,Herida por arma de fuego,10
+HPAFCTA,herida arma fuego abdomen craneo torax,Herida arma de fuego,10
 HIPCV,herida punzo cortante vientre,Herida punzo cortante,10
 IA,,,10
 MP,,,10
@@ -191,15 +191,15 @@ _P,pelvis,,3
 _PA,pelvis abdomen,,3
 AQxTrat,amputacion quirurgica por tratamiento,Amputación,2
 Parto,parto,"Embarazo, parto y puerperio",2
-HPAFMi,herida arma fuego miembros,Herida por arma de fuego,2
+HPAFMi,herida arma fuego miembros,Herida arma de fuego,2
 HIPCCT,herida punzo cortante craneo torax,Herida punzo cortante,2
 TAM,traumatismo abdomen miembro,Traumatismos,2
 TCMi,traumatismo craneo miembro,Traumatismos,2
 _CerM,cervico medular,,2
 _V,vientre,,2
 PlaPrevia,placenta previa,"Embarazo, parto y puerperio",1
-HPAFCTV,herida arma fuego abdomen craneo vientre,Herida por arma de fuego,1
-HPAFCuT,herida arma fuego cuello torax,Herida por arma de fuego,1
+HPAFCTV,herida arma fuego abdomen craneo vientre,Herida arma de fuego,1
+HPAFCuT,herida arma fuego cuello torax,Herida arma de fuego,1
 HIPCCuT,herida punzo cortante cuello torax,Herida punzo cortante,1
 HIPCTV,herida punzo cortante torax vientre,Herida punzo cortante,1
 BNxT,bronconeumonia traumatica,Traumatismos,1

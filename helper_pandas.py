@@ -310,9 +310,10 @@ def categorical_to_freq_and_percentage(
     # Create dataframe
     data = pd.concat([freq, perc], axis=1)
     data.columns = ['Frequency', 'Percentage']
+    data = data.sort_values('Frequency', ascending=False)
     # Get top_n results
     if top_n is not None:
-        data = data.sort_values('Frequency', ascending=False).head(top_n)
+        data = data.head(top_n)
     # Sort index, uses categorical index if it exists
     if sort_index:
         data = data.sort_index()
@@ -362,11 +363,11 @@ def categorical_summary(
     data['Total'] = res
 
     # Create dataframe
-    data = pd.concat(data, axis=1).fillna(0)
+    data = pd.concat(data, axis=1).fillna(0).sort_values(by=('Total','Frequency'), ascending=False)
 
     # Get top_n results
     if top_n is not None:
-        data = data.sort_values(by=('Total','Frequency'), ascending=False).head(top_n)
+        data = data.head(top_n)
 
     # Sort index, uses categorical index if it exists
     if sort_index:
