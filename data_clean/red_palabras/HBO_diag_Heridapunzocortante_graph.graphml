@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.25.1-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="label" attr.type="string" for="node" id="d3"/>
+  <key attr.name="weight_log10" attr.type="double" for="node" id="d4"/>
+  <key attr.name="occurrence" attr.type="int" for="node" id="d5"/>
+  <key attr.name="weight" attr.type="int" for="node" id="d6"/>
+  <key attr.name="url" attr.type="string" for="node" id="d7"/>
+  <key attr.name="description" attr.type="string" for="node" id="d8"/>
+  <key for="node" id="d9" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d10" yfiles.type="resources"/>
+  <key attr.name="weight_log10" attr.type="double" for="edge" id="d11"/>
+  <key attr.name="occurrence" attr.type="int" for="edge" id="d12"/>
+  <key attr.name="weight" attr.type="int" for="edge" id="d13"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d14"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d15"/>
+  <key for="edge" id="d16" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d3" xml:space="preserve"><![CDATA[torax]]></data>
+      <data key="d4" xml:space="preserve">2.5809249756756194</data>
+      <data key="d5" xml:space="preserve">2</data>
+      <data key="d6" xml:space="preserve">381</data>
+      <data key="d8"/>
+      <data key="d9">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="76.6115484590848" x="-558.8057742295424" y="317.5"/>
+          <y:Fill color="#00FFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="33.628204345703125" x="21.491672056690845" xml:space="preserve" y="9.827942848205566">torax<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d3" xml:space="preserve"><![CDATA[abdomen]]></data>
+      <data key="d4" xml:space="preserve">2.24551266781415</data>
+      <data key="d5" xml:space="preserve">3</data>
+      <data key="d6" xml:space="preserve">176</data>
+      <data key="d8"/>
+      <data key="d9">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="68.00299252936779" x="-561.5014962646839" y="247.5"/>
+          <y:Fill color="#00FFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.1563720703125" x="4.923310229527601" xml:space="preserve" y="9.827942848205566">abdomen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3" xml:space="preserve"><![CDATA[pelvis]]></data>
+      <data key="d4" xml:space="preserve">1.7634279935629373</data>
+      <data key="d5" xml:space="preserve">1</data>
+      <data key="d6" xml:space="preserve">58</data>
+      <data key="d8"/>
+      <data key="d9">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="55.630003274408786" x="-558.3150016372044" y="184.5"/>
+          <y:Fill color="#00FFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.184234619140625" x="9.72288432763412" xml:space="preserve" y="9.827942848205566">pelvis<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d3" xml:space="preserve"><![CDATA[craneo]]></data>
+      <data key="d4" xml:space="preserve">1.380211241711606</data>
+      <data key="d5" xml:space="preserve">1</data>
+      <data key="d6" xml:space="preserve">24</data>
+      <data key="d8"/>
+      <data key="d9">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="50.0" x="-429.5" y="184.5"/>
+          <y:Fill color="#00FFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.89227294921875" x="3.553863525390625" xml:space="preserve" y="9.827942848205566">craneo<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d3" xml:space="preserve"><![CDATA[cuello]]></data>
+      <data key="d4" xml:space="preserve">1.0791812460476249</data>
+      <data key="d5" xml:space="preserve">1</data>
+      <data key="d6" xml:space="preserve">12</data>
+      <data key="d8"/>
+      <data key="d9">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="50.0" x="-429.5" y="247.5"/>
+          <y:Fill color="#00FFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.396240234375" x="6.3018798828125" xml:space="preserve" y="9.827942848205566">cuello<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d3" xml:space="preserve"><![CDATA[vientre]]></data>
+      <data key="d4" xml:space="preserve">0.7781512503836436</data>
+      <data key="d5" xml:space="preserve">1</data>
+      <data key="d6" xml:space="preserve">6</data>
+      <data key="d8"/>
+      <data key="d9">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="50.0" x="-429.5" y="317.5"/>
+          <y:Fill color="#00FFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.432281494140625" x="3.2838592529296875" xml:space="preserve" y="9.827942848205566">vientre<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n0" target="n1">
+      <data key="d11" xml:space="preserve">1.968482948553935</data>
+      <data key="d12" xml:space="preserve">1</data>
+      <data key="d13" xml:space="preserve">93</data>
+      <data key="d15"/>
+      <data key="d16">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="2.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n1" target="n2">
+      <data key="d11" xml:space="preserve">1.7634279935629373</data>
+      <data key="d12" xml:space="preserve">1</data>
+      <data key="d13" xml:space="preserve">58</data>
+      <data key="d15"/>
+      <data key="d16">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="2.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d10">
+    <y:Resources/>
+  </data>
+</graphml>

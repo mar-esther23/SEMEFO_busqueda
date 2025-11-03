@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    class="main-svg"
-   width="740.5"
-   height="420.86603"
-   viewBox="0 0 740.5 420.86603"
+   width="453.54333"
+   height="279.42975"
+   viewBox="0 0 453.54333 279.42975"
    version="1.1"
    id="svg184"
-   sodipodi:docname="sankey_conocido_tipo_sexo.svg"
+   sodipodi:docname="BO_Sankey_Conocido+Tipo+Sexo_rev.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="sankey_conocido_tipo_sexo.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="BO_Sankey_Conocido+Tipo+Sexo_rev.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.790682"
-     inkscape:cx="370.25"
-     inkscape:cy="210.53431"
+     inkscape:cx="170.04694"
+     inkscape:cy="120.06599"
      inkscape:window-width="1877"
      inkscape:window-height="1047"
      inkscape:window-x="0"
@@ -49,11 +49,11 @@
   <g
      class="bglayer"
      id="g11"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="layer-below"
      id="g17"
-     transform="translate(-79.75,-99.75)">
+     transform="translate(-172.07493,-146.36824)">
     <g
        class="imagelayer"
        id="g13" />
@@ -64,507 +64,47 @@
   <g
      class="cartesianlayer"
      id="g19"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="polarlayer"
      id="g21"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="smithlayer"
      id="g23"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="ternarylayer"
      id="g25"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="geolayer"
      id="g27"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="funnelarealayer"
      id="g29"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="pielayer"
      id="g31"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="iciclelayer"
      id="g33"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="treemaplayer"
      id="g35"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="sunburstlayer"
      id="g37"
-     transform="translate(-79.75,-99.75)" />
+     transform="translate(-172.07493,-146.36824)" />
   <g
      class="glimages"
      id="g39"
-     transform="translate(-79.75,-99.75)" />
-  <path
-     class="sankey-link"
-     d="m 150.25,72.48109 c 72.5,0 72.5,-72.23109 145,-72.23109 v 214.03687 c -72.5,0 -72.5,72.23109 -145,72.23109 z"
-     style="opacity:0.5;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:0;stroke-opacity:1"
-     id="path41" />
-  <path
-     class="sankey-link"
-     d="m 150.25,286.22144 c 72.5,0 72.5,17.64052 145,17.64052 v 0.0865 c -72.5,0 -72.5,-17.64052 -145,-17.64052 z"
-     style="opacity:0.8;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:1;stroke-opacity:1"
-     id="path43"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,286.30789 c 72.5,0 72.5,51.87766 145,51.87766 v 0.0865 c -72.5,0 -72.5,-51.87767 -145,-51.87767 z"
-     style="opacity:0.8;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:1;stroke-opacity:1"
-     id="path45"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,286.51796 c 72.5,0 72.5,92.32736 145,92.32736 v 5.00542 c -72.5,0 -72.5,-92.32736 -145,-92.32736 z"
-     style="opacity:0.5;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:0;stroke-opacity:1"
-     id="path47"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,321.56606 c 72.5,0 72.5,-88.07931 145,-88.07931 v 40.37521 c -72.5,0 -72.5,88.07932 -145,88.07932 z"
-     style="opacity:0.5;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0;stroke-opacity:1"
-     id="path49"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,361.94128 c 72.5,0 72.5,-57.99287 145,-57.99287 v 1.67869 c -72.5,0 -72.5,57.99288 -145,57.99288 z"
-     style="opacity:0.8;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0;stroke-opacity:1"
-     id="path51"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,363.61998 c 72.5,0 72.5,-25.34798 145,-25.34798 v 7.84415 c -72.5,0 -72.5,25.34798 -145,25.34798 z"
-     style="opacity:0.5;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0;stroke-opacity:1"
-     id="path53"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,371.69627 c 72.5,0 72.5,12.15447 145,12.15447 v 0.75291 c -72.5,0 -72.5,-12.15448 -145,-12.15448 z"
-     style="opacity:0.8;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:1;stroke-opacity:1"
-     id="path55"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 150.25,372.34724 c 72.5,0 72.5,47.76891 145,47.76891 V 420.25 c -72.5,0 -72.5,-47.76891 -145,-47.76891 z"
-     style="opacity:1;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:1;stroke-opacity:1"
-     id="path57" />
-  <path
-     class="sankey-link"
-     d="m 445.25,162.92483 c 72.5,0 72.5,156.32002 145,156.32002 v 49.97893 c -72.5,0 -72.5,-156.32002 -145,-156.32002 z"
-     style="fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-opacity:1;opacity:0.5"
-     id="path59" />
-  <path
-     class="sankey-link"
-     d="m 445.25,0.25 c 72.5,0 72.5,83.36542 145,83.36542 v 162.67482 c -72.5,0 -72.5,-83.36541 -145,-83.36541 z"
-     style="fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-opacity:1;opacity:0.5"
-     id="path61" />
-  <path
-     class="sankey-link"
-     d="m 445.25,212.90376 c 72.5,0 72.5,193.78772 145,193.78772 v 1.38312 c -72.5,0 -72.5,-193.78773 -145,-193.78773 z"
-     style="fill:#000000;fill-opacity:0.2;stroke:#444444;stroke-width:0;stroke-opacity:1"
-     id="path63" />
-  <path
-     class="sankey-link"
-     d="m 445.25,269.02627 c 72.5,0 72.5,100.15679 145,100.15679 v 4.40589 c -72.5,0 -72.5,-100.15679 -145,-100.15679 z"
-     style="opacity:0.5;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-opacity:1"
-     id="path65"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,233.20753 c 72.5,0 72.5,13.29619 145,13.29619 v 35.81875 c -72.5,0 -72.5,-13.2962 -145,-13.2962 z"
-     style="opacity:0.5;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-opacity:1"
-     id="path67"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,273.43216 c 72.5,0 72.5,135.11649 145,135.11649 v 0.15058 c -72.5,0 -72.5,-135.11649 -145,-135.11649 z"
-     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:1;stroke-opacity:0.2"
-     id="path69"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,304.91882 c 72.5,0 72.5,69.18933 145,69.18933 v 0.69992 c -72.5,0 -72.5,-69.18933 -145,-69.18933 z"
-     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:1;stroke-opacity:1"
-     id="path71"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,303.86196 c 72.5,0 72.5,-21.53949 145,-21.53949 v 1.05685 c -72.5,0 -72.5,21.5395 -145,21.5395 z"
-     style="opacity:0.8;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-opacity:1"
-     id="path73"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,305.61874 c 72.5,0 72.5,103.08049 145,103.08049 v 0.008 c -72.5,0 -72.5,-103.08049 -145,-103.08049 z"
-     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:1;stroke-opacity:0.2"
-     id="path75"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,339.75234 c 72.5,0 72.5,35.05573 145,35.05573 v 1.2883 c -72.5,0 -72.5,-35.05572 -145,-35.05572 z"
-     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-opacity:1"
-     id="path77"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,337.90633 c 72.5,0 72.5,-54.52701 145,-54.52701 v 1.84601 c -72.5,0 -72.5,54.52701 -145,54.52701 z"
-     style="opacity:0.8;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-opacity:1"
-     id="path79"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,341.04065 c 72.5,0 72.5,67.66694 145,67.66694 v 4.79628 c -72.5,0 -72.5,-67.66694 -145,-67.66694 z"
-     style="fill:#000000;fill-opacity:0.2;stroke:#444444;stroke-width:0;stroke-opacity:1"
-     id="path81"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 443.34872,383.2678 c 72.5,0 74.40128,-8.63634 146.90128,-8.63634 v 1.0708 c -72.5,0 -74.40128,8.63634 -146.90128,8.63634 z"
-     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-opacity:1"
-     id="path83"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 443.34872,379.05432 c 72.5,0 74.40128,-94.76408 146.90128,-94.76408 v 4.21348 c -72.5,0 -74.40128,94.76408 -146.90128,94.76408 z"
-     style="opacity:0.5;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-opacity:1"
-     id="path85"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 443.34872,384.3386 c 72.5,0 74.40128,28.68891 146.90128,28.68891 v 0.47405 c -72.5,0 -74.40128,-28.68891 -146.90128,-28.68891 z"
-     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:1;stroke-opacity:0.2"
-     id="path87"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,420.13567 c 72.5,0 72.5,-44.0393 145,-44.0393 v 0.003 c -72.5,0 -72.5,44.0393 -145,44.0393 z"
-     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:1;stroke-opacity:1"
-     id="path89"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,420.11615 c 72.5,0 72.5,-131.18698 145,-131.18698 v 0.0195 c -72.5,0 -72.5,131.18698 -145,131.18698 z"
-     style="opacity:0.8;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:1;stroke-opacity:1"
-     id="path91"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     class="sankey-link"
-     d="m 445.25,420.13846 c 72.5,0 72.5,-6.63459 145,-6.63459 v 0.11155 c -72.5,0 -72.5,6.63458 -145,6.63458 z"
-     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:1;stroke-opacity:0.2"
-     id="path93" />
-  <g
-     id="g2416">
-    <rect
-       class="node-rect"
-       width="150"
-       height="219.21518"
-       style="fill:#4daf4a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect97"
-       x="0.25"
-       y="72.481003" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="75.307297"
-       y="176.78131"
-       text-anchor="start"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text99"><tspan
-         sodipodi:role="line"
-         id="tspan715"
-         x="75.307297"
-         y="176.78131">Conocido</tspan><tspan
-         sodipodi:role="line"
-         id="tspan717"
-         x="75.307297"
-         y="196.78131"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle">78613 (81.191%)</tspan></text>
-  </g>
-  <g
-     id="g2459">
-    <g
-       id="g2428">
-      <rect
-         class="node-rect"
-         width="150"
-         height="214.03687"
-         style="fill:#04d8b2;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-         id="rect103"
-         x="295.25"
-         y="0.25" />
-      <text
-         class="node-label"
-         data-notex="1"
-         x="370.17969"
-         y="102.05489"
-         text-anchor="start"
-         style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-         id="text105"><tspan
-           sodipodi:role="line"
-           id="tspan719"
-           x="370.17969"
-           y="102.05489">Cadáver conocido</tspan><tspan
-           sodipodi:role="line"
-           id="tspan721"
-           x="370.17969"
-           y="122.05489"
-           style="font-size:10.6667px;text-align:center;text-anchor:middle">76756 (79.273%)</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g2434">
-    <rect
-       class="node-rect"
-       width="150"
-       height="205.62944"
-       style="fill:#377eb8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect109"
-       x="590.25"
-       y="83.615005" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="665.30731"
-       y="181.12244"
-       text-anchor="end"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text111"><tspan
-         sodipodi:role="line"
-         id="tspan751"
-         x="665.30731"
-         y="181.12244">Masculino</tspan><tspan
-         sodipodi:role="line"
-         id="tspan753"
-         x="665.30731"
-         y="201.12244"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle">73741 (76.159%)</tspan></text>
-  </g>
-  <g
-     id="g2440">
-    <rect
-       class="node-rect"
-       width="150"
-       height="57.446632"
-       style="fill:#984ea3;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect115"
-       x="590.25"
-       y="319.245" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="665.3125"
-       y="342.66101"
-       text-anchor="end"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text117"><tspan
-         sodipodi:role="line"
-         id="tspan747"
-         x="665.3125"
-         y="342.66101">Femenino</tspan><tspan
-         sodipodi:role="line"
-         id="tspan749"
-         x="665.3125"
-         y="362.66101"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle">20601 (21.277%)</tspan></text>
-  </g>
-  <g
-     id="g2422">
-    <rect
-       class="node-rect"
-       width="150"
-       height="50.784817"
-       style="fill:#dbb40c;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect121"
-       x="0.25"
-       y="321.69601" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="74.929688"
-       y="341.78113"
-       text-anchor="start"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text123"><tspan
-         sodipodi:role="line"
-         id="tspan743"
-         x="74.929688"
-         y="341.78113">Desconocido</tspan><tspan
-         sodipodi:role="line"
-         id="tspan745"
-         x="74.929688"
-         y="361.78113"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle">18212 (18.809%)</tspan></text>
-  </g>
-  <g
-     id="g2488"
-     transform="translate(0,-44.093573)">
-    <rect
-       class="node-rect"
-       width="150"
-       height="7.9305964"
-       style="fill:#ff7f00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect133"
-       x="295.25"
-       y="382.186" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="369.92447"
-       y="379.72766"
-       text-anchor="start"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text135"><tspan
-         sodipodi:role="line"
-         id="tspan733"
-         x="369.92447"
-         y="379.72766"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle"><tspan
-   id="tspan763"
-   style="font-size:16px;text-align:center;text-anchor:middle">Feto  </tspan>2844 (2.937%)</tspan></text>
-  </g>
-  <g
-     id="g2446">
-    <rect
-       class="node-rect"
-       width="150"
-       height="6.9239349"
-       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect139"
-       x="590.25"
-       y="406.69101" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="665.21747"
-       y="404.23267"
-       text-anchor="end"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text141"><tspan
-         sodipodi:role="line"
-         id="tspan757"
-         x="665.21747"
-         y="404.23267"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle"><tspan
-   id="tspan767"
-   style="font-size:16px;text-align:center;text-anchor:middle">S-D  </tspan>2483 (2.564%)</tspan></text>
-  </g>
-  <g
-     id="g2465"
-     transform="translate(-1.3655748,134.76277)">
-    <rect
-       class="node-rect"
-       width="150"
-       height="5.758327"
-       style="fill:#f781bf;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect145"
-       x="295.25"
-       y="244.28699" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="369.92447"
-       y="241.82864"
-       text-anchor="start"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text147"><tspan
-         sodipodi:role="line"
-         id="tspan741"
-         x="369.92447"
-         y="241.82864"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle"><tspan
-   id="tspan759"
-   style="font-size:16px;text-align:center;text-anchor:middle">Miembros  </tspan>2065 (2.133%)</tspan></text>
-  </g>
-  <g
-     id="g2482"
-     transform="translate(0,-46.533515)">
-    <g
-       id="g2471">
-      <rect
-         class="node-rect"
-         width="150"
-         height="40.375214"
-         style="fill:#fdff52;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-         id="rect127"
-         x="295.25"
-         y="280.04501" />
-      <text
-         class="node-label"
-         data-notex="1"
-         x="370.17969"
-         y="295.01907"
-         text-anchor="start"
-         style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-         id="text129"><tspan
-           sodipodi:role="line"
-           id="tspan723"
-           x="370.17969"
-           y="295.01907">Cadáver desconocido</tspan><tspan
-           sodipodi:role="line"
-           id="tspan725"
-           x="370.17969"
-           y="315.01907"
-           style="font-size:10.6667px;text-align:center;text-anchor:middle">14479 (14.954%)</tspan></text>
-    </g>
-    <rect
-       class="node-rect"
-       width="150"
-       height="1.7651433"
-       style="fill:#c875c4;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect151"
-       x="295.25"
-       y="350.42001" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="369.92447"
-       y="347.96167"
-       text-anchor="start"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text153"><tspan
-         sodipodi:role="line"
-         id="tspan729"
-         x="369.92447"
-         y="347.96167"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle"><tspan
-   id="tspan761"
-   style="font-size:16px;text-align:center;text-anchor:middle">Recién nacido  </tspan>633 (0.654%)</tspan></text>
-  </g>
-  <g
-     id="g2452">
-    <rect
-       class="node-rect"
-       width="150"
-       height="0.5"
-       style="fill:#c85a53;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-       id="rect157"
-       x="295.25"
-       y="420.11603" />
-    <text
-       class="node-label"
-       data-notex="1"
-       x="370.20181"
-       y="417.65771"
-       text-anchor="start"
-       style="font-size:16px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1"
-       id="text159"><tspan
-         sodipodi:role="line"
-         id="tspan737"
-         x="370.20181"
-         y="417.65771"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle"><tspan
-   id="tspan765"
-   style="font-size:16px;text-align:center;text-anchor:middle">Óseos  </tspan>48 (0.05%)</tspan></text>
-  </g>
+     transform="translate(-172.07493,-146.36824)" />
   <defs
      id="topdefs-b49c38">
     <g
@@ -574,7 +114,7 @@
   <g
      class="layer-above"
      id="g174"
-     transform="translate(-79.75,-99.75)">
+     transform="translate(-172.07493,-146.36824)">
     <g
        class="imagelayer"
        id="g170" />
@@ -585,7 +125,7 @@
   <g
      class="infolayer"
      id="g182"
-     transform="translate(-79.75,-99.75)">
+     transform="translate(-172.07493,-146.36824)">
     <g
        class="g-gtitle"
        id="g178" />
@@ -593,4 +133,451 @@
        class="first-render"
        id="g180" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;opacity:0.8;fill:#000000;stroke-width:1.33333;paint-order:stroke fill markers"
+     x="226.77162"
+     y="10.213307"
+     id="text1873"><tspan
+       sodipodi:role="line"
+       id="tspan1871"
+       x="226.77162"
+       y="10.213307"
+       style="font-size:13.3333px">Ingresos al SEMEFO-DF por identificación, tipo  restos y sexo (1968-1982)</tspan></text>
+  <path
+     class="sankey-link"
+     d="m 92.025491,65.806754 c 44.404989,0 44.404989,-44.24033 88.809969,-44.24033 V 152.66029 c -44.40498,0 -44.40498,44.24028 -88.809969,44.24028 z"
+     style="opacity:0.5;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path41" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,196.71895 c 44.404989,0 44.404989,10.80451 88.809969,10.80451 v 0.0529 c -44.40498,0 -44.40498,-10.80451 -88.809969,-10.80451 z"
+     style="opacity:0.8;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path43"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,196.77191 c 44.404989,0 44.404989,31.77414 88.809969,31.77414 v 0.0529 c -44.40498,0 -44.40498,-31.77419 -88.809969,-31.77419 z"
+     style="opacity:0.8;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path45"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,196.90057 c 44.404989,0 44.404989,56.54888 88.809969,56.54888 v 3.06575 c -44.40498,0 -44.40498,-56.54888 -88.809969,-56.54888 z"
+     style="opacity:0.5;fill:#4daf4a;fill-opacity:1;stroke:#4daf4a;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path47"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,218.36692 c 44.404989,0 44.404989,-53.94706 88.809969,-53.94706 v 24.72915 c -44.40498,0 -44.40498,53.94701 -88.809969,53.94701 z"
+     style="opacity:0.5;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path49"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,243.09602 c 44.404989,0 44.404989,-35.5196 88.809969,-35.5196 v 1.02813 c -44.40498,0 -44.40498,35.51965 -88.809969,35.51965 z"
+     style="opacity:0.8;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path51"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,244.1242 c 44.404989,0 44.404989,-15.52519 88.809969,-15.52519 v 4.80438 c -44.40498,0 -44.40498,15.52519 -88.809969,15.52519 z"
+     style="opacity:0.5;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path53"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,249.07079 c 44.404989,0 44.404989,7.44441 88.809969,7.44441 v 0.46111 c -44.40498,0 -44.40498,-7.44441 -88.809969,-7.44441 z"
+     style="opacity:0.8;fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path55"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 92.025491,249.46951 c 44.404989,0 44.404989,29.25762 88.809969,29.25762 v 0.0822 c -44.40498,0 -44.40498,-29.25758 -88.809969,-29.25758 z"
+     style="fill:#dbb40c;fill-opacity:1;stroke:#dbb40c;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path57" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,121.20192 c 44.40499,0 44.40499,75.74329 88.80997,75.74329 v 30.6112 c -44.40498,0 -44.40498,-75.74324 -88.80997,-75.74324 z"
+     style="opacity:0.5;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path59"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,21.566424 c 44.40499,0 44.40499,31.05991 88.80997,31.05991 v 99.635446 c -44.40498,0 -44.40498,-31.05986 -88.80997,-31.05986 z"
+     style="opacity:0.5;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path61"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,151.81317 c 44.40499,0 44.40499,98.69158 88.80997,98.69158 v 0.84712 c -44.40498,0 -44.40498,-98.69158 -88.80997,-98.69158 z"
+     style="fill:#000000;fill-opacity:0.2;stroke:#444444;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path63"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,186.18722 c 44.40499,0 44.40499,41.34425 88.80997,41.34425 V 230.23 c -44.40498,0 -44.40498,-41.34425 -88.80997,-41.34425 z"
+     style="opacity:0.5;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path65"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,164.24887 c 44.40499,0 44.40499,-11.85632 88.80997,-11.85632 v 21.93834 c -44.40498,0 -44.40498,11.85633 -88.80997,11.85633 z"
+     style="opacity:0.5;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path67"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,188.88575 c 44.40499,0 44.40499,62.75648 88.80997,62.75648 v 0.0922 c -44.40498,0 -44.40498,-62.75648 -88.80997,-62.75648 z"
+     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.2"
+     id="path69"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,188.17076 c 44.40499,0 44.40499,42.37728 88.80997,42.37728 v 0.42885 c -44.40498,0 -44.40498,-42.37728 -88.80997,-42.37728 z"
+     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path71"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,207.52346 c 44.40499,0 44.40499,-33.19257 88.80997,-33.19257 v 0.64731 c -44.40498,0 -44.40498,33.19256 -88.80997,33.19256 z"
+     style="opacity:0.8;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path73"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,208.59946 c 44.40499,0 44.40499,43.13499 88.80997,43.13499 v 0.005 c -44.40498,0 -44.40498,-43.13499 -88.80997,-43.13499 z"
+     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.2"
+     id="path75"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,229.50569 c 44.40499,0 44.40499,1.47105 88.80997,1.47105 v 0.78901 c -44.40498,0 -44.40498,-1.47099 -88.80997,-1.47099 z"
+     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path77"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,228.37506 c 44.40499,0 44.40499,-53.39686 88.80997,-53.39686 v 1.13063 c -44.40498,0 -44.40498,53.39686 -88.80997,53.39686 z"
+     style="opacity:0.8;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path79"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,230.29476 c 44.40499,0 44.40499,21.44483 88.80997,21.44483 v 2.9376 c -44.40498,0 -44.40498,-21.44478 -88.80997,-21.44478 z"
+     style="fill:#000000;fill-opacity:0.2;stroke:#444444;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path81"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 271.54333,256.15816 c 44.40499,0 45.56949,-25.28962 89.97447,-25.28962 v 0.65582 c -44.40498,0 -45.56948,25.28963 -89.97447,25.28963 z"
+     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path83"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 271.54333,253.57745 c 44.40499,0 45.56949,-78.04134 89.97447,-78.04134 v 2.58071 c -44.40498,0 -45.56948,78.04134 -89.97447,78.04134 z"
+     style="opacity:0.5;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path85"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 271.54333,256.81399 c 44.40499,0 45.56949,-2.42852 89.97447,-2.42852 v 0.29026 c -44.40498,0 -45.56948,2.42858 -89.97447,2.42858 z"
+     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.2"
+     id="path87"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,278.73908 c 44.40499,0 44.40499,-46.97333 88.80997,-46.97333 v 0.002 c -44.40498,0 -44.40498,46.97328 -88.80997,46.97328 z"
+     style="opacity:0.8;fill:#984ea3;fill-opacity:1;stroke:#984ea3;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path89"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,278.72713 c 44.40499,0 44.40499,-100.34973 88.80997,-100.34973 v 0.0101 c -44.40498,0 -44.40498,100.34973 -88.80997,100.34973 z"
+     style="opacity:0.8;fill:#377eb8;fill-opacity:1;stroke:#377eb8;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="path91"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="sankey-link"
+     d="m 272.70783,278.74079 c 44.40499,0 44.40499,-24.0636 88.80997,-24.0636 v 0.0685 c -44.40498,0 -44.40498,24.06355 -88.80997,24.06355 z"
+     style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.2"
+     id="path93"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="134.26546"
+     style="fill:#4daf4a;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect97"
+     x="0.15312099"
+     y="65.806702" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="46.124397"
+     y="129.6888"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text99"><tspan
+       sodipodi:role="line"
+       id="tspan715"
+       x="46.124397"
+       y="129.6888"
+       style="font-size:13.3333px;stroke-width:0.612485">Conocido</tspan><tspan
+       sodipodi:role="line"
+       id="tspan717"
+       x="46.124397"
+       y="146.35542"
+       style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.612485">78613 (81.191%)</tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="131.09384"
+     style="fill:#04d8b2;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect103"
+     x="180.83543"
+     y="21.56642" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="226.72859"
+     y="83.920166"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text105"><tspan
+       sodipodi:role="line"
+       id="tspan719"
+       x="226.72859"
+       y="83.920166"
+       style="font-size:13.3333px;stroke-width:0.612485">Cadáver </tspan><tspan
+       sodipodi:role="line"
+       x="226.72859"
+       y="100.58679"
+       style="font-size:13.3333px;stroke-width:0.612485"
+       id="tspan7452">conocido</tspan><tspan
+       sodipodi:role="line"
+       id="tspan721"
+       x="226.72859"
+       y="117.25342"
+       style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.612485">76756 (79.273%)</tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="125.94444"
+     style="fill:#377eb8;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect109"
+     x="361.51782"
+     y="52.625713" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="407.48911"
+     y="112.34737"
+     text-anchor="end"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text111"><tspan
+       sodipodi:role="line"
+       id="tspan751"
+       x="407.48911"
+       y="112.34737"
+       style="font-size:13.3333px;stroke-width:0.612485">Masculino</tspan><tspan
+       sodipodi:role="line"
+       id="tspan753"
+       x="407.48911"
+       y="129.01399"
+       style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.612485">73741 (76.159%)</tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="35.185059"
+     style="fill:#984ea3;fill-opacity:0.8;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect115"
+     x="361.51782"
+     y="196.94498" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="407.49228"
+     y="211.2869"
+     text-anchor="end"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text117"><tspan
+       sodipodi:role="line"
+       id="tspan747"
+       x="407.49228"
+       y="211.2869"
+       style="font-size:13.3333px;stroke-width:0.612485">Femenino</tspan><tspan
+       sodipodi:role="line"
+       id="tspan749"
+       x="407.49228"
+       y="227.95352"
+       style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.612485">20601 (21.277%)</tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="31.104813"
+     style="fill:#dbb40c;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect121"
+     x="0.15312099"
+     y="218.4465" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="45.89312"
+     y="230.74826"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text123"><tspan
+       sodipodi:role="line"
+       id="tspan743"
+       x="45.89312"
+       y="230.74826"
+       style="font-size:13.3333px;stroke-width:0.612485">Desconocido</tspan><tspan
+       sodipodi:role="line"
+       id="tspan745"
+       x="45.89312"
+       y="247.41489"
+       style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.612485">18212 (18.809%)</tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="4.8573518"
+     style="fill:#ff7f00;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect133"
+     x="180.83543"
+     y="228.48901" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="226.57225"
+     y="226.98334"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text135"><tspan
+       sodipodi:role="line"
+       id="tspan733"
+       x="226.57225"
+       y="226.98334"
+       style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.612485">Feto  <tspan
+   style="font-size:10.6667px;stroke-width:0.612485"
+   id="tspan7460">2844 (2.937%)</tspan></tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="4.2407889"
+     style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect139"
+     x="361.51782"
+     y="250.50418" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="404.0322"
+     y="248.99844"
+     text-anchor="end"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text141"><tspan
+       sodipodi:role="line"
+       id="tspan757"
+       x="404.0322"
+       y="248.99844"
+       style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.612485">S-D  <tspan
+   style="font-size:10.6667px;stroke-width:0.612485"
+   id="tspan7454">2483 (2.564%)</tspan></tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="3.5268748"
+     style="fill:#f781bf;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect145"
+     x="179.99907"
+     y="253.57468" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="225.73586"
+     y="252.069"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text147"><tspan
+       sodipodi:role="line"
+       id="tspan741"
+       x="225.73586"
+       y="252.069"
+       style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.612485">Miembros  <tspan
+   style="font-size:10.6667px;stroke-width:0.612485"
+   id="tspan7458">2065 (2.133%)</tspan></tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="24.729111"
+     style="fill:#fdff52;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect127"
+     x="180.83543"
+     y="164.43504" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="226.72859"
+     y="174.74602"
+     text-anchor="start"
+     style="font-size:13.3333px;line-height:11.7165px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text129"><tspan
+       style="font-size:13.3333px;stroke-width:0.612485"
+       sodipodi:role="line"
+       id="tspan7464"
+       x="226.72859"
+       y="174.74602">Cadáver desconocido</tspan><tspan
+       sodipodi:role="line"
+       id="tspan725"
+       x="226.72859"
+       y="186.46252"
+       style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.612485">14479 (14.954%)</tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="1.0811193"
+     style="fill:#c875c4;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect151"
+     x="180.83543"
+     y="207.53851" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="226.57225"
+     y="206.03278"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text153"><tspan
+       sodipodi:role="line"
+       id="tspan729"
+       x="226.57225"
+       y="206.03278"
+       style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.612485">Recién nacido  <tspan
+   style="font-size:10.6667px;stroke-width:0.612485"
+   id="tspan7462">633 (0.654%)</tspan></tspan></text>
+  <rect
+     class="node-rect"
+     width="91.872375"
+     height="0.30624127"
+     style="fill:#c85a53;fill-opacity:1;stroke:#000000;stroke-width:0.306242;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     id="rect157"
+     x="180.83543"
+     y="278.72708" />
+  <text
+     class="node-label"
+     data-notex="1"
+     x="226.74214"
+     y="277.22141"
+     text-anchor="start"
+     style="font-size:13.3333px;font-family:'Open Sans', verdana, arial, sans-serif;text-align:center;text-anchor:middle;white-space:pre;fill:#2a3f5f;fill-opacity:1;stroke-width:0.612485;stroke-linecap:butt;stroke-linejoin:round"
+     id="text159"><tspan
+       sodipodi:role="line"
+       id="tspan737"
+       x="226.74214"
+       y="277.22141"
+       style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.612485">Óseos  <tspan
+   style="font-size:10.6667px;stroke-width:0.612485"
+   id="tspan7456">48 (0.05%)</tspan></tspan></text>
 </svg>

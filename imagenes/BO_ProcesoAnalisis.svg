@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1050.2062"
-   height="653.99146"
+   width="851.25177"
+   height="400.09598"
    version="1.1"
    id="svg266"
    sodipodi:docname="BO_ProcesoAnalisis.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/esther/Google Drive/SEMEFO_busqueda/imagenes/BO_ProcesoAnalisis.png"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="BO_ProcesoAnalisis.png"
    inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata272">
     <rdf:RDF>
@@ -24,7 +24,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +38,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1883"
-     inkscape:window-height="1056"
+     inkscape:window-width="1877"
+     inkscape:window-height="1047"
      id="namedview268"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="0.92287989"
-     inkscape:cx="185.16189"
-     inkscape:cy="387.18016"
+     inkscape:zoom="1.4866731"
+     inkscape:cx="445.62589"
+     inkscape:cy="199.77493"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,339 +53,197 @@
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
-     fit-margin-bottom="10" />
-  <rect
-     x="683.55249"
-     y="251.77335"
-     height="37.71711"
-     width="96.347198"
-     id="rect13-6"
-     style="fill:#e5d8bd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
-    <title
-       id="title11-7">Grupos de interés: 30</title>
-  </rect>
-  <rect
-     x="683.55249"
-     y="415.02847"
-     height="37.71711"
-     width="96.347198"
-     id="rect17-5"
-     style="fill:#eef4d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
-    <title
-       id="title15-3">Asociación a eventos: 30</title>
-  </rect>
-  <rect
-     x="683.55249"
-     y="-398.32721"
-     height="37.71711"
-     width="96.347198"
-     id="rect21-5"
-     style="fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title19-6">Confronta con BD: 30</title>
-  </rect>
-  <rect
-     x="683.55249"
-     y="306.19171"
-     height="37.71711"
-     width="96.347198"
-     id="rect25-2"
-     style="fill:#f4d7ee;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
-    <title
-       id="title23-9">Detección de patrones: 30</title>
-  </rect>
+     fit-margin-bottom="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <text
-     x="547.63141"
-     y="431.84274"
+     x="517.63141"
+     y="391.41141"
      id="text237"
-     style="text-anchor:start">
-    <tspan
+     style="text-anchor:start"><tspan
        alignment-baseline="middle"
-       x="547.63141"
+       x="517.63141"
        style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
-       id="tspan235" />
-  </text>
+       id="tspan235" /></text>
   <text
-     x="729.63141"
-     y="431.84274"
+     x="699.63141"
+     y="391.41141"
      id="text241"
-     style="text-anchor:end">
-    <tspan
+     style="text-anchor:end"><tspan
        alignment-baseline="middle"
-       x="729.63141"
+       x="699.63141"
        style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
-       id="tspan239" />
-  </text>
+       id="tspan239" /></text>
   <text
-     x="924.63141"
-     y="434.34274"
+     x="894.63141"
+     y="393.91141"
      id="text245"
-     style="text-anchor:end">
-    <tspan
+     style="text-anchor:end"><tspan
        alignment-baseline="middle"
-       x="924.63141"
+       x="894.63141"
        style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
-       id="tspan243" />
-  </text>
+       id="tspan243" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="256.73157"
-     y="24.929688"
+     x="227.5034"
+     y="12.256"
      id="text5086"><tspan
        sodipodi:role="line"
-       x="256.73157"
-       y="24.929688"
-       id="tspan5380"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Búsqueda</tspan><tspan
-       sodipodi:role="line"
-       x="256.73157"
-       y="44.929688"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-       id="tspan1201">masiva</tspan></text>
+       x="227.5034"
+       y="12.256"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+       id="tspan1201">Búsqueda masiva</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot5088"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
+     transform="translate(108.63141,11.828067)"><flowRegion
        id="flowRegion5090"><rect
          id="rect5092"
          width="68.728523"
          height="97.594505"
          x="507.90378"
          y="204.81099" /></flowRegion><flowPara
-       id="flowPara5094">Bitacoras onomásticasBitacoras onomásticas</flowPara></flowRoot>  <flowRoot
+       id="flowPara5094">Bitacoras onomásticasBitacoras onomásticas</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5185"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
+     transform="translate(108.63141,11.828067)"><flowRegion
        id="flowRegion5187"><rect
          id="rect5189"
          width="57.29211"
          height="81.792976"
          x="123.43995"
          y="20.707022" /></flowRegion><flowPara
-       id="flowPara5191" /></flowRoot>  <flowRoot
+       id="flowPara5191" /></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5205"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(108.63141,11.828067)"><flowRegion
        id="flowRegion5207"><rect
          id="rect5209"
          width="60.000008"
          height="92.5"
          x="120.73205"
          y="107.5" /></flowRegion><flowPara
-       id="flowPara5211" /></flowRoot>  <flowRoot
+       id="flowPara5211" /></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5213"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(108.63141,11.828067)"><flowRegion
        id="flowRegion5215"><rect
          id="rect5217"
          width="48.3904"
          height="82.329468"
          x="120.73205"
          y="107.5" /></flowRegion><flowPara
-       id="flowPara5219" /></flowRoot>  <flowRoot
+       id="flowPara5219" /></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5245"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(108.63141,11.828067)"><flowRegion
        id="flowRegion5247"><rect
          id="rect5249"
          width="50.542339"
          height="71.925636"
          x="124.41191"
          y="313.26941" /></flowRegion><flowPara
-       id="flowPara5251">AsociacAso</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot5273"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
-       id="flowRegion5275"><rect
-         id="rect5277"
-         width="55.348171"
-         height="83.005745"
-         x="125.38388"
-         y="409.49426" /></flowRegion><flowPara
-       id="flowPara5279">Confron-Conf</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot5281"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
-       id="flowRegion5283"><rect
-         id="rect5285"
-         width="55.348171"
-         height="83.005745"
-         x="125.38388"
-         y="409.49426" /></flowRegion><flowPara
-       id="flowPara5287">Confron-C</flowPara></flowRoot>  <flowRoot
+       id="flowPara5251">AsociacAso</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5382"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(138.63139,52.259402)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(108.63141,11.828067)"><flowRegion
        id="flowRegion5384"><rect
          id="rect5386"
          width="55.201859"
          height="104.93532"
          x="372.46411"
          y="211.25" /></flowRegion><flowPara
-       id="flowPara5388" /></flowRoot>  <rect
-     x="446.26141"
-     y="-428.74557"
-     height="152.97227"
-     width="95.643341"
-     id="rect37"
-     style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title35">Posibles hallazgos: 50</title>
-  </rect>
+       id="flowPara5388" /></flowRoot>
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3cde3;stroke-width:30.83333397;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3cde3;stroke-width:28.6358;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path97"
-     d="m 305.26147,628.57479 c 63.33333,0 76.6666,-214 139.99993,-214"
+     d="m 275.26149,385.72326 c 54.28574,0 65.71426,-113.18908 120,-113.18908"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill-opacity:1;stroke:#fff6d5;stroke-width:30.83333397;stroke-opacity:0.58823532;fill:none"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#fff6d5;stroke-width:28.6358;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path103"
-     d="m 305.26147,518.04865 c 63.33333,0 76.6666,-130 139.99993,-130"
+     d="m 275.26149,317.39526 c 54.28574,0 65.71426,-71.55419 120,-71.55419"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#decbe4;stroke-width:30.83333397;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#decbe4;stroke-width:28.6358;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path109"
-     d="m 305.26147,407.52249 c 63.33333,0 76.6666,-44 139.99993,-44"
+     d="m 275.26149,248.991 c 54.28574,0 65.71426,-27.83047 120,-27.83047"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#fed9a6;stroke-width:30.83333397;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#fed9a6;stroke-width:28.6358;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path115"
-     d="m 305.26147,296.99633 c 63.33333,0 76.6666,42 139.99993,42"
+     d="m 275.26149,171.29158 c 54.28574,0 65.71426,25.18841 120,25.18841"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#ccebc5;stroke-width:30.83333397;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#ccebc5;stroke-width:28.6358;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path121"
-     d="m 305.26147,186.47018 c 63.33333,0 76.6666,128 139.99993,128"
+     d="m 275.26149,102.88734 c 54.28574,0 65.71426,68.91212 120,68.91212"
      sodipodi:nodetypes="cc" />
   <rect
-     x="208.63138"
-     y="-349.52631"
-     height="92.355537"
-     width="95.630089"
-     id="rect9"
-     style="fill:#fed9a6;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title7">Filtrar por valores: 30</title>
-  </rect>
-  <rect
-     x="208.63138"
-     y="-545.16974"
-     height="92.355537"
-     width="95.630089"
-     id="rect13"
-     style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title11">Grupos de interés: 30</title>
-  </rect>
-  <rect
-     x="208.63138"
-     y="-251.70459"
-     height="92.355537"
-     width="95.630089"
-     id="rect17"
-     style="fill:#ccebc5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title15">Asociación a eventos: 30</title>
-  </rect>
-  <rect
-     x="208.63138"
-     y="-642.99146"
-     height="92.355537"
-     width="95.630089"
-     id="rect21"
-     style="fill:#b3cde3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title19">Confronta con BD: 30</title>
-  </rect>
-  <rect
-     x="208.63138"
-     y="-447.34802"
-     height="92.355537"
-     width="95.630089"
-     id="rect25"
-     style="fill:#decbe4;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title23">Detección de patrones: 30</title>
-  </rect>
-  <rect
-     x="208.63138"
-     y="-153.88287"
-     height="92.355537"
-     width="95.630089"
-     id="rect29"
-     style="fill:#fbb4ae;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(1,-1)">
-    <title
-       id="title27">Datos faltantes: 30</title>
-  </rect>
-  <rect
-     x="11"
-     y="-629.15625"
-     height="553.79364"
-     width="95.631393"
+     x="1.01215"
+     y="-395.53748"
+     height="370.88565"
+     width="97.9757"
      id="rect57"
-     style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2.0243;stroke-miterlimit:4;stroke-dasharray:none"
      transform="scale(1,-1)">
     <title
        id="title55">Bitacoras onomásticas: 180</title>
   </rect>
   <path
-     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:93;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:53.7568;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path61"
-     d="m 107.63139,584.24119 c 50,0 50,13.25029 100,13.25029" />
+     d="m 97.631387,367.68361 c 40.000003,0 40.000003,5.53395 80.000003,5.53395" />
   <path
-     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:93;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:53.8984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path67"
-     d="m 107.63139,491.42736 c 50,0 50,7.95017 100,7.95017" />
+     d="m 97.631387,304.6399 c 40.000003,0 40.000003,3.3379 80.000003,3.3379" />
   <path
-     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:93;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:54.06;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path73"
-     d="m 107.63139,398.61353 c 50,0 50,2.65006 100,2.65006" />
+     d="m 97.631387,241.6074 c 40.000003,0 40.000003,1.11933 80.000003,1.11933" />
   <path
-     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:93;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:54.06;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path79"
-     d="m 107.63139,305.90528 c 50,0 50,-2.65006 100,-2.65006" />
+     d="m 97.631387,178.58497 c 40.000003,0 40.000003,-1.11934 80.000003,-1.11934" />
   <path
-     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:93;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:53.8984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path85"
-     d="m 107.63139,213.09146 c 50,0 50,-7.95017 100,-7.95017" />
+     d="m 97.631387,115.55248 c 40.000003,0 40.000003,-3.3379 80.000003,-3.3379" />
   <path
-     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:93;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
+     style="mix-blend-mode:multiply;fill:none;stroke:#cccccc;stroke-width:53.7503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path91"
-     d="m 107.63139,120.29837 c 50,0 50,-13.27102 100,-13.27102"
+     d="m 97.631387,52.512414 c 40.000003,0 40.000003,-5.541269 80.000003,-5.541269"
      sodipodi:nodetypes="cc" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot5096"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-486.60813,128.82193)"><flowRegion
+     transform="translate(-496.66866,-4.2483142)"><flowRegion
        id="flowRegion5098"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000"><rect
          id="rect5100"
@@ -396,15 +253,27 @@
          y="185.56702"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000" /></flowRegion><flowPara
        id="flowPara5106"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000">Bitácoras</flowPara><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000">Bitácoras</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000"
        id="flowPara4977" /><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000"
-       id="flowPara4979">onomás-ticas</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000"
+       id="flowPara4979">onomás-ticas</flowPara></flowRoot>
+  <rect
+     x="178.43799"
+     y="-335.29263"
+     height="58.40316"
+     width="98.386803"
+     id="rect13"
+     style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:1.6132;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title11">Grupos de interés: 30</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5193"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(93.52813,462.92036)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.0244758,0,0,0.99994887,60.753689,269.61426)"><flowRegion
        id="flowRegion5195"><rect
          id="rect5197"
          width="79.303131"
@@ -414,11 +283,23 @@
        style="text-align:center;text-anchor:middle"
        id="flowPara5201">Datos</flowPara><flowPara
        style="text-align:center;text-anchor:middle"
-       id="flowPara5203">faltantes</flowPara></flowRoot>  <flowRoot
+       id="flowPara5203">faltantes</flowPara></flowRoot>
+  <rect
+     x="178.43799"
+     y="-143.30247"
+     height="58.40316"
+     width="98.386803"
+     id="rect17"
+     style="fill:#ccebc5;fill-opacity:1;stroke:#000000;stroke-width:1.6132;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title15">Asociación a eventos: 30</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5221"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(110.18764,74.533993)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.0244758,0,0,0.99994887,77.970086,-17.190668)"><flowRegion
        id="flowRegion5223"><rect
          id="rect5225"
          width="51.306301"
@@ -427,11 +308,23 @@
          y="107.5" /></flowRegion><flowPara
        id="flowPara5269">Filtrar</flowPara><flowPara
        id="flowPara5271">por</flowPara><flowPara
-       id="flowPara5231">valores</flowPara></flowRoot>  <flowRoot
+       id="flowPara5231">valores</flowPara></flowRoot>
+  <rect
+     x="178.43799"
+     y="-207.29921"
+     height="58.40316"
+     width="98.386803"
+     id="rect9"
+     style="fill:#fed9a6;fill-opacity:1;stroke:#000000;stroke-width:1.6132;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title7">Filtrar por valores: 30</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5233"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(103.339,62.693592)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.0244758,0,0,0.99994887,70.71729,-62.973246)"><flowRegion
        id="flowRegion5235"><rect
          id="rect5237"
          width="55.348175"
@@ -440,11 +333,23 @@
          y="217.04457" /></flowRegion><flowPara
        id="flowPara5265">Grupos</flowPara><flowPara
        id="flowPara5267">de</flowPara><flowPara
-       id="flowPara5243">interes</flowPara></flowRoot>  <flowRoot
+       id="flowPara5243">interes</flowPara></flowRoot>
+  <rect
+     x="178.43799"
+     y="-271.29593"
+     height="58.40316"
+     width="98.386803"
+     id="rect25"
+     style="fill:#decbe4;fill-opacity:1;stroke:#000000;stroke-width:1.6132;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title23">Detección de patrones: 30</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5253"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(91.643365,68.148782)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.0244758,0,0,0.99994887,58.820952,-91.442475)"><flowRegion
        id="flowRegion5255"><rect
          id="rect5257"
          width="79.866447"
@@ -452,11 +357,23 @@
          x="125.38388"
          y="318.12924" /></flowRegion><flowPara
        id="flowPara5261">Asociación</flowPara><flowPara
-       id="flowPara5263">eventos</flowPara></flowRoot>  <flowRoot
+       id="flowPara5263">eventos</flowPara></flowRoot>
+  <rect
+     x="178.43799"
+     y="-399.28937"
+     height="58.40316"
+     width="98.386803"
+     id="rect21"
+     style="fill:#b3cde3;fill-opacity:1;stroke:#000000;stroke-width:1.6132;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title19">Confronta con BD: 30</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5289"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(76.866347,73.937382)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.0244758,0,0,0.99994887,43.636714,-153.53515)"><flowRegion
        id="flowRegion5291"
        style="text-align:center;text-anchor:middle"><rect
          id="rect5293"
@@ -465,14 +382,26 @@
          x="125.38388"
          y="506.69107"
          style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowPara5358">Detección</flowPara><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="flowPara5360">patrones</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowPara5360">patrones</flowPara></flowRoot>
+  <rect
+     x="178.43799"
+     y="-79.305748"
+     height="58.40316"
+     width="98.386803"
+     id="rect29"
+     style="fill:#fbb4ae;fill-opacity:1;stroke:#000000;stroke-width:1.6132;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title27">Datos faltantes: 30</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5301"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(78.660944,-327.22522)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.0244758,0,0,0.99994887,45.394295,-385.07602)"><flowRegion
        id="flowRegion5303"><rect
          id="rect5305"
          width="101.37683"
@@ -481,11 +410,41 @@
          y="411.4382" /></flowRegion><flowPara
        id="flowPara5309">Confronta</flowPara><flowPara
        id="flowPara5311">bases</flowPara><flowPara
-       id="flowPara972">datos</flowPara></flowRoot>  <flowRoot
+       id="flowPara972">datos</flowPara></flowRoot>
+  <path
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#fbb4ae;stroke-width:28.6358;stroke-opacity:0.588235"
+     inkscape:connector-curvature="0"
+     id="path121-3"
+     d="m 275.26149,34.413924 c 54.28574,0 65.71426,112.704986 120,112.704986"
+     sodipodi:nodetypes="cc" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1119"
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-22.368587,20.096015)"><flowRegion
+       id="flowRegion1121"><rect
+         id="rect1123"
+         width="96.347229"
+         height="37.717102"
+         x="675.92108"
+         y="191.24597" /></flowRegion><flowPara
+       id="flowPara1125" /></flowRoot>
+  <rect
+     x="396.27356"
+     y="-286.30215"
+     height="152.9482"
+     width="97.975922"
+     id="rect37"
+     style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:2.02408;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title35">Posibles hallazgos: 50</title>
+  </rect>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot5390"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(76.196365,121.20475)"><flowRegion
+     transform="translate(27.347759,-21.819946)"><flowRegion
        id="flowRegion5392"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"><rect
          id="rect5394"
@@ -495,15 +454,40 @@
          y="211.25"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'" /></flowRegion><flowPara
        id="flowPara5398"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Posibles</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Posibles</flowPara><flowPara
        id="flowPara978"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">hallazgos</flowPara></flowRoot>  <rect
-     x="922.02747"
-     y="-381.13174"
-     height="57.744556"
-     width="117.05098"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">hallazgos</flowPara></flowRoot>
+  <path
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#e5d8bd;stroke-width:31.9542;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
+     inkscape:connector-curvature="0"
+     id="path103-1"
+     d="m 572.90484,124.31906 c -26.66666,0 -53.33334,28.19519 -80,28.19519"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#f4d7ee;stroke-width:33.3818;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
+     inkscape:connector-curvature="0"
+     id="path109-2"
+     d="m 572.90484,180.89579 c -26.66666,0 -53.33334,10.25698 -80,10.25698"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#d5f6ff;stroke-width:33.3818;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
+     inkscape:connector-curvature="0"
+     id="path115-7"
+     d="m 572.90484,238.7604 c -26.66666,0 -53.33334,-10.25698 -80,-10.25698"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#eef4d7;stroke-width:31.9541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
+     inkscape:connector-curvature="0"
+     id="path121-0"
+     d="m 572.90484,295.33713 c -26.66667,0 -53.33333,-28.19521 -80,-28.19521"
+     sodipodi:nodetypes="cc" />
+  <rect
+     x="752.28497"
+     y="-238.79489"
+     height="57.933575"
+     width="97.933571"
      id="rect5"
-     style="fill:#b3de69;fill-opacity:1;stroke:#000000;stroke-width:2.255445;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#b3de69;fill-opacity:1;stroke:#000000;stroke-width:2.06643;stroke-miterlimit:4;stroke-dasharray:none"
      transform="scale(1,-1)">
     <title
        id="title3">Notificación a familiares: 10</title>
@@ -511,65 +495,81 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     x="980.4436"
-     y="348.54462"
+     x="801.12378"
+     y="206.11327"
      id="text5433"><tspan
        sodipodi:role="line"
-       x="980.4436"
-       y="348.54462"
+       x="801.12378"
+       y="206.11327"
        id="tspan5435"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Notificación</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Notificación</tspan><tspan
        sodipodi:role="line"
-       x="980.4436"
-       y="368.54462"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+       x="801.12378"
+       y="226.11327"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
        id="tspan4947">familiares</tspan></text>
-  <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#fbb4ae;stroke-width:30.83333397;stroke-opacity:0.58823532"
-     inkscape:connector-curvature="0"
-     id="path121-3"
-     d="m 305.26147,75.94401 c 63.33333,0 76.6666,214 139.99993,214"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#e5d8bd;stroke-width:39;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
-     inkscape:connector-curvature="0"
-     id="path103-1"
-     d="m 682.9044,270.27332 c -46.66653,0 -93.33306,24 -139.99959,24"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#f4d7ee;stroke-width:39;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
-     inkscape:connector-curvature="0"
-     id="path109-2"
-     d="m 682.9044,324.93074 c -46.66653,0 -93.33306,8 -139.99959,8"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#d5f6ff;stroke-width:39;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
-     inkscape:connector-curvature="0"
-     id="path115-7"
-     d="m 682.9044,379.58817 c -46.66653,0 -93.33306,-8 -139.99959,-8"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#eef4d7;stroke-width:39;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823532"
-     inkscape:connector-curvature="0"
-     id="path121-0"
-     d="m 682.9044,434.24558 c -46.66667,0 -93.33333,-24 -140,-24"
-     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="621.96899"
+     y="82.181961"
+     id="text5086-9"><tspan
+       sodipodi:role="line"
+       x="621.96899"
+       y="82.181961"
+       id="tspan5380-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Revisión</tspan><tspan
+       sodipodi:role="line"
+       x="621.96899"
+       y="102.18196"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+       id="tspan1199">manual</tspan></text>
+  <rect
+     x="573.91321"
+     y="109.35042"
+     height="37.713951"
+     width="97.983177"
+     id="rect13-6"
+     style="fill:#e5d8bd;fill-opacity:1;stroke:#000000;stroke-width:2.01682;stroke-miterlimit:4;stroke-dasharray:none">
+    <title
+       id="title11-7">Grupos de interés: 30</title>
+  </rect>
+  <rect
+     x="573.91321"
+     y="272.59186"
+     height="37.713951"
+     width="97.983177"
+     id="rect17-5"
+     style="fill:#eef4d7;fill-opacity:1;stroke:#000000;stroke-width:2.01682;stroke-miterlimit:4;stroke-dasharray:none">
+    <title
+       id="title15-3">Asociación a eventos: 30</title>
+  </rect>
+  <rect
+     x="573.91321"
+     y="-255.89198"
+     height="37.713951"
+     width="97.983177"
+     id="rect21-5"
+     style="fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:2.01682;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)">
+    <title
+       id="title19-6">Confronta con BD: 30</title>
+  </rect>
+  <rect
+     x="573.91321"
+     y="163.76422"
+     height="37.713951"
+     width="97.983177"
+     id="rect25-2"
+     style="fill:#f4d7ee;fill-opacity:1;stroke:#000000;stroke-width:2.01682;stroke-miterlimit:4;stroke-dasharray:none">
+    <title
+       id="title23-9">Detección de patrones: 30</title>
+  </rect>
   <flowRoot
      xml:space="preserve"
-     id="flowRoot1119"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(7.6313953,60.527351)"><flowRegion
-       id="flowRegion1121"><rect
-         id="rect1123"
-         width="96.347229"
-         height="37.717102"
-         x="675.92108"
-         y="191.24597" /></flowRegion><flowPara
-       id="flowPara1125" /></flowRoot>  <flowRoot
-     xml:space="preserve"
      id="flowRoot1127"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(18.664878,139.02512)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-90.088158,-3.4062312)"><flowRegion
        id="flowRegion1129"><rect
          id="rect1131"
          width="71.515266"
@@ -577,33 +577,36 @@
          x="677.22791"
          y="116.44775" /></flowRegion><flowPara
        id="flowPara1133">Hojas</flowPara><flowPara
-       id="flowPara1135">amarillas</flowPara></flowRoot>  <flowRoot
+       id="flowPara1135">amarillas</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot1137"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(7.5825233,71.533509)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-101.29655,-70.897843)"><flowRegion
        id="flowRegion1139"><rect
          id="rect1141"
          width="96.347229"
          height="37.717102"
          x="675.92108"
          y="354.50113" /></flowRegion><flowPara
-       id="flowPara1143">Bibliografía</flowPara></flowRoot>  <flowRoot
+       id="flowPara1143">Bibliografía</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot1145"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-103.20849,49.292882)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-212.08756,-93.13847)"><flowRegion
        id="flowRegion1147"><rect
          id="rect1149"
          width="100.77151"
          height="39.008327"
          x="784.50079"
          y="322.32504" /></flowRegion><flowPara
-       id="flowPara1151">Hemerografía</flowPara></flowRoot>  <flowRoot
+       id="flowPara1151">Hemerografía</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot1153"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-106.71337,31.992333)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-215.45188,-110.43902)"><flowRegion
        id="flowRegion1155"><rect
          id="rect1157"
          width="96.437248"
@@ -611,44 +614,29 @@
          x="789.91864"
          y="277.8989" /></flowRegion><flowPara
        id="flowPara1159">Archivos</flowPara><flowPara
-       id="flowPara1161">instituciones</flowPara></flowRoot>  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="731.6167"
-     y="215.17569"
-     id="text5086-9"><tspan
-       sodipodi:role="line"
-       x="731.6167"
-       y="215.17569"
-       id="tspan5380-3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Revisión</tspan><tspan
-       sodipodi:role="line"
-       x="731.6167"
-       y="235.17569"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-       id="tspan1199">manual</tspan></text>
+       id="flowPara1161">instituciones</flowPara></flowRoot>
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:7.60725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path103-1-6"
-     d="m 780.89968,258.27338 c 46.66655,0 93.33309,72 139.99964,72"
+     d="m 671.25199,114.64564 c 26.66659,0 53.33318,72.91651 79.99977,72.91651"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:7.60725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path109-2-0"
-     d="m 780.89968,320.93079 c 46.66655,0 93.33309,24 139.99964,24"
+     d="m 671.25199,178.10064 c 26.66659,0 53.33318,24.3055 79.99977,24.3055"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:7.60725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path115-7-6"
-     d="m 780.89968,383.58819 c 46.66655,0 93.33309,-24 139.99964,-24"
+     d="m 671.25199,241.55562 c 26.66659,0 53.33318,-24.3055 79.99977,-24.3055"
      sodipodi:nodetypes="cc" />
   <path
-     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
+     style="mix-blend-mode:multiply;fill:none;fill-opacity:1;stroke:#b3de69;stroke-width:7.60725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
      inkscape:connector-curvature="0"
      id="path121-0-2"
-     d="m 780.89968,446.2456 c 46.66668,0 93.33336,-72 140.00004,-72"
+     d="m 671.25199,305.01062 c 26.66666,0 53.33334,-72.91651 80,-72.91651"
      sodipodi:nodetypes="cc" />
 </svg>

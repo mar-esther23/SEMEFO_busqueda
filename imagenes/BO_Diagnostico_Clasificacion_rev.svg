@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="274.37994pt"
+   height="247.46161pt"
+   viewBox="0 0 274.37995 247.4616"
+   version="1.1"
+   id="svg588"
+   sodipodi:docname="BO_Diagnostico_Clasificacion_rev.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="BO_Diagnostico_Clasificacion_rev.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview590"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.8880208"
+     inkscape:cx="99.575174"
+     inkscape:cy="175.31587"
+     inkscape:window-width="1877"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg588" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2025-10-21T09:12:20.452914</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="matplotlib.axis_1"
+     transform="translate(-124.56022,-33.511197)" />
+  <g
+     id="matplotlib.axis_2"
+     transform="translate(-124.56022,-33.511197)" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+     x="137.12997"
+     y="9.1920004"
+     id="text873"><tspan
+       sodipodi:role="line"
+       id="tspan871"
+       style="font-size:12px;stroke-width:0.749999"
+       x="137.12997"
+       y="9.1920004">Clasificación de diagnósticos de causa de muerte</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:0.749999"
+       x="137.12997"
+       y="24.191999"
+       id="tspan4885">de los ingresos al SEMEFO-DF (1974-1978)</tspan></text>
+  <g
+     id="g4943"
+     transform="translate(-124.56022,-33.511197)">
+    <g
+       id="patch_2"
+       style="opacity:0.8">
+      <path
+         d="m 239.73738,68.143328 c -14.12075,-0.474837 -28.19574,1.866475 -41.40234,6.887093 -13.20661,5.020619 -25.28243,12.620808 -35.52162,22.356318 -10.23919,9.735511 -18.43831,21.412891 -24.11816,34.349671 -5.67986,12.93678 -8.72757,26.8759 -8.96502,41.00264 -0.23746,14.12673 2.34007,28.16041 7.58194,41.28077 5.24187,13.12036 13.0439,25.06671 22.95011,35.14083 9.90622,10.07413 21.71977,18.07586 34.75018,23.53749 13.03041,5.46163 27.01879,8.27466 41.14752,8.27466 l 1e-5,-106.4448 z"
+         style="fill:#1f77b4"
+         id="path11" />
+    </g>
+    <g
+       id="patch_3"
+       style="opacity:0.8">
+      <path
+         d="m 306.93536,95.021122 c -9.21594,-8.20384 -19.78851,-14.74318 -31.24453,-19.325348 -11.45602,-4.582169 -23.622,-7.137776 -35.95345,-7.552446 L 236.16,174.528 Z"
+         style="fill:#ff7f0e"
+         id="path14" />
+    </g>
+    <g
+       id="patch_4"
+       style="opacity:0.8">
+      <path
+         d="m 337.43751,141.76579 c -2.90135,-8.96889 -6.98126,-17.51274 -12.13259,-25.40719 -5.15134,-7.89445 -11.32863,-15.06978 -18.36956,-21.337478 L 236.16,174.528 Z"
+         style="fill:#d62728;fill-opacity:1"
+         id="path17" />
+    </g>
+    <g
+       id="patch_5"
+       style="opacity:0.8">
+      <path
+         d="m 342.39331,181.23454 c 0.42049,-6.66062 0.21363,-13.34605 -0.61783,-19.96793 -0.83146,-6.62188 -2.28385,-13.15092 -4.33797,-19.50082 L 236.16,174.528 Z"
+         style="fill:#2ca02c;fill-opacity:1"
+         id="path20" />
+    </g>
+    <g
+       id="patch_6"
+       style="opacity:0.8">
+      <path
+         d="m 337.26024,207.83321 c 1.41698,-4.30133 2.558,-8.68868 3.41613,-13.13535 0.85813,-4.44667 1.43162,-8.9436 1.71694,-13.46332 L 236.16,174.528 Z"
+         style="fill:#9467bd"
+         id="path23" />
+    </g>
+    <g
+       id="patch_7"
+       style="opacity:0.8">
+      <path
+         d="m 327.17465,229.72608 c 2.0883,-3.44333 3.9795,-7.0024 5.6645,-10.66003 1.68499,-3.65764 3.16106,-7.40795 4.42109,-11.23284 L 236.16,174.528 Z"
+         style="fill:#8c564b"
+         id="path26" />
+    </g>
+    <g
+       id="patch_8"
+       style="opacity:0.8">
+      <path
+         d="m 316.16194,244.74327 c 2.0503,-2.33607 3.99732,-4.76085 5.83541,-7.26732 1.8381,-2.50647 3.56551,-5.09223 5.1773,-7.74987 L 236.16,174.528 Z"
+         style="fill:#e377c2"
+         id="path29" />
+    </g>
+    <g
+       id="patch_9"
+       style="opacity:0.8">
+      <path
+         d="m 236.16001,280.9728 c 15.14438,0 30.11583,-3.23199 43.91153,-9.47949 13.79569,-6.24749 26.10056,-15.36781 36.0904,-26.75004 L 236.16,174.528 Z"
+         style="fill:#7f7f7f"
+         id="path32" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="195.65508"
+       y="171.173"
+       id="text927"><tspan
+         sodipodi:role="line"
+         id="tspan925"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="195.65508"
+         y="171.173">Traumatismos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="195.65508"
+         y="183.67297"
+         id="tspan2545">(20120)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="313.94534"
+       y="75.383316"
+       id="text1771"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="313.94534"
+         y="75.383316"
+         id="tspan2547">Causas externas</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="313.94534"
+         y="87.883293"
+         id="tspan4899">(4396)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="358.93512"
+       y="110.93674"
+       id="text1775"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="358.93512"
+         y="110.93674"
+         id="tspan4887">Herida arma</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="358.93512"
+         y="123.43671"
+         id="tspan2549">fuego (3362)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="367.81021"
+       y="149.13577"
+       id="text1779"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="367.81021"
+         y="149.13577"
+         id="tspan2551">Respiratorio</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="367.81021"
+         y="161.63574"
+         id="tspan4895">(2382)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="363.99823"
+       y="187.90147"
+       id="text1783"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="363.99823"
+         y="187.90147"
+         id="tspan2553">Digestivo</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="363.99823"
+         y="200.40144"
+         id="tspan4897">(1617)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="359.2002"
+       y="214.14717"
+       id="text1787"><tspan
+         sodipodi:role="line"
+         id="tspan1785"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="359.2002"
+         y="214.14717">Hallazgos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="359.2002"
+         y="226.64714"
+         id="tspan4883">anormales</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="359.2002"
+         y="239.14713"
+         id="tspan2555">(1438)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="335.9946"
+       y="252.89285"
+       id="text1791"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="335.9946"
+         y="252.89285"
+         id="tspan2557">Periodo</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="335.9946"
+         y="265.39282"
+         id="tspan4881">perinatal (1110)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       x="257.69998"
+       y="227.3354"
+       id="text2502"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="257.69998"
+         y="227.3354"
+         id="tspan4873">Otros</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.749999"
+         x="257.69998"
+         y="239.83537"
+         id="tspan4877">(5389)</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:9.99998px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.749999;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+     x="-0.50999898"
+     y="245.88159"
+     id="text2563"><tspan
+       sodipodi:role="line"
+       style="text-align:start;text-anchor:start;stroke-width:0.749999"
+       x="-0.50999898"
+       y="245.88159"
+       id="tspan2683">S-D* (57030)</tspan></text>
+</svg>

@@ -41,6 +41,22 @@ def replace_by_column(df, dic_replace):
             df[col] = df[col].replace(replace)
     return df
 
+def collapse_low_frequency(data, n_rows, collapse_text="Otros"):
+    top_n = data.iloc[:n_rows]
+    collapse = data.iloc[n_rows:]
+    if collapse.empty:
+        return top_n
+    if isinstance(data, pd.Series):
+        collapse = pd.Series([collapse.sum()], index=[collapse_text])
+    elif isinstance(data, pd.DataFrame):
+        collapse = collapse.sum(numeric_only=True)
+        collapse = pd.DataFrame(collapse).T
+        collapse.index = [collapse_text]
+        for col in data.columns:
+            if col not in collapse.columns:
+                collapse[col] = collapse_text
+    return pd.concat([top_n, collapse])
+
 
 def groupby_column_values_and_separate_low_freq(df, target_col, min_rows=10, low_freq_label='low frequency'):
     high_freq = df[target_col].value_counts()

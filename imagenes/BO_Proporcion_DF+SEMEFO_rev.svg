@@ -5,7 +5,7 @@
    viewBox="0 0 391.10773 261.78855"
    version="1.1"
    id="svg1213"
-   sodipodi:docname="BO_Proporcion_DF+SEMEFO.svg"
+   sodipodi:docname="BO_Proporcion_DF+SEMEFO_rev.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    inkscape:export-filename="BO_Proporcion_DF+SEMEFO.png"
    inkscape:export-xdpi="200"
@@ -30,7 +30,7 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.6360936"
-     inkscape:cx="179.39072"
+     inkscape:cx="158.60951"
      inkscape:cy="168.08329"
      inkscape:window-width="1877"
      inkscape:window-height="1047"
@@ -1243,14 +1243,14 @@
   <text
      xml:space="preserve"
      style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;opacity:0.8;fill:#000000;stroke:none;stroke-width:1.49953;stroke-linecap:butt;stroke-linejoin:round;paint-order:stroke fill markers"
-     x="213.44225"
+     x="207.38177"
      y="9.1920004"
      id="text8992"><tspan
        sodipodi:role="line"
        id="tspan8990"
        style="font-size:12px;fill:#000000;stroke:none;stroke-width:1.49953"
-       x="213.44225"
-       y="9.1920004">Proporción de ingresos por grupo de edad</tspan></text>
+       x="207.38177"
+       y="9.1920004">Proporción ingresos al SEMEFO y decesos en el DF (1974-1978)</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;opacity:0.8;fill:#000000;stroke:none;stroke-width:1.49953;stroke-linecap:butt;stroke-linejoin:round;paint-order:stroke fill markers"
